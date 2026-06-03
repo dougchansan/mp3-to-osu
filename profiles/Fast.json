@@ -1,0 +1,58 @@
+{
+  "mapper": "Fast",
+  "n_maps": 6,
+  "n_objects_total": 1903,
+  "bpm_mean": 185.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.5833,
+  "ar_mean": 6.85,
+  "od_mean": 5.8667,
+  "circle_ratio": 0.4177,
+  "slider_ratio": 0.5721,
+  "spinner_ratio": 0.0102,
+  "rhythm_hist": {
+    "1/4": 0.1463,
+    "1/3": 0.0011,
+    "1/2": 0.1747,
+    "2/3": 0.0014,
+    "3/4": 0.0097,
+    "1/1": 0.3376,
+    "3/2": 0.058,
+    "2/1": 0.1765,
+    "2+": 0.0947
+  },
+  "type_transitions": {
+    "circle>circle": 0.2221,
+    "circle>slider": 0.1926,
+    "slider>circle": 0.197,
+    "slider>slider": 0.3747,
+    "slider>spinner": 0.0032,
+    "circle>spinner": 0.0046,
+    "spinner>slider": 0.0053,
+    "spinner>spinner": 0.0005
+  },
+  "spacing_slope": 2.2011,
+  "spacing_intercept": 1.156,
+  "spacing_slope_std": 1.1916,
+  "jump_factor": 3.1246,
+  "mean_turn_deg": 79.2217,
+  "flow_ratio": 0.5866,
+  "objects_per_combo": 3.395,
+  "beats_per_combo": 4.8933,
+  "slider_dur_beats_med": 0.8612,
+  "curve_freq": {
+    "L": 0.5272,
+    "P": 0.3975,
+    "B": 0.0753
+  },
+  "stream_rate": 0.1803,
+  "mean_stream_len": 2.1283,
+  "sample_versions": [
+    "623's BASIC (185bpm)",
+    "ADVANCED+ (185bpm)",
+    "Gamu's ADVANCED (185bpm)",
+    "Gurvy's EXHAUST (185bpm)",
+    "NOVICE (185bpm)",
+    "SCV's INFINITE (185bpm)"
+  ]
+}

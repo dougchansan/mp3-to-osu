@@ -1,0 +1,53 @@
+{
+  "mapper": "AirinCat",
+  "n_maps": 4,
+  "n_objects_total": 1144,
+  "bpm_mean": 190.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.75,
+  "ar_mean": 7.8,
+  "od_mean": 6.55,
+  "circle_ratio": 0.4702,
+  "slider_ratio": 0.526,
+  "spinner_ratio": 0.0038,
+  "rhythm_hist": {
+    "1/4": 0.1819,
+    "1/3": 0.0145,
+    "1/2": 0.1746,
+    "2/3": 0.0,
+    "3/4": 0.0158,
+    "1/1": 0.3456,
+    "3/2": 0.1663,
+    "2/1": 0.0894,
+    "2+": 0.0119
+  },
+  "type_transitions": {
+    "circle>circle": 0.2481,
+    "circle>slider": 0.2199,
+    "circle>spinner": 0.0039,
+    "slider>circle": 0.2238,
+    "slider>slider": 0.3043
+  },
+  "spacing_slope": 2.0179,
+  "spacing_intercept": 1.3445,
+  "spacing_slope_std": 0.6288,
+  "jump_factor": 3.6155,
+  "mean_turn_deg": 68.5525,
+  "flow_ratio": 0.682,
+  "objects_per_combo": 4.8775,
+  "beats_per_combo": 4.85,
+  "slider_dur_beats_med": 0.6875,
+  "curve_freq": {
+    "L": 0.4241,
+    "P": 0.3859,
+    "B": 0.19
+  },
+  "stream_rate": 0.2124,
+  "mean_stream_len": 3.155,
+  "sample_versions": [
+    "Extra (190bpm)",
+    "Hard (190bpm)",
+    "Insane (190bpm)",
+    "Normal (190bpm)"
+  ]
+}

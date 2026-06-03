@@ -1,0 +1,53 @@
+{
+  "mapper": "Crissa",
+  "n_maps": 5,
+  "n_objects_total": 3949,
+  "bpm_mean": 135.0,
+  "bpm_std": 0.0,
+  "cs_mean": 4.06,
+  "ar_mean": 7.98,
+  "od_mean": 7.36,
+  "circle_ratio": 0.4724,
+  "slider_ratio": 0.5276,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.2638,
+    "1/3": 0.0,
+    "1/2": 0.33,
+    "2/3": 0.0004,
+    "3/4": 0.135,
+    "1/1": 0.1383,
+    "3/2": 0.0817,
+    "2/1": 0.0429,
+    "2+": 0.008
+  },
+  "type_transitions": {
+    "circle>circle": 0.2381,
+    "circle>slider": 0.2349,
+    "slider>circle": 0.2347,
+    "slider>slider": 0.2923
+  },
+  "spacing_slope": 2.4859,
+  "spacing_intercept": 1.8104,
+  "spacing_slope_std": 0.8354,
+  "jump_factor": 4.0706,
+  "mean_turn_deg": 86.434,
+  "flow_ratio": 0.5208,
+  "objects_per_combo": 5.512,
+  "beats_per_combo": 4.242,
+  "slider_dur_beats_med": 0.525,
+  "curve_freq": {
+    "L": 0.254,
+    "P": 0.519,
+    "B": 0.227
+  },
+  "stream_rate": 0.2146,
+  "mean_stream_len": 3.544,
+  "sample_versions": [
+    "Dance of the Fire God (135bpm)",
+    "Extra (135bpm)",
+    "Hazu's Hard (135bpm)",
+    "Insane (135bpm)",
+    "Wolf's Normal (135bpm)"
+  ]
+}

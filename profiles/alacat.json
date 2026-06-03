@@ -1,0 +1,57 @@
+{
+  "mapper": "alacat",
+  "n_maps": 8,
+  "n_objects_total": 5184,
+  "bpm_mean": 180.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.725,
+  "ar_mean": 7.55,
+  "od_mean": 6.5,
+  "circle_ratio": 0.576,
+  "slider_ratio": 0.4236,
+  "spinner_ratio": 0.0003,
+  "rhythm_hist": {
+    "1/4": 0.2368,
+    "1/3": 0.0,
+    "1/2": 0.2604,
+    "2/3": 0.0009,
+    "3/4": 0.0195,
+    "1/1": 0.3302,
+    "3/2": 0.0248,
+    "2/1": 0.0696,
+    "2+": 0.0578
+  },
+  "type_transitions": {
+    "circle>circle": 0.3918,
+    "circle>slider": 0.1832,
+    "slider>circle": 0.185,
+    "slider>slider": 0.2396,
+    "circle>spinner": 0.0003
+  },
+  "spacing_slope": 3.9731,
+  "spacing_intercept": 0.7037,
+  "spacing_slope_std": 1.966,
+  "jump_factor": 4.0975,
+  "mean_turn_deg": 85.505,
+  "flow_ratio": 0.5011,
+  "objects_per_combo": 5.6937,
+  "beats_per_combo": 5.2737,
+  "slider_dur_beats_med": 0.6875,
+  "curve_freq": {
+    "L": 0.6184,
+    "P": 0.3219,
+    "B": 0.0598
+  },
+  "stream_rate": 0.2838,
+  "mean_stream_len": 2.9038,
+  "sample_versions": [
+    "Easy (180bpm)",
+    "Guy's Extra (180bpm)",
+    "Hard (180bpm)",
+    "iyasine's Lunatic (180bpm)",
+    "Kotori's Extreme (180bpm)",
+    "N a s y a's Insane (180bpm)",
+    "Normal (180bpm)",
+    "The World (180bpm)"
+  ]
+}

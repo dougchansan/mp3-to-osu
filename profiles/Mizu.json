@@ -1,0 +1,61 @@
+{
+  "mapper": "Mizu",
+  "n_maps": 14,
+  "n_objects_total": 6803,
+  "bpm_mean": 141.5,
+  "bpm_std": 48.117,
+  "cs_mean": 4.0,
+  "ar_mean": 9.2786,
+  "od_mean": 7.8929,
+  "circle_ratio": 0.5294,
+  "slider_ratio": 0.4657,
+  "spinner_ratio": 0.0049,
+  "rhythm_hist": {
+    "1/4": 0.0938,
+    "1/3": 0.1357,
+    "1/2": 0.3562,
+    "2/3": 0.0585,
+    "3/4": 0.0084,
+    "1/1": 0.1955,
+    "3/2": 0.0513,
+    "2/1": 0.0891,
+    "2+": 0.0113
+  },
+  "type_transitions": {
+    "circle>circle": 0.382,
+    "circle>slider": 0.1451,
+    "slider>circle": 0.1466,
+    "slider>slider": 0.3189,
+    "slider>spinner": 0.0015,
+    "spinner>circle": 0.0015,
+    "circle>spinner": 0.0023,
+    "spinner>slider": 0.0009,
+    "spinner>spinner": 0.0011
+  },
+  "spacing_slope": 0.3841,
+  "spacing_intercept": 4.3842,
+  "spacing_slope_std": 0.7944,
+  "jump_factor": 4.901,
+  "mean_turn_deg": 119.7079,
+  "flow_ratio": 0.1909,
+  "objects_per_combo": 3.375,
+  "beats_per_combo": 2.7779,
+  "slider_dur_beats_med": 0.6329,
+  "curve_freq": {
+    "L": 0.4787,
+    "P": 0.3948,
+    "B": 0.1264
+  },
+  "stream_rate": 0.2534,
+  "mean_stream_len": 2.9686,
+  "sample_versions": [
+    "Acquainted (106bpm)",
+    "Bloody Kiss (Slider Jumps Ex) (210bpm)",
+    "Bloody Kiss (Slider Jumps) (210bpm)",
+    "Bloody Kiss (Slider Jumps+) (210bpm)",
+    "Free Fall (136bpm)",
+    "Hakushu Kassai Utaawase (Triangles Ex) (100bpm)",
+    "Hakushu Kassai Utaawase (Triangles) (100bpm)",
+    "Hakushu Kassai Utaawase (Triangles+) (100bpm)"
+  ]
+}

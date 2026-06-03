@@ -1,0 +1,61 @@
+{
+  "mapper": "C00L",
+  "n_maps": 8,
+  "n_objects_total": 4698,
+  "bpm_mean": 174.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.8625,
+  "ar_mean": 8.65,
+  "od_mean": 7.45,
+  "circle_ratio": 0.5575,
+  "slider_ratio": 0.4334,
+  "spinner_ratio": 0.0091,
+  "rhythm_hist": {
+    "1/4": 0.2929,
+    "1/3": 0.0026,
+    "1/2": 0.2953,
+    "2/3": 0.0008,
+    "3/4": 0.0547,
+    "1/1": 0.2193,
+    "3/2": 0.039,
+    "2/1": 0.0721,
+    "2+": 0.0234
+  },
+  "type_transitions": {
+    "circle>circle": 0.3766,
+    "circle>slider": 0.1753,
+    "circle>spinner": 0.006,
+    "slider>circle": 0.1779,
+    "slider>slider": 0.2544,
+    "spinner>circle": 0.004,
+    "spinner>slider": 0.0046,
+    "slider>spinner": 0.0006,
+    "spinner>spinner": 0.0005
+  },
+  "spacing_slope": 2.5472,
+  "spacing_intercept": 1.3947,
+  "spacing_slope_std": 0.9631,
+  "jump_factor": 3.8723,
+  "mean_turn_deg": 78.5962,
+  "flow_ratio": 0.5635,
+  "objects_per_combo": 3.6575,
+  "beats_per_combo": 3.4813,
+  "slider_dur_beats_med": 0.5938,
+  "curve_freq": {
+    "L": 0.3714,
+    "P": 0.3693,
+    "B": 0.2593
+  },
+  "stream_rate": 0.3132,
+  "mean_stream_len": 4.5512,
+  "sample_versions": [
+    "-Visceral-'s Tempest (174bpm)",
+    "KKip's Insane (174bpm)",
+    "Light Insane (174bpm)",
+    "Nao's Hard (174bpm)",
+    "Normal (174bpm)",
+    "Reform's Extra (174bpm)",
+    "Uprising (174bpm)",
+    "Zizou's Insane (174bpm)"
+  ]
+}

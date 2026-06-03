@@ -1,0 +1,60 @@
+{
+  "mapper": "zhu",
+  "n_maps": 22,
+  "n_objects_total": 5953,
+  "bpm_mean": 141.4545,
+  "bpm_std": 30.2486,
+  "cs_mean": 3.3636,
+  "ar_mean": 6.9182,
+  "od_mean": 5.6727,
+  "circle_ratio": 0.4026,
+  "slider_ratio": 0.5916,
+  "spinner_ratio": 0.0058,
+  "rhythm_hist": {
+    "1/4": 0.0563,
+    "1/3": 0.0912,
+    "1/2": 0.1932,
+    "2/3": 0.001,
+    "3/4": 0.1293,
+    "1/1": 0.2443,
+    "3/2": 0.1263,
+    "2/1": 0.1266,
+    "2+": 0.0318
+  },
+  "type_transitions": {
+    "circle>circle": 0.1554,
+    "circle>slider": 0.2438,
+    "circle>spinner": 0.0036,
+    "slider>circle": 0.2469,
+    "slider>slider": 0.3443,
+    "spinner>slider": 0.0035,
+    "slider>spinner": 0.0021,
+    "spinner>circle": 0.0004
+  },
+  "spacing_slope": 1.4813,
+  "spacing_intercept": 2.4351,
+  "spacing_slope_std": 1.0962,
+  "jump_factor": 3.6755,
+  "mean_turn_deg": 90.6018,
+  "flow_ratio": 0.479,
+  "objects_per_combo": 4.3573,
+  "beats_per_combo": 4.9032,
+  "slider_dur_beats_med": 0.6686,
+  "curve_freq": {
+    "L": 0.3536,
+    "P": 0.4889,
+    "B": 0.1575
+  },
+  "stream_rate": 0.0375,
+  "mean_stream_len": 3.4632,
+  "sample_versions": [
+    "Advanced (150bpm)",
+    "Cordi's Easy (150bpm)",
+    "Insane (150bpm)",
+    "Light Insane (150bpm)",
+    "Normal (150bpm)",
+    "Starset's Redemption (150bpm)",
+    "Tochi's Extreme (150bpm)",
+    "Victor's Hard (150bpm)"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "mapper": "Kalibe",
+  "n_maps": 102,
+  "n_objects_total": 80085,
+  "bpm_mean": 145.7285,
+  "bpm_std": 47.1467,
+  "cs_mean": 3.9,
+  "ar_mean": 8.199,
+  "od_mean": 7.1843,
+  "circle_ratio": 0.5208,
+  "slider_ratio": 0.4768,
+  "spinner_ratio": 0.0023,
+  "rhythm_hist": {
+    "1/4": 0.2307,
+    "1/3": 0.0275,
+    "1/2": 0.3227,
+    "2/3": 0.0105,
+    "3/4": 0.0571,
+    "1/1": 0.1949,
+    "3/2": 0.0847,
+    "2/1": 0.0521,
+    "2+": 0.0198
+  },
+  "type_transitions": {
+    "circle>circle": 0.3086,
+    "circle>slider": 0.2113,
+    "circle>spinner": 0.0012,
+    "slider>circle": 0.212,
+    "slider>slider": 0.2643,
+    "spinner>circle": 0.0007,
+    "spinner>slider": 0.0011,
+    "slider>spinner": 0.0007,
+    "spinner>spinner": 0.0001
+  },
+  "spacing_slope": 2.2912,
+  "spacing_intercept": 2.1646,
+  "spacing_slope_std": 0.8707,
+  "jump_factor": 4.1756,
+  "mean_turn_deg": 95.6123,
+  "flow_ratio": 0.4382,
+  "objects_per_combo": 3.6594,
+  "beats_per_combo": 3.1027,
+  "slider_dur_beats_med": 0.5405,
+  "curve_freq": {
+    "L": 0.2281,
+    "P": 0.0,
+    "B": 0.7719
+  },
+  "stream_rate": 0.231,
+  "mean_stream_len": 3.6844,
+  "sample_versions": [
+    "Akitoshi's Normal (192bpm)",
+    "Meg's Another (192bpm)",
+    "Linadeft's Extra (192bpm)",
+    "Duel Kaizer (175bpm)",
+    "Lunar (166bpm)",
+    "Emotion (72bpm)",
+    "Fantasy (155bpm)",
+    "Hard (155bpm)"
+  ]
+}

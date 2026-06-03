@@ -1,0 +1,57 @@
+{
+  "mapper": "Fatfan Kolek",
+  "n_maps": 9,
+  "n_objects_total": 2890,
+  "bpm_mean": 175.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.8333,
+  "ar_mean": 8.5556,
+  "od_mean": 8.2333,
+  "circle_ratio": 0.5783,
+  "slider_ratio": 0.4204,
+  "spinner_ratio": 0.0013,
+  "rhythm_hist": {
+    "1/4": 0.0051,
+    "1/3": 0.0,
+    "1/2": 0.5028,
+    "2/3": 0.0,
+    "3/4": 0.0,
+    "1/1": 0.3836,
+    "3/2": 0.0501,
+    "2/1": 0.0408,
+    "2+": 0.0176
+  },
+  "type_transitions": {
+    "circle>circle": 0.3497,
+    "circle>slider": 0.2272,
+    "circle>spinner": 0.0013,
+    "slider>circle": 0.2305,
+    "slider>slider": 0.1913
+  },
+  "spacing_slope": 1.5073,
+  "spacing_intercept": 3.6795,
+  "spacing_slope_std": 1.308,
+  "jump_factor": 4.8326,
+  "mean_turn_deg": 112.1411,
+  "flow_ratio": 0.2811,
+  "objects_per_combo": 4.2878,
+  "beats_per_combo": 4.35,
+  "slider_dur_beats_med": 0.5556,
+  "curve_freq": {
+    "L": 0.4484,
+    "P": 0.4258,
+    "B": 0.1258
+  },
+  "stream_rate": 0.0076,
+  "mean_stream_len": 0.3333,
+  "sample_versions": [
+    "Dereban's Lewd Extra (175bpm)",
+    "Indecent Insane (175bpm)",
+    "Intense Ecstasy (175bpm)",
+    "Nasty Normal (175bpm)",
+    "Obscene Hard (175bpm)",
+    "Reform's Filthy Expert (175bpm)",
+    "Seductive Extra (175bpm)",
+    "Taeyang's Trashy Extreme (175bpm)"
+  ]
+}

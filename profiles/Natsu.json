@@ -1,0 +1,61 @@
+{
+  "mapper": "Natsu",
+  "n_maps": 14,
+  "n_objects_total": 10062,
+  "bpm_mean": 120.5714,
+  "bpm_std": 13.0204,
+  "cs_mean": 3.8857,
+  "ar_mean": 7.5714,
+  "od_mean": 6.5714,
+  "circle_ratio": 0.5005,
+  "slider_ratio": 0.4982,
+  "spinner_ratio": 0.0013,
+  "rhythm_hist": {
+    "1/4": 0.2141,
+    "1/3": 0.0031,
+    "1/2": 0.3277,
+    "2/3": 0.0001,
+    "3/4": 0.0354,
+    "1/1": 0.2419,
+    "3/2": 0.0717,
+    "2/1": 0.0935,
+    "2+": 0.0125
+  },
+  "type_transitions": {
+    "circle>circle": 0.3166,
+    "circle>slider": 0.1843,
+    "slider>circle": 0.1838,
+    "slider>slider": 0.3128,
+    "circle>spinner": 0.0004,
+    "spinner>circle": 0.0005,
+    "slider>spinner": 0.0008,
+    "spinner>slider": 0.0006,
+    "spinner>spinner": 0.0002
+  },
+  "spacing_slope": 2.3751,
+  "spacing_intercept": 2.069,
+  "spacing_slope_std": 0.9239,
+  "jump_factor": 4.0056,
+  "mean_turn_deg": 91.9786,
+  "flow_ratio": 0.4683,
+  "objects_per_combo": 4.005,
+  "beats_per_combo": 3.5879,
+  "slider_dur_beats_med": 0.5449,
+  "curve_freq": {
+    "L": 0.3886,
+    "P": 0.5351,
+    "B": 0.0763
+  },
+  "stream_rate": 0.2208,
+  "mean_stream_len": 3.5879,
+  "sample_versions": [
+    "Deity (96bpm)",
+    "Demigod (96bpm)",
+    "Human (96bpm)",
+    "Advanced (125bpm)",
+    "Insane (125bpm)",
+    "Natsu & Euny's Extra feat. Irreversible (125bpm)",
+    "Nekomata's Hard (125bpm)",
+    "Normal (125bpm)"
+  ]
+}

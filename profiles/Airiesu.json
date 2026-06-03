@@ -1,0 +1,53 @@
+{
+  "mapper": "Airiesu",
+  "n_maps": 5,
+  "n_objects_total": 1367,
+  "bpm_mean": 120.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.16,
+  "ar_mean": 5.9,
+  "od_mean": 5.0,
+  "circle_ratio": 0.4484,
+  "slider_ratio": 0.5516,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.0,
+    "1/3": 0.0,
+    "1/2": 0.2246,
+    "2/3": 0.0,
+    "3/4": 0.0,
+    "1/1": 0.4557,
+    "3/2": 0.059,
+    "2/1": 0.2498,
+    "2+": 0.0109
+  },
+  "type_transitions": {
+    "circle>circle": 0.2128,
+    "circle>slider": 0.2346,
+    "slider>circle": 0.2356,
+    "slider>slider": 0.317
+  },
+  "spacing_slope": 0.6822,
+  "spacing_intercept": 2.4019,
+  "spacing_slope_std": 0.7753,
+  "jump_factor": 2.8982,
+  "mean_turn_deg": 99.622,
+  "flow_ratio": 0.3871,
+  "objects_per_combo": 4.622,
+  "beats_per_combo": 6.428,
+  "slider_dur_beats_med": 0.9,
+  "curve_freq": {
+    "L": 0.3141,
+    "P": 0.5066,
+    "B": 0.1793
+  },
+  "stream_rate": 0.0,
+  "mean_stream_len": 0.0,
+  "sample_versions": [
+    "ANMi's Insane (120bpm)",
+    "Hard (120bpm)",
+    "Insane (120bpm)",
+    "Normal (120bpm)",
+    "Qiyana's Easy (120bpm)"
+  ]
+}

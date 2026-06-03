@@ -1,0 +1,57 @@
+{
+  "mapper": "Weez",
+  "n_maps": 5,
+  "n_objects_total": 1055,
+  "bpm_mean": 183.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.6,
+  "ar_mean": 6.8,
+  "od_mean": 5.4,
+  "circle_ratio": 0.4361,
+  "slider_ratio": 0.5477,
+  "spinner_ratio": 0.0162,
+  "rhythm_hist": {
+    "1/4": 0.0829,
+    "1/3": 0.0,
+    "1/2": 0.1996,
+    "2/3": 0.0,
+    "3/4": 0.0006,
+    "1/1": 0.2484,
+    "3/2": 0.1541,
+    "2/1": 0.1655,
+    "2+": 0.1488
+  },
+  "type_transitions": {
+    "circle>circle": 0.2343,
+    "circle>slider": 0.1982,
+    "circle>spinner": 0.006,
+    "slider>circle": 0.1964,
+    "slider>slider": 0.3437,
+    "slider>spinner": 0.0104,
+    "spinner>circle": 0.0055,
+    "spinner>slider": 0.0055
+  },
+  "spacing_slope": 1.7063,
+  "spacing_intercept": 1.4373,
+  "spacing_slope_std": 0.7904,
+  "jump_factor": 2.8556,
+  "mean_turn_deg": 88.236,
+  "flow_ratio": 0.4789,
+  "objects_per_combo": 5.222,
+  "beats_per_combo": 7.334,
+  "slider_dur_beats_med": 1.1,
+  "curve_freq": {
+    "L": 0.0,
+    "P": 0.0108,
+    "B": 0.9892
+  },
+  "stream_rate": 0.098,
+  "mean_stream_len": 2.186,
+  "sample_versions": [
+    "Easy (183bpm)",
+    "Insane (183bpm)",
+    "jonathanlfj's Hard (183bpm)",
+    "Nyquill's Insane (183bpm)",
+    "shikyu's Normal (183bpm)"
+  ]
+}

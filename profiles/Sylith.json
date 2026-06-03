@@ -1,0 +1,57 @@
+{
+  "mapper": "Sylith",
+  "n_maps": 4,
+  "n_objects_total": 1609,
+  "bpm_mean": 181.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.5,
+  "ar_mean": 6.0,
+  "od_mean": 4.75,
+  "circle_ratio": 0.3952,
+  "slider_ratio": 0.5831,
+  "spinner_ratio": 0.0216,
+  "rhythm_hist": {
+    "1/4": 0.0301,
+    "1/3": 0.0,
+    "1/2": 0.195,
+    "2/3": 0.0,
+    "3/4": 0.0049,
+    "1/1": 0.2949,
+    "3/2": 0.1189,
+    "2/1": 0.2106,
+    "2+": 0.1457
+  },
+  "type_transitions": {
+    "circle>circle": 0.1572,
+    "circle>slider": 0.236,
+    "circle>spinner": 0.0032,
+    "slider>circle": 0.2274,
+    "slider>slider": 0.3403,
+    "slider>spinner": 0.0175,
+    "spinner>circle": 0.009,
+    "spinner>slider": 0.0089,
+    "spinner>spinner": 0.0005
+  },
+  "spacing_slope": 1.4899,
+  "spacing_intercept": 1.7731,
+  "spacing_slope_std": 0.211,
+  "jump_factor": 2.9752,
+  "mean_turn_deg": 90.9925,
+  "flow_ratio": 0.4612,
+  "objects_per_combo": 3.91,
+  "beats_per_combo": 7.285,
+  "slider_dur_beats_med": 1.0,
+  "curve_freq": {
+    "L": 0.292,
+    "P": 0.5825,
+    "B": 0.1255
+  },
+  "stream_rate": 0.0326,
+  "mean_stream_len": 1.66,
+  "sample_versions": [
+    "Easy (181bpm)",
+    "Gurvy's Normal (181bpm)",
+    "Lunatic (181bpm)",
+    "Prayer's Hard (181bpm)"
+  ]
+}

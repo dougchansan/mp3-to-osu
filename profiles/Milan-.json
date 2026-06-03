@@ -1,0 +1,59 @@
+{
+  "mapper": "Milan-",
+  "n_maps": 9,
+  "n_objects_total": 1623,
+  "bpm_mean": 161.1111,
+  "bpm_std": 14.4102,
+  "cs_mean": 3.7,
+  "ar_mean": 6.1667,
+  "od_mean": 5.2222,
+  "circle_ratio": 0.4207,
+  "slider_ratio": 0.5745,
+  "spinner_ratio": 0.0047,
+  "rhythm_hist": {
+    "1/4": 0.0,
+    "1/3": 0.0731,
+    "1/2": 0.1553,
+    "2/3": 0.0293,
+    "3/4": 0.0,
+    "1/1": 0.3908,
+    "3/2": 0.1098,
+    "2/1": 0.1877,
+    "2+": 0.054
+  },
+  "type_transitions": {
+    "circle>circle": 0.167,
+    "circle>slider": 0.251,
+    "circle>spinner": 0.0036,
+    "slider>circle": 0.2522,
+    "slider>slider": 0.3239,
+    "slider>spinner": 0.0011,
+    "spinner>slider": 0.0011
+  },
+  "spacing_slope": 1.5434,
+  "spacing_intercept": 1.5036,
+  "spacing_slope_std": 0.7636,
+  "jump_factor": 2.8043,
+  "mean_turn_deg": 87.5578,
+  "flow_ratio": 0.5105,
+  "objects_per_combo": 4.3389,
+  "beats_per_combo": 5.5178,
+  "slider_dur_beats_med": 0.926,
+  "curve_freq": {
+    "L": 0.3664,
+    "P": 0.6095,
+    "B": 0.0241
+  },
+  "stream_rate": 0.0,
+  "mean_stream_len": 0.0,
+  "sample_versions": [
+    "apple's Insane (174bpm)",
+    "Easy (174bpm)",
+    "Hard (174bpm)",
+    "Insane (174bpm)",
+    "Normal (174bpm)",
+    "Easy (145bpm)",
+    "Hard (145bpm)",
+    "Insane (145bpm)"
+  ]
+}

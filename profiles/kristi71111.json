@@ -1,0 +1,56 @@
+{
+  "mapper": "kristi71111",
+  "n_maps": 5,
+  "n_objects_total": 895,
+  "bpm_mean": 135.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.58,
+  "ar_mean": 6.64,
+  "od_mean": 5.6,
+  "circle_ratio": 0.4703,
+  "slider_ratio": 0.5196,
+  "spinner_ratio": 0.0101,
+  "rhythm_hist": {
+    "1/4": 0.1351,
+    "1/3": 0.0,
+    "1/2": 0.2298,
+    "2/3": 0.0,
+    "3/4": 0.0974,
+    "1/1": 0.2206,
+    "3/2": 0.1073,
+    "2/1": 0.1366,
+    "2+": 0.0732
+  },
+  "type_transitions": {
+    "circle>circle": 0.2241,
+    "circle>slider": 0.2405,
+    "circle>spinner": 0.0091,
+    "slider>circle": 0.2496,
+    "slider>slider": 0.2727,
+    "spinner>slider": 0.003,
+    "slider>spinner": 0.0012
+  },
+  "spacing_slope": 2.0566,
+  "spacing_intercept": 1.508,
+  "spacing_slope_std": 1.1332,
+  "jump_factor": 3.3045,
+  "mean_turn_deg": 84.952,
+  "flow_ratio": 0.5419,
+  "objects_per_combo": 4.73,
+  "beats_per_combo": 5.412,
+  "slider_dur_beats_med": 0.95,
+  "curve_freq": {
+    "L": 0.3319,
+    "P": 0.5572,
+    "B": 0.111
+  },
+  "stream_rate": 0.1346,
+  "mean_stream_len": 2.524,
+  "sample_versions": [
+    "Easy (135bpm)",
+    "Fatfan Kolek's Insane (135bpm)",
+    "Gex's Hard (135bpm)",
+    "Kenterz's Insane (135bpm)",
+    "Normal (135bpm)"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "mapper": "meiikyuu",
+  "n_maps": 4,
+  "n_objects_total": 1126,
+  "bpm_mean": 200.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.5,
+  "ar_mean": 6.0,
+  "od_mean": 4.75,
+  "circle_ratio": 0.3115,
+  "slider_ratio": 0.6743,
+  "spinner_ratio": 0.0143,
+  "rhythm_hist": {
+    "1/4": 0.0726,
+    "1/3": 0.0,
+    "1/2": 0.0673,
+    "2/3": 0.0,
+    "3/4": 0.0027,
+    "1/1": 0.2341,
+    "3/2": 0.1295,
+    "2/1": 0.2514,
+    "2+": 0.2423
+  },
+  "type_transitions": {
+    "circle>circle": 0.1142,
+    "circle>slider": 0.1938,
+    "circle>spinner": 0.0049,
+    "slider>circle": 0.1947,
+    "slider>slider": 0.4736,
+    "slider>spinner": 0.0094,
+    "spinner>slider": 0.0094
+  },
+  "spacing_slope": 1.5561,
+  "spacing_intercept": 1.3645,
+  "spacing_slope_std": 1.0164,
+  "jump_factor": 2.7416,
+  "mean_turn_deg": 87.5375,
+  "flow_ratio": 0.51,
+  "objects_per_combo": 4.88,
+  "beats_per_combo": 9.9525,
+  "slider_dur_beats_med": 1.375,
+  "curve_freq": {
+    "L": 0.2667,
+    "P": 0.5499,
+    "B": 0.1835
+  },
+  "stream_rate": 0.0869,
+  "mean_stream_len": 1.34,
+  "sample_versions": [
+    "Cataclysm (200bpm)",
+    "Darkness (200bpm)",
+    "Nightmare (200bpm)",
+    "Omen (200bpm)"
+  ]
+}

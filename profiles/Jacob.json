@@ -1,0 +1,59 @@
+{
+  "mapper": "Jacob",
+  "n_maps": 8,
+  "n_objects_total": 3457,
+  "bpm_mean": 170.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.8125,
+  "ar_mean": 8.125,
+  "od_mean": 6.975,
+  "circle_ratio": 0.5018,
+  "slider_ratio": 0.4955,
+  "spinner_ratio": 0.0028,
+  "rhythm_hist": {
+    "1/4": 0.2394,
+    "1/3": 0.0058,
+    "1/2": 0.2873,
+    "2/3": 0.0013,
+    "3/4": 0.0119,
+    "1/1": 0.2814,
+    "3/2": 0.0535,
+    "2/1": 0.097,
+    "2+": 0.0224
+  },
+  "type_transitions": {
+    "circle>circle": 0.3265,
+    "circle>slider": 0.1745,
+    "circle>spinner": 0.0016,
+    "slider>circle": 0.175,
+    "slider>slider": 0.3209,
+    "slider>spinner": 0.0012,
+    "spinner>circle": 0.0004
+  },
+  "spacing_slope": 3.0771,
+  "spacing_intercept": 1.2493,
+  "spacing_slope_std": 1.2618,
+  "jump_factor": 3.9979,
+  "mean_turn_deg": 83.8713,
+  "flow_ratio": 0.5317,
+  "objects_per_combo": 3.5312,
+  "beats_per_combo": 3.0913,
+  "slider_dur_beats_med": 0.5696,
+  "curve_freq": {
+    "L": 0.4289,
+    "P": 0.4347,
+    "B": 0.1364
+  },
+  "stream_rate": 0.2731,
+  "mean_stream_len": 4.9162,
+  "sample_versions": [
+    "Anxient's ADVANCED (170bpm)",
+    "Cryptic's INFINITE (170bpm)",
+    "Exote's EXHAUST (170bpm)",
+    "INFINITE (170bpm)",
+    "Len's INFINITE (170bpm)",
+    "NiNo's EXHAUST (170bpm)",
+    "NOVICE (170bpm)",
+    "Yauxo's BASIC (170bpm)"
+  ]
+}

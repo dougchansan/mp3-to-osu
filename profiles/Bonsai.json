@@ -1,0 +1,55 @@
+{
+  "mapper": "Bonsai",
+  "n_maps": 4,
+  "n_objects_total": 1719,
+  "bpm_mean": 123.99,
+  "bpm_std": 0.0,
+  "cs_mean": 3.95,
+  "ar_mean": 6.125,
+  "od_mean": 5.25,
+  "circle_ratio": 0.4182,
+  "slider_ratio": 0.5771,
+  "spinner_ratio": 0.0048,
+  "rhythm_hist": {
+    "1/4": 0.098,
+    "1/3": 0.0,
+    "1/2": 0.2411,
+    "2/3": 0.0,
+    "3/4": 0.0661,
+    "1/1": 0.2885,
+    "3/2": 0.1311,
+    "2/1": 0.1298,
+    "2+": 0.0452
+  },
+  "type_transitions": {
+    "circle>circle": 0.1901,
+    "circle>slider": 0.2243,
+    "circle>spinner": 0.002,
+    "slider>circle": 0.2271,
+    "slider>slider": 0.3516,
+    "spinner>circle": 0.002,
+    "spinner>slider": 0.0028
+  },
+  "spacing_slope": 2.7741,
+  "spacing_intercept": 1.5002,
+  "spacing_slope_std": 2.1675,
+  "jump_factor": 3.7538,
+  "mean_turn_deg": 78.735,
+  "flow_ratio": 0.5171,
+  "objects_per_combo": 4.2425,
+  "beats_per_combo": 4.895,
+  "slider_dur_beats_med": 0.75,
+  "curve_freq": {
+    "L": 0.4905,
+    "P": 0.2843,
+    "B": 0.2252
+  },
+  "stream_rate": 0.0604,
+  "mean_stream_len": 1.725,
+  "sample_versions": [
+    "Advanced (124bpm)",
+    "Hard (124bpm)",
+    "Insane (124bpm)",
+    "Normal (124bpm)"
+  ]
+}

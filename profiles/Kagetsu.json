@@ -1,0 +1,59 @@
+{
+  "mapper": "Kagetsu",
+  "n_maps": 14,
+  "n_objects_total": 3869,
+  "bpm_mean": 191.5,
+  "bpm_std": 8.5,
+  "cs_mean": 3.5571,
+  "ar_mean": 7.5071,
+  "od_mean": 6.15,
+  "circle_ratio": 0.4682,
+  "slider_ratio": 0.5278,
+  "spinner_ratio": 0.0041,
+  "rhythm_hist": {
+    "1/4": 0.0219,
+    "1/3": 0.0,
+    "1/2": 0.3332,
+    "2/3": 0.0,
+    "3/4": 0.0,
+    "1/1": 0.3437,
+    "3/2": 0.1154,
+    "2/1": 0.1286,
+    "2+": 0.0572
+  },
+  "type_transitions": {
+    "circle>circle": 0.2189,
+    "circle>slider": 0.2474,
+    "slider>circle": 0.2475,
+    "slider>slider": 0.2811,
+    "slider>spinner": 0.0016,
+    "circle>spinner": 0.0025,
+    "spinner>slider": 0.001
+  },
+  "spacing_slope": 1.0007,
+  "spacing_intercept": 2.8065,
+  "spacing_slope_std": 0.8122,
+  "jump_factor": 3.583,
+  "mean_turn_deg": 102.4843,
+  "flow_ratio": 0.3853,
+  "objects_per_combo": 4.2793,
+  "beats_per_combo": 4.9021,
+  "slider_dur_beats_med": 0.8929,
+  "curve_freq": {
+    "L": 0.2791,
+    "P": 0.6121,
+    "B": 0.1088
+  },
+  "stream_rate": 0.0274,
+  "mean_stream_len": 1.7193,
+  "sample_versions": [
+    "Easy (183bpm)",
+    "Kage (183bpm)",
+    "Mamayu's Insane (183bpm)",
+    "Normal (183bpm)",
+    "pkhg's Insane (183bpm)",
+    "Rocket's Hard (183bpm)",
+    "Yiyo's Insane (183bpm)",
+    "Hard!! (200bpm)"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "mapper": "Kibbleru",
+  "n_maps": 4,
+  "n_objects_total": 2171,
+  "bpm_mean": 180.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.5,
+  "ar_mean": 6.5,
+  "od_mean": 5.0,
+  "circle_ratio": 0.3942,
+  "slider_ratio": 0.5978,
+  "spinner_ratio": 0.008,
+  "rhythm_hist": {
+    "1/4": 0.0383,
+    "1/3": 0.0,
+    "1/2": 0.2418,
+    "2/3": 0.0,
+    "3/4": 0.0022,
+    "1/1": 0.2691,
+    "3/2": 0.1854,
+    "2/1": 0.1708,
+    "2+": 0.0923
+  },
+  "type_transitions": {
+    "circle>circle": 0.1817,
+    "circle>slider": 0.2096,
+    "slider>circle": 0.2114,
+    "slider>slider": 0.3842,
+    "slider>spinner": 0.0037,
+    "spinner>circle": 0.002,
+    "spinner>slider": 0.0037,
+    "circle>spinner": 0.0037
+  },
+  "spacing_slope": 1.4914,
+  "spacing_intercept": 1.6482,
+  "spacing_slope_std": 0.6041,
+  "jump_factor": 2.7976,
+  "mean_turn_deg": 95.1625,
+  "flow_ratio": 0.454,
+  "objects_per_combo": 4.0125,
+  "beats_per_combo": 6.04,
+  "slider_dur_beats_med": 0.875,
+  "curve_freq": {
+    "L": 0.3695,
+    "P": 0.53,
+    "B": 0.1005
+  },
+  "stream_rate": 0.0452,
+  "mean_stream_len": 1.6875,
+  "sample_versions": [
+    "Easy (180bpm)",
+    "pk's Hard (180bpm)",
+    "Serene (180bpm)",
+    "xxdeathx's Normal (180bpm)"
+  ]
+}

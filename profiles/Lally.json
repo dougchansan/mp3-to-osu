@@ -1,0 +1,57 @@
+{
+  "mapper": "Lally",
+  "n_maps": 4,
+  "n_objects_total": 1322,
+  "bpm_mean": 128.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.75,
+  "ar_mean": 5.75,
+  "od_mean": 5.0,
+  "circle_ratio": 0.3351,
+  "slider_ratio": 0.6427,
+  "spinner_ratio": 0.0223,
+  "rhythm_hist": {
+    "1/4": 0.067,
+    "1/3": 0.0,
+    "1/2": 0.1402,
+    "2/3": 0.0,
+    "3/4": 0.0322,
+    "1/1": 0.3808,
+    "3/2": 0.0993,
+    "2/1": 0.2063,
+    "2+": 0.0742
+  },
+  "type_transitions": {
+    "circle>circle": 0.1292,
+    "circle>slider": 0.2044,
+    "slider>circle": 0.2032,
+    "slider>slider": 0.4278,
+    "slider>spinner": 0.0136,
+    "spinner>circle": 0.0039,
+    "spinner>slider": 0.0128,
+    "spinner>spinner": 0.0025,
+    "circle>spinner": 0.0027
+  },
+  "spacing_slope": 1.832,
+  "spacing_intercept": 1.7227,
+  "spacing_slope_std": 1.0432,
+  "jump_factor": 3.2933,
+  "mean_turn_deg": 83.7525,
+  "flow_ratio": 0.548,
+  "objects_per_combo": 3.94,
+  "beats_per_combo": 6.7175,
+  "slider_dur_beats_med": 1.0,
+  "curve_freq": {
+    "L": 0.2378,
+    "P": 0.6957,
+    "B": 0.0665
+  },
+  "stream_rate": 0.0557,
+  "mean_stream_len": 1.5475,
+  "sample_versions": [
+    "Collab Easy (128bpm)",
+    "Collab Insane (128bpm)",
+    "Hard (128bpm)",
+    "Normal (128bpm)"
+  ]
+}

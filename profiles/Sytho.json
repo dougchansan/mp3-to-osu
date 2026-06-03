@@ -1,0 +1,56 @@
+{
+  "mapper": "Sytho",
+  "n_maps": 4,
+  "n_objects_total": 2882,
+  "bpm_mean": 166.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.55,
+  "ar_mean": 7.425,
+  "od_mean": 6.95,
+  "circle_ratio": 0.5113,
+  "slider_ratio": 0.4882,
+  "spinner_ratio": 0.0005,
+  "rhythm_hist": {
+    "1/4": 0.1744,
+    "1/3": 0.0069,
+    "1/2": 0.3181,
+    "2/3": 0.0068,
+    "3/4": 0.0196,
+    "1/1": 0.2669,
+    "3/2": 0.1174,
+    "2/1": 0.0782,
+    "2+": 0.0116
+  },
+  "type_transitions": {
+    "circle>circle": 0.2521,
+    "circle>slider": 0.2588,
+    "circle>spinner": 0.0003,
+    "slider>circle": 0.2593,
+    "slider>slider": 0.2287,
+    "spinner>slider": 0.0003,
+    "slider>spinner": 0.0003,
+    "spinner>circle": 0.0003
+  },
+  "spacing_slope": 2.2557,
+  "spacing_intercept": 1.2701,
+  "spacing_slope_std": 0.9353,
+  "jump_factor": 3.2921,
+  "mean_turn_deg": 74.4825,
+  "flow_ratio": 0.6213,
+  "objects_per_combo": 5.6425,
+  "beats_per_combo": 4.9875,
+  "slider_dur_beats_med": 0.6875,
+  "curve_freq": {
+    "L": 0.4579,
+    "P": 0.3977,
+    "B": 0.1445
+  },
+  "stream_rate": 0.1898,
+  "mean_stream_len": 3.8225,
+  "sample_versions": [
+    "Gah, you're a monster! (166bpm)",
+    "Hard (166bpm)",
+    "Insane (166bpm)",
+    "nyu's Normal (166bpm)"
+  ]
+}

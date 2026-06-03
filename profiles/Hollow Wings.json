@@ -1,0 +1,61 @@
+{
+  "mapper": "Hollow Wings",
+  "n_maps": 184,
+  "n_objects_total": 92199,
+  "bpm_mean": 158.4504,
+  "bpm_std": 36.3295,
+  "cs_mean": 3.9207,
+  "ar_mean": 7.5755,
+  "od_mean": 6.3511,
+  "circle_ratio": 0.5105,
+  "slider_ratio": 0.4854,
+  "spinner_ratio": 0.0041,
+  "rhythm_hist": {
+    "1/4": 0.1561,
+    "1/3": 0.03,
+    "1/2": 0.2933,
+    "2/3": 0.0142,
+    "3/4": 0.0405,
+    "1/1": 0.2389,
+    "3/2": 0.0648,
+    "2/1": 0.0976,
+    "2+": 0.0647
+  },
+  "type_transitions": {
+    "circle>circle": 0.319,
+    "circle>slider": 0.1901,
+    "slider>circle": 0.1912,
+    "slider>slider": 0.2933,
+    "slider>spinner": 0.0019,
+    "circle>spinner": 0.0017,
+    "spinner>slider": 0.0015,
+    "spinner>circle": 0.001,
+    "spinner>spinner": 0.0003
+  },
+  "spacing_slope": 2.3242,
+  "spacing_intercept": 1.8294,
+  "spacing_slope_std": 1.782,
+  "jump_factor": 3.7258,
+  "mean_turn_deg": 88.4251,
+  "flow_ratio": 0.5022,
+  "objects_per_combo": 4.1547,
+  "beats_per_combo": 4.2097,
+  "slider_dur_beats_med": 0.7447,
+  "curve_freq": {
+    "L": 0.4391,
+    "P": 0.0,
+    "B": 0.5609
+  },
+  "stream_rate": 0.1639,
+  "mean_stream_len": 2.7384,
+  "sample_versions": [
+    "Extra (180bpm)",
+    "Hurted Lin (136bpm)",
+    "fanzhen's Hard (136bpm)",
+    "Insane (136bpm)",
+    "Normal (136bpm)",
+    "EX EX (177bpm)",
+    "fanzhen's EX (177bpm)",
+    "Kalindraz's EX (177bpm)"
+  ]
+}

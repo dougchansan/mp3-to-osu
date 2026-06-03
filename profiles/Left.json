@@ -1,0 +1,52 @@
+{
+  "mapper": "Left",
+  "n_maps": 4,
+  "n_objects_total": 482,
+  "bpm_mean": 180.96,
+  "bpm_std": 0.0,
+  "cs_mean": 4.1,
+  "ar_mean": 7.3,
+  "od_mean": 6.3,
+  "circle_ratio": 0.4767,
+  "slider_ratio": 0.5233,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.0,
+    "1/3": 0.0,
+    "1/2": 0.3119,
+    "2/3": 0.0,
+    "3/4": 0.0,
+    "1/1": 0.3808,
+    "3/2": 0.0886,
+    "2/1": 0.1394,
+    "2+": 0.0794
+  },
+  "type_transitions": {
+    "circle>circle": 0.2745,
+    "circle>slider": 0.2042,
+    "slider>circle": 0.2042,
+    "slider>slider": 0.317
+  },
+  "spacing_slope": 0.6445,
+  "spacing_intercept": 2.7062,
+  "spacing_slope_std": 0.6544,
+  "jump_factor": 3.3956,
+  "mean_turn_deg": 100.94,
+  "flow_ratio": 0.3817,
+  "objects_per_combo": 3.185,
+  "beats_per_combo": 3.8475,
+  "slider_dur_beats_med": 0.875,
+  "curve_freq": {
+    "L": 0.5008,
+    "P": 0.457,
+    "B": 0.0423
+  },
+  "stream_rate": 0.0,
+  "mean_stream_len": 0.0,
+  "sample_versions": [
+    "Extra (181bpm)",
+    "Hard (181bpm)",
+    "Insane (181bpm)",
+    "Normal (181bpm)"
+  ]
+}

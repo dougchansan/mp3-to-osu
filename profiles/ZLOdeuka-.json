@@ -1,0 +1,60 @@
+{
+  "mapper": "ZLOdeuka-",
+  "n_maps": 11,
+  "n_objects_total": 2259,
+  "bpm_mean": 168.2727,
+  "bpm_std": 4.3294,
+  "cs_mean": 3.8636,
+  "ar_mean": 6.7182,
+  "od_mean": 5.6455,
+  "circle_ratio": 0.5726,
+  "slider_ratio": 0.415,
+  "spinner_ratio": 0.0125,
+  "rhythm_hist": {
+    "1/4": 0.0336,
+    "1/3": 0.0,
+    "1/2": 0.3433,
+    "2/3": 0.0,
+    "3/4": 0.0027,
+    "1/1": 0.3256,
+    "3/2": 0.0326,
+    "2/1": 0.1839,
+    "2+": 0.0783
+  },
+  "type_transitions": {
+    "circle>circle": 0.3762,
+    "circle>slider": 0.1921,
+    "slider>circle": 0.1961,
+    "slider>slider": 0.2155,
+    "slider>spinner": 0.0066,
+    "spinner>slider": 0.0059,
+    "circle>spinner": 0.0059,
+    "spinner>circle": 0.0016
+  },
+  "spacing_slope": 1.8415,
+  "spacing_intercept": 1.6128,
+  "spacing_slope_std": 0.4906,
+  "jump_factor": 3.0729,
+  "mean_turn_deg": 82.2445,
+  "flow_ratio": 0.549,
+  "objects_per_combo": 4.1627,
+  "beats_per_combo": 5.6409,
+  "slider_dur_beats_med": 0.8295,
+  "curve_freq": {
+    "L": 0.4007,
+    "P": 0.3815,
+    "B": 0.2178
+  },
+  "stream_rate": 0.041,
+  "mean_stream_len": 2.1727,
+  "sample_versions": [
+    "Hard (174bpm)",
+    "Insane (174bpm)",
+    "Marmo's Easy (174bpm)",
+    "Marmo's Normal (174bpm)",
+    "Advanced (165bpm)",
+    "Collab Insane (165bpm)",
+    "Hard (165bpm)",
+    "Normal (165bpm)"
+  ]
+}

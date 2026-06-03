@@ -1,0 +1,54 @@
+{
+  "mapper": "[ IWeenox ]",
+  "n_maps": 5,
+  "n_objects_total": 700,
+  "bpm_mean": 150.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.72,
+  "ar_mean": 6.6,
+  "od_mean": 5.6,
+  "circle_ratio": 0.3863,
+  "slider_ratio": 0.6056,
+  "spinner_ratio": 0.0081,
+  "rhythm_hist": {
+    "1/4": 0.0254,
+    "1/3": 0.0,
+    "1/2": 0.2017,
+    "2/3": 0.0,
+    "3/4": 0.0022,
+    "1/1": 0.4927,
+    "3/2": 0.0155,
+    "2/1": 0.2524,
+    "2+": 0.0102
+  },
+  "type_transitions": {
+    "circle>circle": 0.1828,
+    "circle>slider": 0.1986,
+    "circle>spinner": 0.0081,
+    "slider>circle": 0.2067,
+    "slider>slider": 0.4038
+  },
+  "spacing_slope": 0.6299,
+  "spacing_intercept": 2.8116,
+  "spacing_slope_std": 0.7076,
+  "jump_factor": 3.4602,
+  "mean_turn_deg": 97.98,
+  "flow_ratio": 0.4249,
+  "objects_per_combo": 3.574,
+  "beats_per_combo": 4.892,
+  "slider_dur_beats_med": 0.95,
+  "curve_freq": {
+    "L": 0.3286,
+    "P": 0.5018,
+    "B": 0.1696
+  },
+  "stream_rate": 0.0213,
+  "mean_stream_len": 2.0,
+  "sample_versions": [
+    "Easy (150bpm)",
+    "Hard (150bpm)",
+    "Imakuri's Normal (150bpm)",
+    "Not Safe Anymore (150bpm)",
+    "Owens' Insane (150bpm)"
+  ]
+}

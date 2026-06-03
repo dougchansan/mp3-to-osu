@@ -1,0 +1,60 @@
+{
+  "mapper": "Nozhomi",
+  "n_maps": 17,
+  "n_objects_total": 4606,
+  "bpm_mean": 163.7647,
+  "bpm_std": 16.6893,
+  "cs_mean": 3.7,
+  "ar_mean": 7.3647,
+  "od_mean": 6.0882,
+  "circle_ratio": 0.5119,
+  "slider_ratio": 0.4832,
+  "spinner_ratio": 0.0049,
+  "rhythm_hist": {
+    "1/4": 0.0886,
+    "1/3": 0.0947,
+    "1/2": 0.1782,
+    "2/3": 0.0,
+    "3/4": 0.1479,
+    "1/1": 0.2697,
+    "3/2": 0.0782,
+    "2/1": 0.0967,
+    "2+": 0.0461
+  },
+  "type_transitions": {
+    "circle>circle": 0.2696,
+    "circle>slider": 0.2388,
+    "slider>circle": 0.2422,
+    "slider>slider": 0.2415,
+    "spinner>slider": 0.0026,
+    "slider>spinner": 0.0008,
+    "spinner>circle": 0.0017,
+    "circle>spinner": 0.0027
+  },
+  "spacing_slope": 2.85,
+  "spacing_intercept": 1.2991,
+  "spacing_slope_std": 1.5997,
+  "jump_factor": 3.7334,
+  "mean_turn_deg": 92.6341,
+  "flow_ratio": 0.4521,
+  "objects_per_combo": 4.6988,
+  "beats_per_combo": 4.7735,
+  "slider_dur_beats_med": 0.7184,
+  "curve_freq": {
+    "L": 0.3613,
+    "P": 0.5301,
+    "B": 0.1086
+  },
+  "stream_rate": 0.112,
+  "mean_stream_len": 2.3194,
+  "sample_versions": [
+    "Easy (144bpm)",
+    "Hard (144bpm)",
+    "Imakuri's Hard (144bpm)",
+    "La Soleil (144bpm)",
+    "Normal (144bpm)",
+    "Shapy's Insane (144bpm)",
+    "vick's Insane (144bpm)",
+    "Extra (180bpm)"
+  ]
+}

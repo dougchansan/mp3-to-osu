@@ -1,0 +1,1171 @@
+[
+  {
+    "name": "ALL",
+    "file": "ALL.json",
+    "n_maps": 1389,
+    "slider_ratio": 0.4894,
+    "bpm_mean": 159.4574
+  },
+  {
+    "name": "monstrata",
+    "file": "monstrata.json",
+    "n_maps": 104,
+    "slider_ratio": 0.5539,
+    "bpm_mean": 171.9615
+  },
+  {
+    "name": "Sotarks",
+    "file": "Sotarks.json",
+    "n_maps": 58,
+    "slider_ratio": 0.4137,
+    "bpm_mean": 170.8707
+  },
+  {
+    "name": "Bibbity Bill",
+    "file": "Bibbity Bill.json",
+    "n_maps": 32,
+    "slider_ratio": 0.2879,
+    "bpm_mean": 185.0
+  },
+  {
+    "name": "Nevo",
+    "file": "Nevo.json",
+    "n_maps": 24,
+    "slider_ratio": 0.5361,
+    "bpm_mean": 189.75
+  },
+  {
+    "name": "zhu",
+    "file": "zhu.json",
+    "n_maps": 22,
+    "slider_ratio": 0.5916,
+    "bpm_mean": 141.4545
+  },
+  {
+    "name": "Fuxi66",
+    "file": "Fuxi66.json",
+    "n_maps": 20,
+    "slider_ratio": 0.3108,
+    "bpm_mean": 187.5
+  },
+  {
+    "name": "Nozhomi",
+    "file": "Nozhomi.json",
+    "n_maps": 17,
+    "slider_ratio": 0.4832,
+    "bpm_mean": 163.7647
+  },
+  {
+    "name": "Marmowka",
+    "file": "Marmowka.json",
+    "n_maps": 15,
+    "slider_ratio": 0.5467,
+    "bpm_mean": 147.1333
+  },
+  {
+    "name": "Haruto",
+    "file": "Haruto.json",
+    "n_maps": 14,
+    "slider_ratio": 0.57,
+    "bpm_mean": 159.8571
+  },
+  {
+    "name": "VINXIS",
+    "file": "VINXIS.json",
+    "n_maps": 14,
+    "slider_ratio": 0.4462,
+    "bpm_mean": 200.0
+  },
+  {
+    "name": "Kagetsu",
+    "file": "Kagetsu.json",
+    "n_maps": 14,
+    "slider_ratio": 0.5278,
+    "bpm_mean": 191.5
+  },
+  {
+    "name": "Natsu",
+    "file": "Natsu.json",
+    "n_maps": 14,
+    "slider_ratio": 0.4982,
+    "bpm_mean": 120.5714
+  },
+  {
+    "name": "DeRandom Otaku",
+    "file": "DeRandom Otaku.json",
+    "n_maps": 14,
+    "slider_ratio": 0.5457,
+    "bpm_mean": 152.9286
+  },
+  {
+    "name": "Mizu",
+    "file": "Mizu.json",
+    "n_maps": 14,
+    "slider_ratio": 0.4657,
+    "bpm_mean": 141.5
+  },
+  {
+    "name": "hypercyte",
+    "file": "hypercyte.json",
+    "n_maps": 13,
+    "slider_ratio": 0.4936,
+    "bpm_mean": 129.6923
+  },
+  {
+    "name": "grumd",
+    "file": "grumd.json",
+    "n_maps": 12,
+    "slider_ratio": 0.5772,
+    "bpm_mean": 110.0
+  },
+  {
+    "name": "Doormat",
+    "file": "Doormat.json",
+    "n_maps": 12,
+    "slider_ratio": 0.4831,
+    "bpm_mean": 165.0
+  },
+  {
+    "name": "Fort",
+    "file": "Fort.json",
+    "n_maps": 11,
+    "slider_ratio": 0.4961,
+    "bpm_mean": 139.5455
+  },
+  {
+    "name": "ZLOdeuka-",
+    "file": "ZLOdeuka-.json",
+    "n_maps": 11,
+    "slider_ratio": 0.415,
+    "bpm_mean": 168.2727
+  },
+  {
+    "name": "Pachiru",
+    "file": "Pachiru.json",
+    "n_maps": 11,
+    "slider_ratio": 0.5387,
+    "bpm_mean": 144.9091
+  },
+  {
+    "name": "Trynna",
+    "file": "Trynna.json",
+    "n_maps": 11,
+    "slider_ratio": 0.5276,
+    "bpm_mean": 187.6364
+  },
+  {
+    "name": "Gero",
+    "file": "Gero.json",
+    "n_maps": 10,
+    "slider_ratio": 0.4938,
+    "bpm_mean": 160.558
+  },
+  {
+    "name": "xChippy",
+    "file": "xChippy.json",
+    "n_maps": 9,
+    "slider_ratio": 0.5652,
+    "bpm_mean": 180.2222
+  },
+  {
+    "name": "Mao",
+    "file": "Mao.json",
+    "n_maps": 9,
+    "slider_ratio": 0.4836,
+    "bpm_mean": 110.6667
+  },
+  {
+    "name": "nold_1702",
+    "file": "nold_1702.json",
+    "n_maps": 9,
+    "slider_ratio": 0.5935,
+    "bpm_mean": 140.0
+  },
+  {
+    "name": "Sekai-nyan",
+    "file": "Sekai-nyan.json",
+    "n_maps": 9,
+    "slider_ratio": 0.6315,
+    "bpm_mean": 154.2222
+  },
+  {
+    "name": "Irreversible",
+    "file": "Irreversible.json",
+    "n_maps": 9,
+    "slider_ratio": 0.5919,
+    "bpm_mean": 132.0
+  },
+  {
+    "name": "LunarFox",
+    "file": "LunarFox.json",
+    "n_maps": 9,
+    "slider_ratio": 0.4288,
+    "bpm_mean": 190.0
+  },
+  {
+    "name": "Milan-",
+    "file": "Milan-.json",
+    "n_maps": 9,
+    "slider_ratio": 0.5745,
+    "bpm_mean": 161.1111
+  },
+  {
+    "name": "Gologle",
+    "file": "Gologle.json",
+    "n_maps": 9,
+    "slider_ratio": 0.3043,
+    "bpm_mean": 160.0
+  },
+  {
+    "name": "Minakami Yuki",
+    "file": "Minakami Yuki.json",
+    "n_maps": 9,
+    "slider_ratio": 0.4322,
+    "bpm_mean": 185.0
+  },
+  {
+    "name": "Shmiklak",
+    "file": "Shmiklak.json",
+    "n_maps": 9,
+    "slider_ratio": 0.5663,
+    "bpm_mean": 100.0
+  },
+  {
+    "name": "Fatfan Kolek",
+    "file": "Fatfan Kolek.json",
+    "n_maps": 9,
+    "slider_ratio": 0.4204,
+    "bpm_mean": 175.0
+  },
+  {
+    "name": "-Hanayuki-",
+    "file": "-Hanayuki-.json",
+    "n_maps": 8,
+    "slider_ratio": 0.2296,
+    "bpm_mean": 200.0
+  },
+  {
+    "name": "Ashasaki",
+    "file": "Ashasaki.json",
+    "n_maps": 8,
+    "slider_ratio": 0.5294,
+    "bpm_mean": 167.56
+  },
+  {
+    "name": "Bakari",
+    "file": "Bakari.json",
+    "n_maps": 8,
+    "slider_ratio": 0.5233,
+    "bpm_mean": 144.8125
+  },
+  {
+    "name": "alacat",
+    "file": "alacat.json",
+    "n_maps": 8,
+    "slider_ratio": 0.4236,
+    "bpm_mean": 180.0
+  },
+  {
+    "name": "Jacob",
+    "file": "Jacob.json",
+    "n_maps": 8,
+    "slider_ratio": 0.4955,
+    "bpm_mean": 170.0
+  },
+  {
+    "name": "Secretpipe",
+    "file": "Secretpipe.json",
+    "n_maps": 8,
+    "slider_ratio": 0.5151,
+    "bpm_mean": 175.0
+  },
+  {
+    "name": "AtHeoN",
+    "file": "AtHeoN.json",
+    "n_maps": 8,
+    "slider_ratio": 0.4929,
+    "bpm_mean": 200.0
+  },
+  {
+    "name": "NewRulerNA",
+    "file": "NewRulerNA.json",
+    "n_maps": 8,
+    "slider_ratio": 0.1698,
+    "bpm_mean": 176.375
+  },
+  {
+    "name": "Astar",
+    "file": "Astar.json",
+    "n_maps": 8,
+    "slider_ratio": 0.3061,
+    "bpm_mean": 138.0
+  },
+  {
+    "name": "M a r v o l l o",
+    "file": "M a r v o l l o.json",
+    "n_maps": 8,
+    "slider_ratio": 0.4677,
+    "bpm_mean": 110.0
+  },
+  {
+    "name": "C00L",
+    "file": "C00L.json",
+    "n_maps": 8,
+    "slider_ratio": 0.4334,
+    "bpm_mean": 174.0
+  },
+  {
+    "name": "Reform",
+    "file": "Reform.json",
+    "n_maps": 8,
+    "slider_ratio": 0.3932,
+    "bpm_mean": 186.0
+  },
+  {
+    "name": "schoolboy",
+    "file": "schoolboy.json",
+    "n_maps": 7,
+    "slider_ratio": 0.4688,
+    "bpm_mean": 92.5714
+  },
+  {
+    "name": "Sonnyc",
+    "file": "Sonnyc.json",
+    "n_maps": 7,
+    "slider_ratio": 0.4146,
+    "bpm_mean": 132.1429
+  },
+  {
+    "name": "grizzlypng",
+    "file": "grizzlypng.json",
+    "n_maps": 7,
+    "slider_ratio": 0.3765,
+    "bpm_mean": 137.1071
+  },
+  {
+    "name": "kingcobra52",
+    "file": "kingcobra52.json",
+    "n_maps": 7,
+    "slider_ratio": 0.2416,
+    "bpm_mean": 185.7543
+  },
+  {
+    "name": "-Faded-",
+    "file": "-Faded-.json",
+    "n_maps": 7,
+    "slider_ratio": 0.5662,
+    "bpm_mean": 103.0
+  },
+  {
+    "name": "Tarrasky",
+    "file": "Tarrasky.json",
+    "n_maps": 7,
+    "slider_ratio": 0.5643,
+    "bpm_mean": 180.0
+  },
+  {
+    "name": "Lami",
+    "file": "Lami.json",
+    "n_maps": 7,
+    "slider_ratio": 0.5589,
+    "bpm_mean": 193.0
+  },
+  {
+    "name": "W h i t e",
+    "file": "W h i t e.json",
+    "n_maps": 7,
+    "slider_ratio": 0.5678,
+    "bpm_mean": 114.0
+  },
+  {
+    "name": "Imakuri",
+    "file": "Imakuri.json",
+    "n_maps": 7,
+    "slider_ratio": 0.6106,
+    "bpm_mean": 110.0
+  },
+  {
+    "name": "[ L u k a s ]",
+    "file": "_ L u k a s _.json",
+    "n_maps": 7,
+    "slider_ratio": 0.4718,
+    "bpm_mean": 175.0
+  },
+  {
+    "name": "Yahuri",
+    "file": "Yahuri.json",
+    "n_maps": 7,
+    "slider_ratio": 0.5,
+    "bpm_mean": 162.0
+  },
+  {
+    "name": "pishifat",
+    "file": "pishifat.json",
+    "n_maps": 6,
+    "slider_ratio": 0.476,
+    "bpm_mean": 175.8333
+  },
+  {
+    "name": "iljaaz",
+    "file": "iljaaz.json",
+    "n_maps": 6,
+    "slider_ratio": 0.3892,
+    "bpm_mean": 180.0
+  },
+  {
+    "name": "Seto Kousuke",
+    "file": "Seto Kousuke.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5903,
+    "bpm_mean": 140.0
+  },
+  {
+    "name": "Rosiie",
+    "file": "Rosiie.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5262,
+    "bpm_mean": 185.0
+  },
+  {
+    "name": "eLy",
+    "file": "eLy.json",
+    "n_maps": 6,
+    "slider_ratio": 0.4762,
+    "bpm_mean": 175.0
+  },
+  {
+    "name": "Fast",
+    "file": "Fast.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5721,
+    "bpm_mean": 185.0
+  },
+  {
+    "name": "Jemmmmy",
+    "file": "Jemmmmy.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5323,
+    "bpm_mean": 173.0
+  },
+  {
+    "name": "spboxer3",
+    "file": "spboxer3.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5419,
+    "bpm_mean": 156.0
+  },
+  {
+    "name": "Priti",
+    "file": "Priti.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5357,
+    "bpm_mean": 128.0
+  },
+  {
+    "name": "Cyllinus",
+    "file": "Cyllinus.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5712,
+    "bpm_mean": 92.0
+  },
+  {
+    "name": "Aia",
+    "file": "Aia.json",
+    "n_maps": 6,
+    "slider_ratio": 0.54,
+    "bpm_mean": 174.0
+  },
+  {
+    "name": "Aerous",
+    "file": "Aerous.json",
+    "n_maps": 6,
+    "slider_ratio": 0.515,
+    "bpm_mean": 180.0
+  },
+  {
+    "name": "Asserin",
+    "file": "Asserin.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5608,
+    "bpm_mean": 170.0
+  },
+  {
+    "name": "Cheesecake",
+    "file": "Cheesecake.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5139,
+    "bpm_mean": 175.0
+  },
+  {
+    "name": "ByBy13",
+    "file": "ByBy13.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5342,
+    "bpm_mean": 165.0
+  },
+  {
+    "name": "FCL",
+    "file": "FCL.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5355,
+    "bpm_mean": 175.0
+  },
+  {
+    "name": "KantoKun",
+    "file": "KantoKun.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5331,
+    "bpm_mean": 185.0
+  },
+  {
+    "name": "Plaudible",
+    "file": "Plaudible.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5048,
+    "bpm_mean": 174.0
+  },
+  {
+    "name": "Atrue",
+    "file": "Atrue.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5755,
+    "bpm_mean": 187.0
+  },
+  {
+    "name": "Euny",
+    "file": "Euny.json",
+    "n_maps": 6,
+    "slider_ratio": 0.487,
+    "bpm_mean": 100.0
+  },
+  {
+    "name": "DakeDekaane",
+    "file": "DakeDekaane.json",
+    "n_maps": 6,
+    "slider_ratio": 0.4759,
+    "bpm_mean": 174.0
+  },
+  {
+    "name": "MaridiuS",
+    "file": "MaridiuS.json",
+    "n_maps": 6,
+    "slider_ratio": 0.4768,
+    "bpm_mean": 175.0
+  },
+  {
+    "name": "Hobbes2",
+    "file": "Hobbes2.json",
+    "n_maps": 6,
+    "slider_ratio": 0.3962,
+    "bpm_mean": 160.0
+  },
+  {
+    "name": "Amandia",
+    "file": "Amandia.json",
+    "n_maps": 6,
+    "slider_ratio": 0.5599,
+    "bpm_mean": 185.0
+  },
+  {
+    "name": "pane",
+    "file": "pane.json",
+    "n_maps": 5,
+    "slider_ratio": 0.4311,
+    "bpm_mean": 105.0
+  },
+  {
+    "name": "Hinsvar",
+    "file": "Hinsvar.json",
+    "n_maps": 5,
+    "slider_ratio": 0.4662,
+    "bpm_mean": 200.0
+  },
+  {
+    "name": "Crissa",
+    "file": "Crissa.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5276,
+    "bpm_mean": 135.0
+  },
+  {
+    "name": "Liiraye",
+    "file": "Liiraye.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5961,
+    "bpm_mean": 200.84
+  },
+  {
+    "name": "Ephemeral",
+    "file": "Ephemeral.json",
+    "n_maps": 5,
+    "slider_ratio": 0.2963,
+    "bpm_mean": 137.98
+  },
+  {
+    "name": "wafer",
+    "file": "wafer.json",
+    "n_maps": 5,
+    "slider_ratio": 0.4689,
+    "bpm_mean": 175.0
+  },
+  {
+    "name": "Airiesu",
+    "file": "Airiesu.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5516,
+    "bpm_mean": 120.0
+  },
+  {
+    "name": "coco",
+    "file": "coco.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5333,
+    "bpm_mean": 192.0
+  },
+  {
+    "name": "popner",
+    "file": "popner.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5538,
+    "bpm_mean": 185.0
+  },
+  {
+    "name": "Yugu",
+    "file": "Yugu.json",
+    "n_maps": 5,
+    "slider_ratio": 0.4425,
+    "bpm_mean": 140.0
+  },
+  {
+    "name": "Timorisu",
+    "file": "Timorisu.json",
+    "n_maps": 5,
+    "slider_ratio": 0.4557,
+    "bpm_mean": 132.4
+  },
+  {
+    "name": "AllStar12",
+    "file": "AllStar12.json",
+    "n_maps": 5,
+    "slider_ratio": 0.4478,
+    "bpm_mean": 190.0
+  },
+  {
+    "name": "Atsuro",
+    "file": "Atsuro.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5255,
+    "bpm_mean": 176.0
+  },
+  {
+    "name": "Julie",
+    "file": "Julie.json",
+    "n_maps": 5,
+    "slider_ratio": 0.4888,
+    "bpm_mean": 155.0
+  },
+  {
+    "name": "Pigeons",
+    "file": "Pigeons.json",
+    "n_maps": 5,
+    "slider_ratio": 0.4794,
+    "bpm_mean": 202.0
+  },
+  {
+    "name": "ztrot",
+    "file": "ztrot.json",
+    "n_maps": 5,
+    "slider_ratio": 0.2561,
+    "bpm_mean": 162.5
+  },
+  {
+    "name": "kristi71111",
+    "file": "kristi71111.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5196,
+    "bpm_mean": 135.0
+  },
+  {
+    "name": "MrSergio",
+    "file": "MrSergio.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5371,
+    "bpm_mean": 154.0
+  },
+  {
+    "name": "Kazuya",
+    "file": "Kazuya.json",
+    "n_maps": 5,
+    "slider_ratio": 0.6483,
+    "bpm_mean": 128.0
+  },
+  {
+    "name": "Kyshiro",
+    "file": "Kyshiro.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5458,
+    "bpm_mean": 150.0
+  },
+  {
+    "name": "Veridian",
+    "file": "Veridian.json",
+    "n_maps": 5,
+    "slider_ratio": 0.4505,
+    "bpm_mean": 155.0
+  },
+  {
+    "name": "Bearizm",
+    "file": "Bearizm.json",
+    "n_maps": 5,
+    "slider_ratio": 0.6055,
+    "bpm_mean": 174.0
+  },
+  {
+    "name": "Len",
+    "file": "Len.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5159,
+    "bpm_mean": 168.0
+  },
+  {
+    "name": "Astarte",
+    "file": "Astarte.json",
+    "n_maps": 5,
+    "slider_ratio": 0.6852,
+    "bpm_mean": 90.0
+  },
+  {
+    "name": "Spotty",
+    "file": "Spotty.json",
+    "n_maps": 5,
+    "slider_ratio": 0.409,
+    "bpm_mean": 160.0
+  },
+  {
+    "name": "Nerova Riuz GX",
+    "file": "Nerova Riuz GX.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5925,
+    "bpm_mean": 110.0
+  },
+  {
+    "name": "Feb",
+    "file": "Feb.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5933,
+    "bpm_mean": 100.0
+  },
+  {
+    "name": "sahuang",
+    "file": "sahuang.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5781,
+    "bpm_mean": 185.0
+  },
+  {
+    "name": "iYiyo",
+    "file": "iYiyo.json",
+    "n_maps": 5,
+    "slider_ratio": 0.582,
+    "bpm_mean": 168.0
+  },
+  {
+    "name": "Finshie",
+    "file": "Finshie.json",
+    "n_maps": 5,
+    "slider_ratio": 0.623,
+    "bpm_mean": 200.0
+  },
+  {
+    "name": "Yamicchi",
+    "file": "Yamicchi.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5828,
+    "bpm_mean": 174.0
+  },
+  {
+    "name": "Weez",
+    "file": "Weez.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5477,
+    "bpm_mean": 183.0
+  },
+  {
+    "name": "_83",
+    "file": "_83.json",
+    "n_maps": 5,
+    "slider_ratio": 0.519,
+    "bpm_mean": 140.0
+  },
+  {
+    "name": "[ IWeenox ]",
+    "file": "_ IWeenox _.json",
+    "n_maps": 5,
+    "slider_ratio": 0.6056,
+    "bpm_mean": 150.0
+  },
+  {
+    "name": "taku",
+    "file": "taku.json",
+    "n_maps": 5,
+    "slider_ratio": 0.55,
+    "bpm_mean": 160.0
+  },
+  {
+    "name": "jonathanlfj",
+    "file": "jonathanlfj.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5214,
+    "bpm_mean": 186.0
+  },
+  {
+    "name": "HabiHolic",
+    "file": "HabiHolic.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5688,
+    "bpm_mean": 190.0
+  },
+  {
+    "name": "Foxy Grandpa",
+    "file": "Foxy Grandpa.json",
+    "n_maps": 5,
+    "slider_ratio": 0.483,
+    "bpm_mean": 78.5
+  },
+  {
+    "name": "NeilPerry",
+    "file": "NeilPerry.json",
+    "n_maps": 5,
+    "slider_ratio": 0.6008,
+    "bpm_mean": 172.0
+  },
+  {
+    "name": "Star Stream",
+    "file": "Star Stream.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5512,
+    "bpm_mean": 185.0
+  },
+  {
+    "name": "Testo",
+    "file": "Testo.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5053,
+    "bpm_mean": 157.0
+  },
+  {
+    "name": "ScubDomino",
+    "file": "ScubDomino.json",
+    "n_maps": 5,
+    "slider_ratio": 0.5469,
+    "bpm_mean": 172.0
+  },
+  {
+    "name": "dougchansan",
+    "file": "dougchansan.json",
+    "n_maps": 5,
+    "slider_ratio": 0.493,
+    "bpm_mean": 136.0
+  },
+  {
+    "name": "AirinCat",
+    "file": "AirinCat.json",
+    "n_maps": 4,
+    "slider_ratio": 0.526,
+    "bpm_mean": 190.0
+  },
+  {
+    "name": "[Luanny]",
+    "file": "_Luanny_.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5556,
+    "bpm_mean": 170.0
+  },
+  {
+    "name": "yShadowXOP_",
+    "file": "yShadowXOP_.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4572,
+    "bpm_mean": 165.0
+  },
+  {
+    "name": "browiec",
+    "file": "browiec.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5079,
+    "bpm_mean": 190.0
+  },
+  {
+    "name": "aqilmanuar",
+    "file": "aqilmanuar.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4445,
+    "bpm_mean": 165.0
+  },
+  {
+    "name": "Pieseu",
+    "file": "Pieseu.json",
+    "n_maps": 4,
+    "slider_ratio": 0.6712,
+    "bpm_mean": 140.0
+  },
+  {
+    "name": "Beige",
+    "file": "Beige.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4602,
+    "bpm_mean": 154.0
+  },
+  {
+    "name": "_Legacy",
+    "file": "_Legacy.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5497,
+    "bpm_mean": 145.36
+  },
+  {
+    "name": "Dyl-Byl",
+    "file": "Dyl-Byl.json",
+    "n_maps": 4,
+    "slider_ratio": 0.6171,
+    "bpm_mean": 111.0
+  },
+  {
+    "name": "Frostmourne",
+    "file": "Frostmourne.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5007,
+    "bpm_mean": 171.0
+  },
+  {
+    "name": "Meg",
+    "file": "Meg.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4894,
+    "bpm_mean": 180.0
+  },
+  {
+    "name": "Sytho",
+    "file": "Sytho.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4882,
+    "bpm_mean": 166.0
+  },
+  {
+    "name": "Flake",
+    "file": "Flake.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5841,
+    "bpm_mean": 130.0
+  },
+  {
+    "name": "dkblaze",
+    "file": "dkblaze.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4391,
+    "bpm_mean": 140.0
+  },
+  {
+    "name": "Lally",
+    "file": "Lally.json",
+    "n_maps": 4,
+    "slider_ratio": 0.6427,
+    "bpm_mean": 128.0
+  },
+  {
+    "name": "No Dap",
+    "file": "No Dap.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5439,
+    "bpm_mean": 165.0
+  },
+  {
+    "name": "Sylith",
+    "file": "Sylith.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5831,
+    "bpm_mean": 181.0
+  },
+  {
+    "name": "NatsumeRin",
+    "file": "NatsumeRin.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4431,
+    "bpm_mean": 171.0
+  },
+  {
+    "name": "Ignacio",
+    "file": "Ignacio.json",
+    "n_maps": 4,
+    "slider_ratio": 0.3781,
+    "bpm_mean": 132.0
+  },
+  {
+    "name": "Guy",
+    "file": "Guy.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5837,
+    "bpm_mean": 171.0
+  },
+  {
+    "name": "Kibbleru",
+    "file": "Kibbleru.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5978,
+    "bpm_mean": 180.0
+  },
+  {
+    "name": "Zohakuten_987",
+    "file": "Zohakuten_987.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4478,
+    "bpm_mean": 173.0
+  },
+  {
+    "name": "Larto",
+    "file": "Larto.json",
+    "n_maps": 4,
+    "slider_ratio": 0.1831,
+    "bpm_mean": 122.0
+  },
+  {
+    "name": "osuplayer111",
+    "file": "osuplayer111.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5275,
+    "bpm_mean": 162.5
+  },
+  {
+    "name": "Come[Back]Home",
+    "file": "Come_Back_Home.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4797,
+    "bpm_mean": 126.0
+  },
+  {
+    "name": "Bonsai",
+    "file": "Bonsai.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5771,
+    "bpm_mean": 123.99
+  },
+  {
+    "name": "PantyDev",
+    "file": "PantyDev.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5753,
+    "bpm_mean": 180.0
+  },
+  {
+    "name": "Tony",
+    "file": "Tony.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4605,
+    "bpm_mean": 174.0
+  },
+  {
+    "name": "Left",
+    "file": "Left.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5233,
+    "bpm_mean": 180.96
+  },
+  {
+    "name": "LoliSora",
+    "file": "LoliSora.json",
+    "n_maps": 4,
+    "slider_ratio": 0.486,
+    "bpm_mean": 170.0
+  },
+  {
+    "name": "vanucik",
+    "file": "vanucik.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5074,
+    "bpm_mean": 150.0
+  },
+  {
+    "name": "Roxas",
+    "file": "Roxas.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4702,
+    "bpm_mean": 128.0
+  },
+  {
+    "name": "Nathan",
+    "file": "Nathan.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5259,
+    "bpm_mean": 90.0
+  },
+  {
+    "name": "yeahyeahyeahhh",
+    "file": "yeahyeahyeahhh.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4502,
+    "bpm_mean": 132.0
+  },
+  {
+    "name": "ProfessionalBox",
+    "file": "ProfessionalBox.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5831,
+    "bpm_mean": 176.0
+  },
+  {
+    "name": "CircleNoob101",
+    "file": "CircleNoob101.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5593,
+    "bpm_mean": 186.0
+  },
+  {
+    "name": "Ryafuka",
+    "file": "Ryafuka.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4766,
+    "bpm_mean": 179.0
+  },
+  {
+    "name": "MokouSmoke",
+    "file": "MokouSmoke.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5451,
+    "bpm_mean": 177.0
+  },
+  {
+    "name": "Mirash",
+    "file": "Mirash.json",
+    "n_maps": 4,
+    "slider_ratio": 0.5976,
+    "bpm_mean": 175.0
+  },
+  {
+    "name": "meiikyuu",
+    "file": "meiikyuu.json",
+    "n_maps": 4,
+    "slider_ratio": 0.6743,
+    "bpm_mean": 200.0
+  },
+  {
+    "name": "inverness",
+    "file": "inverness.json",
+    "n_maps": 4,
+    "slider_ratio": 0.6335,
+    "bpm_mean": 87.0
+  },
+  {
+    "name": "Nattu",
+    "file": "Nattu.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4233,
+    "bpm_mean": 190.0
+  },
+  {
+    "name": "Rolniczy",
+    "file": "Rolniczy.json",
+    "n_maps": 4,
+    "slider_ratio": 0.4214,
+    "bpm_mean": 175.0
+  }
+]

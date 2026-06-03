@@ -1,0 +1,57 @@
+{
+  "mapper": "Larto",
+  "n_maps": 4,
+  "n_objects_total": 1093,
+  "bpm_mean": 122.0,
+  "bpm_std": 0.0,
+  "cs_mean": 4.25,
+  "ar_mean": 9.0,
+  "od_mean": 4.75,
+  "circle_ratio": 0.7809,
+  "slider_ratio": 0.1831,
+  "spinner_ratio": 0.0361,
+  "rhythm_hist": {
+    "1/4": 0.0085,
+    "1/3": 0.0,
+    "1/2": 0.344,
+    "2/3": 0.0,
+    "3/4": 0.0028,
+    "1/1": 0.2648,
+    "3/2": 0.0909,
+    "2/1": 0.1807,
+    "2+": 0.1082
+  },
+  "type_transitions": {
+    "circle>circle": 0.6581,
+    "circle>slider": 0.1086,
+    "circle>spinner": 0.0175,
+    "slider>circle": 0.1064,
+    "slider>slider": 0.0621,
+    "slider>spinner": 0.0156,
+    "spinner>circle": 0.0157,
+    "spinner>slider": 0.0127,
+    "spinner>spinner": 0.0032
+  },
+  "spacing_slope": 1.8491,
+  "spacing_intercept": 0.5486,
+  "spacing_slope_std": 0.5776,
+  "jump_factor": 1.8164,
+  "mean_turn_deg": 78.5775,
+  "flow_ratio": 0.5071,
+  "objects_per_combo": 4.65,
+  "beats_per_combo": 6.7625,
+  "slider_dur_beats_med": 1.5,
+  "curve_freq": {
+    "L": 0.0,
+    "P": 0.0,
+    "B": 1.0
+  },
+  "stream_rate": 0.0053,
+  "mean_stream_len": 2.0,
+  "sample_versions": [
+    "How to talk (122bpm)",
+    "How to walk (122bpm)",
+    "Larto's How to Save a Life (122bpm)",
+    "mrtn's How to Save a life (122bpm)"
+  ]
+}

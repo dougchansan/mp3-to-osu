@@ -1,0 +1,58 @@
+{
+  "mapper": "-Faded-",
+  "n_maps": 7,
+  "n_objects_total": 2764,
+  "bpm_mean": 103.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.5143,
+  "ar_mean": 7.3714,
+  "od_mean": 6.3429,
+  "circle_ratio": 0.4298,
+  "slider_ratio": 0.5662,
+  "spinner_ratio": 0.0041,
+  "rhythm_hist": {
+    "1/4": 0.2328,
+    "1/3": 0.0005,
+    "1/2": 0.3424,
+    "2/3": 0.0007,
+    "3/4": 0.0755,
+    "1/1": 0.1196,
+    "3/2": 0.0797,
+    "2/1": 0.1356,
+    "2+": 0.0132
+  },
+  "type_transitions": {
+    "circle>circle": 0.1794,
+    "circle>slider": 0.2488,
+    "circle>spinner": 0.0028,
+    "slider>circle": 0.2513,
+    "slider>slider": 0.3164,
+    "slider>spinner": 0.0005,
+    "spinner>spinner": 0.0008
+  },
+  "spacing_slope": 1.3986,
+  "spacing_intercept": 3.0029,
+  "spacing_slope_std": 0.6848,
+  "jump_factor": 4.2209,
+  "mean_turn_deg": 91.0371,
+  "flow_ratio": 0.4868,
+  "objects_per_combo": 4.7471,
+  "beats_per_combo": 3.7743,
+  "slider_dur_beats_med": 0.6071,
+  "curve_freq": {
+    "L": 0.2453,
+    "P": 0.6461,
+    "B": 0.1086
+  },
+  "stream_rate": 0.2244,
+  "mean_stream_len": 2.38,
+  "sample_versions": [
+    "ColdTooth's Advanced (103bpm)",
+    "ColdTooth's Hard (103bpm)",
+    "Extra (103bpm)",
+    "Insane (103bpm)",
+    "Kenterz's Easy (103bpm)",
+    "Nightmare (103bpm)",
+    "Normal (103bpm)"
+  ]
+}

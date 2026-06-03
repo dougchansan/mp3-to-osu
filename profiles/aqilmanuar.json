@@ -1,0 +1,53 @@
+{
+  "mapper": "aqilmanuar",
+  "n_maps": 4,
+  "n_objects_total": 909,
+  "bpm_mean": 165.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.625,
+  "ar_mean": 7.475,
+  "od_mean": 6.75,
+  "circle_ratio": 0.5551,
+  "slider_ratio": 0.4445,
+  "spinner_ratio": 0.0004,
+  "rhythm_hist": {
+    "1/4": 0.1962,
+    "1/3": 0.0081,
+    "1/2": 0.2542,
+    "2/3": 0.0,
+    "3/4": 0.0067,
+    "1/1": 0.314,
+    "3/2": 0.1364,
+    "2/1": 0.063,
+    "2+": 0.0212
+  },
+  "type_transitions": {
+    "circle>circle": 0.3764,
+    "circle>slider": 0.1792,
+    "circle>spinner": 0.0004,
+    "slider>circle": 0.1889,
+    "slider>slider": 0.2551
+  },
+  "spacing_slope": 1.7347,
+  "spacing_intercept": 1.7566,
+  "spacing_slope_std": 0.9458,
+  "jump_factor": 3.5133,
+  "mean_turn_deg": 93.435,
+  "flow_ratio": 0.4932,
+  "objects_per_combo": 7.775,
+  "beats_per_combo": 6.1875,
+  "slider_dur_beats_med": 0.625,
+  "curve_freq": {
+    "L": 0.4049,
+    "P": 0.5309,
+    "B": 0.0642
+  },
+  "stream_rate": 0.2161,
+  "mean_stream_len": 4.2125,
+  "sample_versions": [
+    "dreams (165bpm)",
+    "Hard (165bpm)",
+    "Insane (165bpm)",
+    "Normal (165bpm)"
+  ]
+}

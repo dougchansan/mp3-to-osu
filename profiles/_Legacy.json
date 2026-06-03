@@ -1,0 +1,57 @@
+{
+  "mapper": "_Legacy",
+  "n_maps": 4,
+  "n_objects_total": 2096,
+  "bpm_mean": 145.36,
+  "bpm_std": 0.0,
+  "cs_mean": 3.4,
+  "ar_mean": 7.825,
+  "od_mean": 6.625,
+  "circle_ratio": 0.4423,
+  "slider_ratio": 0.5497,
+  "spinner_ratio": 0.008,
+  "rhythm_hist": {
+    "1/4": 0.0672,
+    "1/3": 0.0,
+    "1/2": 0.4612,
+    "2/3": 0.0004,
+    "3/4": 0.0047,
+    "1/1": 0.3266,
+    "3/2": 0.0708,
+    "2/1": 0.0504,
+    "2+": 0.0187
+  },
+  "type_transitions": {
+    "circle>circle": 0.2593,
+    "circle>slider": 0.1788,
+    "circle>spinner": 0.0043,
+    "slider>circle": 0.1803,
+    "slider>slider": 0.3671,
+    "slider>spinner": 0.0029,
+    "spinner>circle": 0.0024,
+    "spinner>slider": 0.004,
+    "spinner>spinner": 0.0008
+  },
+  "spacing_slope": 1.5666,
+  "spacing_intercept": 2.044,
+  "spacing_slope_std": 0.5415,
+  "jump_factor": 3.3708,
+  "mean_turn_deg": 97.0175,
+  "flow_ratio": 0.4312,
+  "objects_per_combo": 3.6775,
+  "beats_per_combo": 3.7725,
+  "slider_dur_beats_med": 0.5312,
+  "curve_freq": {
+    "L": 0.2928,
+    "P": 0.4822,
+    "B": 0.225
+  },
+  "stream_rate": 0.0788,
+  "mean_stream_len": 3.285,
+  "sample_versions": [
+    "H a r d (145bpm)",
+    "Legacy x gwb's   I n s a n e (145bpm)",
+    "O n e   i n   a   M i l l i o n (145bpm)",
+    "Xahlt's   N o r m a l (145bpm)"
+  ]
+}

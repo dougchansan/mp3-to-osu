@@ -1,0 +1,53 @@
+{
+  "mapper": "Feb",
+  "n_maps": 5,
+  "n_objects_total": 1622,
+  "bpm_mean": 100.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.68,
+  "ar_mean": 6.84,
+  "od_mean": 6.3,
+  "circle_ratio": 0.4067,
+  "slider_ratio": 0.5933,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.2769,
+    "1/3": 0.0004,
+    "1/2": 0.317,
+    "2/3": 0.0004,
+    "3/4": 0.1141,
+    "1/1": 0.1132,
+    "3/2": 0.0603,
+    "2/1": 0.0767,
+    "2+": 0.041
+  },
+  "type_transitions": {
+    "circle>slider": 0.2099,
+    "slider>circle": 0.2107,
+    "slider>slider": 0.3819,
+    "circle>circle": 0.1975
+  },
+  "spacing_slope": 2.7667,
+  "spacing_intercept": 1.8502,
+  "spacing_slope_std": 2.1105,
+  "jump_factor": 3.3865,
+  "mean_turn_deg": 84.276,
+  "flow_ratio": 0.5319,
+  "objects_per_combo": 4.246,
+  "beats_per_combo": 3.626,
+  "slider_dur_beats_med": 0.55,
+  "curve_freq": {
+    "L": 0.5898,
+    "P": 0.3356,
+    "B": 0.0746
+  },
+  "stream_rate": 0.3414,
+  "mean_stream_len": 2.214,
+  "sample_versions": [
+    "Easy (100bpm)",
+    "Gangsta (100bpm)",
+    "Hard (100bpm)",
+    "Insane (100bpm)",
+    "Normal (100bpm)"
+  ]
+}

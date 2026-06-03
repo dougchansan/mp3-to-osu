@@ -1,0 +1,61 @@
+{
+  "mapper": "fanzhen0019",
+  "n_maps": 110,
+  "n_objects_total": 45569,
+  "bpm_mean": 160.8188,
+  "bpm_std": 35.5998,
+  "cs_mean": 3.9309,
+  "ar_mean": 7.1136,
+  "od_mean": 5.93,
+  "circle_ratio": 0.5303,
+  "slider_ratio": 0.4608,
+  "spinner_ratio": 0.0089,
+  "rhythm_hist": {
+    "1/4": 0.1387,
+    "1/3": 0.0145,
+    "1/2": 0.2629,
+    "2/3": 0.0047,
+    "3/4": 0.0369,
+    "1/1": 0.2668,
+    "3/2": 0.0696,
+    "2/1": 0.1259,
+    "2+": 0.0802
+  },
+  "type_transitions": {
+    "circle>circle": 0.34,
+    "circle>slider": 0.1857,
+    "circle>spinner": 0.005,
+    "slider>circle": 0.187,
+    "slider>slider": 0.2713,
+    "slider>spinner": 0.0035,
+    "spinner>circle": 0.0035,
+    "spinner>slider": 0.0037,
+    "spinner>spinner": 0.0003
+  },
+  "spacing_slope": 2.3931,
+  "spacing_intercept": 1.3838,
+  "spacing_slope_std": 1.9506,
+  "jump_factor": 3.39,
+  "mean_turn_deg": 85.0658,
+  "flow_ratio": 0.5211,
+  "objects_per_combo": 3.7663,
+  "beats_per_combo": 4.4314,
+  "slider_dur_beats_med": 0.813,
+  "curve_freq": {
+    "L": 0.3685,
+    "P": 0.0,
+    "B": 0.6315
+  },
+  "stream_rate": 0.1399,
+  "mean_stream_len": 5.7429,
+  "sample_versions": [
+    "Easy (150bpm)",
+    "Maniac (150bpm)",
+    "Hyper (164bpm)",
+    "Crash (164bpm)",
+    "Normal (164bpm)",
+    "Lunatic (185bpm)",
+    "Normal (185bpm)",
+    "Hyper (169bpm)"
+  ]
+}

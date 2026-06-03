@@ -1,0 +1,56 @@
+{
+  "mapper": "Frostmourne",
+  "n_maps": 4,
+  "n_objects_total": 1679,
+  "bpm_mean": 171.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.5,
+  "ar_mean": 6.625,
+  "od_mean": 5.0,
+  "circle_ratio": 0.4938,
+  "slider_ratio": 0.5007,
+  "spinner_ratio": 0.0055,
+  "rhythm_hist": {
+    "1/4": 0.0009,
+    "1/3": 0.0,
+    "1/2": 0.2515,
+    "2/3": 0.0,
+    "3/4": 0.0,
+    "1/1": 0.3719,
+    "3/2": 0.0796,
+    "2/1": 0.2126,
+    "2+": 0.0835
+  },
+  "type_transitions": {
+    "circle>circle": 0.2513,
+    "circle>slider": 0.2411,
+    "slider>circle": 0.243,
+    "slider>slider": 0.2563,
+    "slider>spinner": 0.0011,
+    "spinner>slider": 0.0046,
+    "circle>spinner": 0.0016,
+    "spinner>circle": 0.0009
+  },
+  "spacing_slope": 1.3902,
+  "spacing_intercept": 1.8203,
+  "spacing_slope_std": 0.6678,
+  "jump_factor": 2.7921,
+  "mean_turn_deg": 99.3825,
+  "flow_ratio": 0.3978,
+  "objects_per_combo": 5.315,
+  "beats_per_combo": 7.235,
+  "slider_dur_beats_med": 1.0,
+  "curve_freq": {
+    "L": 0.2765,
+    "P": 0.3625,
+    "B": 0.361
+  },
+  "stream_rate": 0.0,
+  "mean_stream_len": 0.0,
+  "sample_versions": [
+    "Easy (171bpm)",
+    "Hard (171bpm)",
+    "Insane (171bpm)",
+    "Normal (171bpm)"
+  ]
+}

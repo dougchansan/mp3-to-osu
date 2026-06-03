@@ -1,0 +1,61 @@
+{
+  "mapper": "Gero",
+  "n_maps": 10,
+  "n_objects_total": 4234,
+  "bpm_mean": 160.558,
+  "bpm_std": 11.7918,
+  "cs_mean": 3.68,
+  "ar_mean": 6.9,
+  "od_mean": 5.55,
+  "circle_ratio": 0.4964,
+  "slider_ratio": 0.4938,
+  "spinner_ratio": 0.0099,
+  "rhythm_hist": {
+    "1/4": 0.0973,
+    "1/3": 0.0,
+    "1/2": 0.2517,
+    "2/3": 0.0,
+    "3/4": 0.0111,
+    "1/1": 0.2739,
+    "3/2": 0.1343,
+    "2/1": 0.1316,
+    "2+": 0.1001
+  },
+  "type_transitions": {
+    "circle>circle": 0.2395,
+    "circle>slider": 0.2493,
+    "circle>spinner": 0.0083,
+    "slider>circle": 0.255,
+    "slider>slider": 0.2391,
+    "spinner>circle": 0.0027,
+    "slider>spinner": 0.0012,
+    "spinner>slider": 0.0045,
+    "spinner>spinner": 0.0004
+  },
+  "spacing_slope": 2.0174,
+  "spacing_intercept": 1.4185,
+  "spacing_slope_std": 1.0177,
+  "jump_factor": 3.211,
+  "mean_turn_deg": 88.76,
+  "flow_ratio": 0.4867,
+  "objects_per_combo": 4.133,
+  "beats_per_combo": 5.927,
+  "slider_dur_beats_med": 1.05,
+  "curve_freq": {
+    "L": 0.2497,
+    "P": 0.4279,
+    "B": 0.3223
+  },
+  "stream_rate": 0.1026,
+  "mean_stream_len": 3.966,
+  "sample_versions": [
+    "-Yuzuriha's Insane (151bpm)",
+    "Asphyxia's Expert (151bpm)",
+    "Easy (151bpm)",
+    "Geroversible's Sassy Night (151bpm)",
+    "Hard (151bpm)",
+    "Lally's Normal (151bpm)",
+    "Easy (175bpm)",
+    "Gerodrea's Eternity Love (175bpm)"
+  ]
+}

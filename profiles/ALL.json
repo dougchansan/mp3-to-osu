@@ -1,0 +1,61 @@
+{
+  "mapper": "ALL",
+  "n_maps": 1389,
+  "n_objects_total": 561993,
+  "bpm_mean": 159.4574,
+  "bpm_std": 33.3549,
+  "cs_mean": 3.7337,
+  "ar_mean": 7.4597,
+  "od_mean": 6.3047,
+  "circle_ratio": 0.5047,
+  "slider_ratio": 0.4894,
+  "spinner_ratio": 0.0059,
+  "rhythm_hist": {
+    "1/4": 0.1266,
+    "1/3": 0.0156,
+    "1/2": 0.2902,
+    "2/3": 0.0073,
+    "3/4": 0.0271,
+    "1/1": 0.2812,
+    "3/2": 0.0852,
+    "2/1": 0.1139,
+    "2+": 0.0529
+  },
+  "type_transitions": {
+    "circle>circle": 0.2974,
+    "circle>slider": 0.2047,
+    "circle>spinner": 0.0031,
+    "slider>circle": 0.2067,
+    "slider>slider": 0.2815,
+    "slider>spinner": 0.0024,
+    "spinner>circle": 0.0013,
+    "spinner>slider": 0.0026,
+    "spinner>spinner": 0.0002
+  },
+  "spacing_slope": 1.9148,
+  "spacing_intercept": 2.0306,
+  "spacing_slope_std": 1.3217,
+  "jump_factor": 3.6905,
+  "mean_turn_deg": 92.5881,
+  "flow_ratio": 0.4599,
+  "objects_per_combo": 4.3985,
+  "beats_per_combo": 4.838,
+  "slider_dur_beats_med": 0.7506,
+  "curve_freq": {
+    "L": 0.3448,
+    "P": 0.4579,
+    "B": 0.1973
+  },
+  "stream_rate": 0.1362,
+  "mean_stream_len": 3.1193,
+  "sample_versions": [
+    "Easy (160bpm)",
+    "Hard (160bpm)",
+    "Normal (160bpm)",
+    "Extra (190bpm)",
+    "Hard (190bpm)",
+    "Insane (190bpm)",
+    "Normal (190bpm)",
+    "Guinea Pig Technology (180bpm)"
+  ]
+}

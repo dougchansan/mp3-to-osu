@@ -1,0 +1,58 @@
+{
+  "mapper": "NewRulerNA",
+  "n_maps": 8,
+  "n_objects_total": 6016,
+  "bpm_mean": 176.375,
+  "bpm_std": 24.8894,
+  "cs_mean": 4.0,
+  "ar_mean": 8.25,
+  "od_mean": 7.625,
+  "circle_ratio": 0.8293,
+  "slider_ratio": 0.1698,
+  "spinner_ratio": 0.001,
+  "rhythm_hist": {
+    "1/4": 0.7403,
+    "1/3": 0.0086,
+    "1/2": 0.1156,
+    "2/3": 0.0,
+    "3/4": 0.0042,
+    "1/1": 0.0969,
+    "3/2": 0.0149,
+    "2/1": 0.0135,
+    "2+": 0.006
+  },
+  "type_transitions": {
+    "circle>circle": 0.7752,
+    "circle>slider": 0.0537,
+    "slider>circle": 0.0544,
+    "slider>slider": 0.1156,
+    "circle>spinner": 0.001,
+    "spinner>circle": 0.0001
+  },
+  "spacing_slope": 2.703,
+  "spacing_intercept": 0.1167,
+  "spacing_slope_std": 0.7397,
+  "jump_factor": 2.7646,
+  "mean_turn_deg": 28.9425,
+  "flow_ratio": 0.9028,
+  "objects_per_combo": 6.995,
+  "beats_per_combo": 3.045,
+  "slider_dur_beats_med": 0.5938,
+  "curve_freq": {
+    "L": 0.0,
+    "P": 0.0,
+    "B": 1.0
+  },
+  "stream_rate": 0.8118,
+  "mean_stream_len": 12.1625,
+  "sample_versions": [
+    "Almagest BPM178 (178bpm)",
+    "Mendes BPM168 (168bpm)",
+    "rog-limitation BPM220 (220bpm)",
+    "Rondo Alla Turca (Ryu* Remix) BPM142 (142bpm)",
+    "Shinsekai BPM193 (193bpm)",
+    "Snow Goose BPM200 (200bpm)",
+    "Theory of Eternity BPM160 (160bpm)",
+    "V2 BPM150 (150bpm)"
+  ]
+}

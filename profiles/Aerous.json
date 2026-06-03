@@ -1,0 +1,57 @@
+{
+  "mapper": "Aerous",
+  "n_maps": 6,
+  "n_objects_total": 1586,
+  "bpm_mean": 180.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.75,
+  "ar_mean": 7.2167,
+  "od_mean": 5.8,
+  "circle_ratio": 0.4793,
+  "slider_ratio": 0.515,
+  "spinner_ratio": 0.0056,
+  "rhythm_hist": {
+    "1/4": 0.0615,
+    "1/3": 0.0,
+    "1/2": 0.3239,
+    "2/3": 0.0,
+    "3/4": 0.0062,
+    "1/1": 0.2856,
+    "3/2": 0.1197,
+    "2/1": 0.1104,
+    "2+": 0.0926
+  },
+  "type_transitions": {
+    "circle>circle": 0.2423,
+    "circle>slider": 0.2358,
+    "circle>spinner": 0.0031,
+    "slider>circle": 0.239,
+    "slider>slider": 0.2762,
+    "slider>spinner": 0.0025,
+    "spinner>slider": 0.0011
+  },
+  "spacing_slope": 1.0707,
+  "spacing_intercept": 2.5675,
+  "spacing_slope_std": 0.518,
+  "jump_factor": 3.5939,
+  "mean_turn_deg": 98.2783,
+  "flow_ratio": 0.4177,
+  "objects_per_combo": 4.9917,
+  "beats_per_combo": 5.69,
+  "slider_dur_beats_med": 0.8333,
+  "curve_freq": {
+    "L": 0.3626,
+    "P": 0.5227,
+    "B": 0.1147
+  },
+  "stream_rate": 0.0728,
+  "mean_stream_len": 2.5,
+  "sample_versions": [
+    "-Yuzuriha's Insane (180bpm)",
+    "Easy (180bpm)",
+    "FreeSongs' Hard (180bpm)",
+    "Gaia's Illusion (180bpm)",
+    "Insane (180bpm)",
+    "Rei's Normal (180bpm)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "mapper": "Snow Note",
+  "n_maps": 27,
+  "n_objects_total": 10999,
+  "bpm_mean": 191.1852,
+  "bpm_std": 67.7058,
+  "cs_mean": 3.3815,
+  "ar_mean": 6.7519,
+  "od_mean": 6.2407,
+  "circle_ratio": 0.5706,
+  "slider_ratio": 0.4246,
+  "spinner_ratio": 0.0047,
+  "rhythm_hist": {
+    "1/4": 0.1503,
+    "1/3": 0.0012,
+    "1/2": 0.2837,
+    "2/3": 0.0,
+    "3/4": 0.0268,
+    "1/1": 0.237,
+    "3/2": 0.0635,
+    "2/1": 0.1183,
+    "2+": 0.1192
+  },
+  "type_transitions": {
+    "circle>circle": 0.386,
+    "circle>slider": 0.1825,
+    "slider>circle": 0.1846,
+    "slider>slider": 0.2404,
+    "circle>spinner": 0.0023,
+    "spinner>circle": 0.0008,
+    "slider>spinner": 0.0017,
+    "spinner>slider": 0.0018
+  },
+  "spacing_slope": 3.29,
+  "spacing_intercept": 1.4157,
+  "spacing_slope_std": 2.7466,
+  "jump_factor": 3.8783,
+  "mean_turn_deg": 97.9115,
+  "flow_ratio": 0.3961,
+  "objects_per_combo": 3.9322,
+  "beats_per_combo": 4.9726,
+  "slider_dur_beats_med": 1.1204,
+  "curve_freq": {
+    "L": 0.3593,
+    "P": 0.0,
+    "B": 0.6407
+  },
+  "stream_rate": 0.1723,
+  "mean_stream_len": 2.1893,
+  "sample_versions": [
+    "Black Another (222bpm)",
+    "384's Insane (222bpm)",
+    "Kund's Advanced (222bpm)",
+    "RLC's Another (222bpm)",
+    "Hyper (222bpm)",
+    "Normal (222bpm)",
+    "Beginner (222bpm)",
+    "Kuki's Hard (222bpm)"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "mapper": "Ryafuka",
+  "n_maps": 4,
+  "n_objects_total": 2037,
+  "bpm_mean": 179.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.5,
+  "ar_mean": 6.0,
+  "od_mean": 5.0,
+  "circle_ratio": 0.5099,
+  "slider_ratio": 0.4766,
+  "spinner_ratio": 0.0136,
+  "rhythm_hist": {
+    "1/4": 0.0605,
+    "1/3": 0.0012,
+    "1/2": 0.1663,
+    "2/3": 0.0003,
+    "3/4": 0.005,
+    "1/1": 0.3419,
+    "3/2": 0.1082,
+    "2/1": 0.2143,
+    "2+": 0.1023
+  },
+  "type_transitions": {
+    "circle>circle": 0.2687,
+    "circle>slider": 0.2362,
+    "circle>spinner": 0.006,
+    "slider>circle": 0.2399,
+    "slider>slider": 0.232,
+    "slider>spinner": 0.0059,
+    "spinner>slider": 0.0079,
+    "spinner>spinner": 0.0017,
+    "spinner>circle": 0.0016
+  },
+  "spacing_slope": 1.7337,
+  "spacing_intercept": 1.5377,
+  "spacing_slope_std": 1.0473,
+  "jump_factor": 2.975,
+  "mean_turn_deg": 87.8225,
+  "flow_ratio": 0.524,
+  "objects_per_combo": 4.05,
+  "beats_per_combo": 6.5325,
+  "slider_dur_beats_med": 1.0,
+  "curve_freq": {
+    "L": 0.3982,
+    "P": 0.0,
+    "B": 0.6018
+  },
+  "stream_rate": 0.074,
+  "mean_stream_len": 1.8525,
+  "sample_versions": [
+    "Easy (179bpm)",
+    "Hard (179bpm)",
+    "Insane (179bpm)",
+    "Normal (179bpm)"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "mapper": "LunarFox",
+  "n_maps": 9,
+  "n_objects_total": 6085,
+  "bpm_mean": 190.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.7778,
+  "ar_mean": 7.8778,
+  "od_mean": 6.5,
+  "circle_ratio": 0.5555,
+  "slider_ratio": 0.4288,
+  "spinner_ratio": 0.0157,
+  "rhythm_hist": {
+    "1/4": 0.1882,
+    "1/3": 0.0,
+    "1/2": 0.2896,
+    "2/3": 0.0,
+    "3/4": 0.0044,
+    "1/1": 0.2692,
+    "3/2": 0.0594,
+    "2/1": 0.1145,
+    "2+": 0.0746
+  },
+  "type_transitions": {
+    "circle>circle": 0.3727,
+    "circle>slider": 0.1784,
+    "circle>spinner": 0.0041,
+    "slider>circle": 0.1809,
+    "slider>slider": 0.2392,
+    "slider>spinner": 0.0096,
+    "spinner>circle": 0.0022,
+    "spinner>slider": 0.0108,
+    "spinner>spinner": 0.0021
+  },
+  "spacing_slope": 2.8826,
+  "spacing_intercept": 1.3701,
+  "spacing_slope_std": 1.4897,
+  "jump_factor": 3.8338,
+  "mean_turn_deg": 86.2267,
+  "flow_ratio": 0.499,
+  "objects_per_combo": 5.2789,
+  "beats_per_combo": 6.0611,
+  "slider_dur_beats_med": 0.7778,
+  "curve_freq": {
+    "L": 0.3648,
+    "P": 0.484,
+    "B": 0.1512
+  },
+  "stream_rate": 0.2183,
+  "mean_stream_len": 4.3244,
+  "sample_versions": [
+    "-Kyu's Normal (190bpm)",
+    "Ambient's Insane (190bpm)",
+    "Another (190bpm)",
+    "Emelia K.'s Hard (190bpm)",
+    "Extra (190bpm)",
+    "Indeed's Insane (190bpm)",
+    "Loli's Retribution (190bpm)",
+    "Nyantiaz's Easy (190bpm)"
+  ]
+}

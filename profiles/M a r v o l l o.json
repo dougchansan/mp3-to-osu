@@ -1,0 +1,57 @@
+{
+  "mapper": "M a r v o l l o",
+  "n_maps": 8,
+  "n_objects_total": 2238,
+  "bpm_mean": 110.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.8375,
+  "ar_mean": 8.2,
+  "od_mean": 7.0,
+  "circle_ratio": 0.5314,
+  "slider_ratio": 0.4677,
+  "spinner_ratio": 0.0009,
+  "rhythm_hist": {
+    "1/4": 0.3123,
+    "1/3": 0.0,
+    "1/2": 0.3715,
+    "2/3": 0.0,
+    "3/4": 0.0,
+    "1/1": 0.2069,
+    "3/2": 0.0593,
+    "2/1": 0.0493,
+    "2+": 0.0006
+  },
+  "type_transitions": {
+    "circle>circle": 0.3382,
+    "circle>slider": 0.192,
+    "slider>circle": 0.1917,
+    "slider>slider": 0.2773,
+    "circle>spinner": 0.0009
+  },
+  "spacing_slope": 1.335,
+  "spacing_intercept": 2.9697,
+  "spacing_slope_std": 1.0642,
+  "jump_factor": 4.1658,
+  "mean_turn_deg": 102.7575,
+  "flow_ratio": 0.3828,
+  "objects_per_combo": 4.395,
+  "beats_per_combo": 2.9712,
+  "slider_dur_beats_med": 0.4062,
+  "curve_freq": {
+    "L": 0.2733,
+    "P": 0.6824,
+    "B": 0.0444
+  },
+  "stream_rate": 0.3992,
+  "mean_stream_len": 3.7012,
+  "sample_versions": [
+    "Fanteer's Expert (110bpm)",
+    "Fanteer's Extreme (110bpm)",
+    "Fanteer's Final Level (110bpm)",
+    "Fanteer's Insane (110bpm)",
+    "Hard (110bpm)",
+    "Hyper (110bpm)",
+    "Light Insane (110bpm)",
+    "Normal (110bpm)"
+  ]
+}

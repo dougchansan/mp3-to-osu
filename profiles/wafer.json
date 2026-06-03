@@ -1,0 +1,55 @@
+{
+  "mapper": "wafer",
+  "n_maps": 5,
+  "n_objects_total": 1393,
+  "bpm_mean": 175.0,
+  "bpm_std": 0.0,
+  "cs_mean": 4.26,
+  "ar_mean": 7.84,
+  "od_mean": 7.0,
+  "circle_ratio": 0.5301,
+  "slider_ratio": 0.4689,
+  "spinner_ratio": 0.001,
+  "rhythm_hist": {
+    "1/4": 0.0252,
+    "1/3": 0.0,
+    "1/2": 0.4181,
+    "2/3": 0.0,
+    "3/4": 0.0018,
+    "1/1": 0.3726,
+    "3/2": 0.08,
+    "2/1": 0.0855,
+    "2+": 0.0167
+  },
+  "type_transitions": {
+    "circle>circle": 0.3126,
+    "circle>slider": 0.2158,
+    "slider>circle": 0.2189,
+    "slider>slider": 0.2512,
+    "circle>spinner": 0.001,
+    "spinner>circle": 0.0005
+  },
+  "spacing_slope": 1.7632,
+  "spacing_intercept": 1.8866,
+  "spacing_slope_std": 0.5502,
+  "jump_factor": 3.278,
+  "mean_turn_deg": 82.486,
+  "flow_ratio": 0.5836,
+  "objects_per_combo": 4.228,
+  "beats_per_combo": 4.248,
+  "slider_dur_beats_med": 0.6,
+  "curve_freq": {
+    "L": 0.3052,
+    "P": 0.5072,
+    "B": 0.1876
+  },
+  "stream_rate": 0.0291,
+  "mean_stream_len": 1.8,
+  "sample_versions": [
+    "Agatsu's Insane (175bpm)",
+    "DeviousPanda's Expert (175bpm)",
+    "Hard (175bpm)",
+    "Insane (175bpm)",
+    "Mocaotic's Normal (175bpm)"
+  ]
+}

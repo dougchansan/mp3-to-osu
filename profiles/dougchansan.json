@@ -1,0 +1,52 @@
+{
+  "mapper": "dougchansan",
+  "n_maps": 5,
+  "n_objects_total": 2722,
+  "bpm_mean": 136.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.74,
+  "ar_mean": 7.58,
+  "od_mean": 6.32,
+  "circle_ratio": 0.507,
+  "slider_ratio": 0.493,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.0029,
+    "1/3": 0.0,
+    "1/2": 0.0029,
+    "2/3": 0.0,
+    "3/4": 0.0029,
+    "1/1": 0.9894,
+    "3/2": 0.0,
+    "2/1": 0.0018,
+    "2+": 0.0
+  },
+  "type_transitions": {
+    "circle>circle": 0.0121,
+    "circle>slider": 0.494,
+    "slider>circle": 0.494
+  },
+  "spacing_slope": 2.4674,
+  "spacing_intercept": 1.1937,
+  "spacing_slope_std": 0.6913,
+  "jump_factor": 3.6583,
+  "mean_turn_deg": 96.746,
+  "flow_ratio": 0.4987,
+  "objects_per_combo": 5.86,
+  "beats_per_combo": 5.896,
+  "slider_dur_beats_med": 0.5,
+  "curve_freq": {
+    "L": 0.0,
+    "P": 0.0,
+    "B": 1.0
+  },
+  "stream_rate": 0.0,
+  "mean_stream_len": 0.0,
+  "sample_versions": [
+    "Easy (136bpm)",
+    "Expert (136bpm)",
+    "Hard (136bpm)",
+    "Insane (136bpm)",
+    "Normal (136bpm)"
+  ]
+}

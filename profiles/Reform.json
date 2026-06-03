@@ -1,0 +1,56 @@
+{
+  "mapper": "Reform",
+  "n_maps": 8,
+  "n_objects_total": 3217,
+  "bpm_mean": 186.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.725,
+  "ar_mean": 8.5625,
+  "od_mean": 7.8125,
+  "circle_ratio": 0.6068,
+  "slider_ratio": 0.3932,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.2053,
+    "1/3": 0.0,
+    "1/2": 0.4041,
+    "2/3": 0.0,
+    "3/4": 0.0409,
+    "1/1": 0.2106,
+    "3/2": 0.0927,
+    "2/1": 0.0253,
+    "2+": 0.0211
+  },
+  "type_transitions": {
+    "circle>circle": 0.4123,
+    "circle>slider": 0.1933,
+    "slider>circle": 0.1952,
+    "slider>slider": 0.1993
+  },
+  "spacing_slope": 2.0573,
+  "spacing_intercept": 2.3238,
+  "spacing_slope_std": 0.647,
+  "jump_factor": 4.6166,
+  "mean_turn_deg": 100.0463,
+  "flow_ratio": 0.3823,
+  "objects_per_combo": 4.87,
+  "beats_per_combo": 3.7825,
+  "slider_dur_beats_med": 0.5625,
+  "curve_freq": {
+    "L": 0.3211,
+    "P": 0.5907,
+    "B": 0.0882
+  },
+  "stream_rate": 0.2207,
+  "mean_stream_len": 3.2988,
+  "sample_versions": [
+    "Extreme (186bpm)",
+    "Hard (186bpm)",
+    "Naitsirk's Insane (186bpm)",
+    "Normal (186bpm)",
+    "Onlybiscuit's Extra (186bpm)",
+    "P4nde's Expert (186bpm)",
+    "Rolniczy's Expert (186bpm)",
+    "Sotarks' Cataclysm (186bpm)"
+  ]
+}

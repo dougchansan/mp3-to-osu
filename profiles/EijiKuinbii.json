@@ -1,0 +1,56 @@
+{
+  "mapper": "EijiKuinbii",
+  "n_maps": 6,
+  "n_objects_total": 4863,
+  "bpm_mean": 171.5,
+  "bpm_std": 23.5,
+  "cs_mean": 3.75,
+  "ar_mean": 7.1833,
+  "od_mean": 6.45,
+  "circle_ratio": 0.5731,
+  "slider_ratio": 0.4262,
+  "spinner_ratio": 0.0007,
+  "rhythm_hist": {
+    "1/4": 0.2099,
+    "1/3": 0.0,
+    "1/2": 0.2226,
+    "2/3": 0.0,
+    "3/4": 0.0192,
+    "1/1": 0.2296,
+    "3/2": 0.0042,
+    "2/1": 0.2903,
+    "2+": 0.0242
+  },
+  "type_transitions": {
+    "circle>circle": 0.3606,
+    "circle>slider": 0.2106,
+    "slider>circle": 0.2095,
+    "slider>slider": 0.2182,
+    "circle>spinner": 0.0007,
+    "spinner>slider": 0.0004
+  },
+  "spacing_slope": 2.4624,
+  "spacing_intercept": 1.7855,
+  "spacing_slope_std": 1.9396,
+  "jump_factor": 3.6976,
+  "mean_turn_deg": 86.975,
+  "flow_ratio": 0.4798,
+  "objects_per_combo": 5.22,
+  "beats_per_combo": 5.5283,
+  "slider_dur_beats_med": 0.6667,
+  "curve_freq": {
+    "L": 0.3997,
+    "P": 0.0,
+    "B": 0.6003
+  },
+  "stream_rate": 0.2511,
+  "mean_stream_len": 2.08,
+  "sample_versions": [
+    "Normal (148bpm)",
+    "Memory (148bpm)",
+    "Easy (148bpm)",
+    "SEVEN COLORS (195bpm)",
+    "semaphore's Insane (195bpm)",
+    "grumd's Extra (195bpm)"
+  ]
+}

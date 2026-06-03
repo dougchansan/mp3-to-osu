@@ -1,0 +1,58 @@
+{
+  "mapper": "MaridiuS",
+  "n_maps": 6,
+  "n_objects_total": 4054,
+  "bpm_mean": 175.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.7167,
+  "ar_mean": 7.3833,
+  "od_mean": 6.2667,
+  "circle_ratio": 0.5198,
+  "slider_ratio": 0.4768,
+  "spinner_ratio": 0.0034,
+  "rhythm_hist": {
+    "1/4": 0.1847,
+    "1/3": 0.0,
+    "1/2": 0.2487,
+    "2/3": 0.0,
+    "3/4": 0.0212,
+    "1/1": 0.2884,
+    "3/2": 0.0357,
+    "2/1": 0.1739,
+    "2+": 0.0474
+  },
+  "type_transitions": {
+    "circle>circle": 0.3108,
+    "circle>slider": 0.2075,
+    "circle>spinner": 0.0013,
+    "slider>circle": 0.2084,
+    "slider>slider": 0.2671,
+    "spinner>slider": 0.0018,
+    "slider>spinner": 0.0021,
+    "spinner>circle": 0.001
+  },
+  "spacing_slope": 2.6221,
+  "spacing_intercept": 1.196,
+  "spacing_slope_std": 1.2867,
+  "jump_factor": 3.5335,
+  "mean_turn_deg": 82.545,
+  "flow_ratio": 0.5401,
+  "objects_per_combo": 4.4633,
+  "beats_per_combo": 5.0783,
+  "slider_dur_beats_med": 0.6667,
+  "curve_freq": {
+    "L": 0.5406,
+    "P": 0.3472,
+    "B": 0.1122
+  },
+  "stream_rate": 0.2129,
+  "mean_stream_len": 2.6667,
+  "sample_versions": [
+    "Akitoshi's Insane (175bpm)",
+    "Extra (175bpm)",
+    "Hard (175bpm)",
+    "NeoSL's Advanced (175bpm)",
+    "Normal (175bpm)",
+    "Vanity (175bpm)"
+  ]
+}

@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mp3-to-osu"
+version = "0.1.0"
+description = "Automatically generate playable osu! standard beatmaps from audio"
+requires-python = ">=3.10"
+dependencies = [
+    "librosa>=0.10.1",
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "soundfile>=0.12.1",
+]
+
+[project.scripts]
+mp3-to-osu = "mp3_to_osu.cli:main"
+mp3-to-osu-learn = "mp3_to_osu.learn.cli:main"
+mp3-to-osu-web = "mp3_to_osu.web.server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+mp3_to_osu = ["web/static/*"]

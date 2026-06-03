@@ -1,0 +1,52 @@
+{
+  "mapper": "browiec",
+  "n_maps": 4,
+  "n_objects_total": 809,
+  "bpm_mean": 190.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.6,
+  "ar_mean": 7.65,
+  "od_mean": 6.85,
+  "circle_ratio": 0.4921,
+  "slider_ratio": 0.5079,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.0743,
+    "1/3": 0.0,
+    "1/2": 0.3404,
+    "2/3": 0.0,
+    "3/4": 0.0,
+    "1/1": 0.3022,
+    "3/2": 0.1876,
+    "2/1": 0.0744,
+    "2+": 0.021
+  },
+  "type_transitions": {
+    "circle>circle": 0.271,
+    "circle>slider": 0.2236,
+    "slider>circle": 0.2226,
+    "slider>slider": 0.2828
+  },
+  "spacing_slope": 1.8671,
+  "spacing_intercept": 2.138,
+  "spacing_slope_std": 0.2613,
+  "jump_factor": 3.8039,
+  "mean_turn_deg": 91.4125,
+  "flow_ratio": 0.491,
+  "objects_per_combo": 5.2625,
+  "beats_per_combo": 5.53,
+  "slider_dur_beats_med": 0.75,
+  "curve_freq": {
+    "L": 0.3644,
+    "P": 0.4209,
+    "B": 0.2147
+  },
+  "stream_rate": 0.0925,
+  "mean_stream_len": 3.2925,
+  "sample_versions": [
+    "Insane (190bpm)",
+    "Normal (190bpm)",
+    "Nyantiaz's Hard (190bpm)",
+    "Revolution (190bpm)"
+  ]
+}

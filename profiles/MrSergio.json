@@ -1,0 +1,56 @@
+{
+  "mapper": "MrSergio",
+  "n_maps": 5,
+  "n_objects_total": 2258,
+  "bpm_mean": 154.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.7,
+  "ar_mean": 6.4,
+  "od_mean": 5.4,
+  "circle_ratio": 0.4609,
+  "slider_ratio": 0.5371,
+  "spinner_ratio": 0.002,
+  "rhythm_hist": {
+    "1/4": 0.105,
+    "1/3": 0.0025,
+    "1/2": 0.2415,
+    "2/3": 0.0031,
+    "3/4": 0.0187,
+    "1/1": 0.3536,
+    "3/2": 0.0317,
+    "2/1": 0.1289,
+    "2+": 0.1152
+  },
+  "type_transitions": {
+    "circle>circle": 0.2562,
+    "circle>slider": 0.2027,
+    "circle>spinner": 0.002,
+    "slider>circle": 0.2042,
+    "slider>slider": 0.333,
+    "spinner>slider": 0.0013,
+    "spinner>circle": 0.0007
+  },
+  "spacing_slope": 1.993,
+  "spacing_intercept": 1.4115,
+  "spacing_slope_std": 0.9025,
+  "jump_factor": 3.1692,
+  "mean_turn_deg": 83.572,
+  "flow_ratio": 0.528,
+  "objects_per_combo": 4.864,
+  "beats_per_combo": 6.776,
+  "slider_dur_beats_med": 0.9,
+  "curve_freq": {
+    "L": 0.4555,
+    "P": 0.3637,
+    "B": 0.1808
+  },
+  "stream_rate": 0.1193,
+  "mean_stream_len": 2.282,
+  "sample_versions": [
+    "AsaNe's Easy (154bpm)",
+    "Extra (154bpm)",
+    "Hard (154bpm)",
+    "Insane (154bpm)",
+    "Normal (154bpm)"
+  ]
+}

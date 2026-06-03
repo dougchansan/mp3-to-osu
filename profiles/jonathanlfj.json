@@ -1,0 +1,61 @@
+{
+  "mapper": "jonathanlfj",
+  "n_maps": 197,
+  "n_objects_total": 141296,
+  "bpm_mean": 171.286,
+  "bpm_std": 43.2936,
+  "cs_mean": 3.8046,
+  "ar_mean": 7.4772,
+  "od_mean": 6.4766,
+  "circle_ratio": 0.4938,
+  "slider_ratio": 0.502,
+  "spinner_ratio": 0.0042,
+  "rhythm_hist": {
+    "1/4": 0.1322,
+    "1/3": 0.0186,
+    "1/2": 0.2825,
+    "2/3": 0.0044,
+    "3/4": 0.0393,
+    "1/1": 0.2646,
+    "3/2": 0.1051,
+    "2/1": 0.1111,
+    "2+": 0.0423
+  },
+  "type_transitions": {
+    "circle>circle": 0.2742,
+    "circle>slider": 0.2176,
+    "slider>circle": 0.2194,
+    "slider>slider": 0.2821,
+    "slider>spinner": 0.0014,
+    "spinner>slider": 0.0016,
+    "spinner>spinner": 0.0002,
+    "circle>spinner": 0.0026,
+    "spinner>circle": 0.0009
+  },
+  "spacing_slope": 2.1449,
+  "spacing_intercept": 1.875,
+  "spacing_slope_std": 0.9772,
+  "jump_factor": 3.7848,
+  "mean_turn_deg": 96.5582,
+  "flow_ratio": 0.4227,
+  "objects_per_combo": 4.6691,
+  "beats_per_combo": 4.9236,
+  "slider_dur_beats_med": 0.7191,
+  "curve_freq": {
+    "L": 0.3445,
+    "P": 0.0,
+    "B": 0.6555
+  },
+  "stream_rate": 0.1417,
+  "mean_stream_len": 2.6278,
+  "sample_versions": [
+    "Advanced (191bpm)",
+    "Extra Stage (170bpm)",
+    "Nightmare (188bpm)",
+    "Trust's Lunatic (170bpm)",
+    "Easy (170bpm)",
+    "Normal (170bpm)",
+    "Raose's Hard (170bpm)",
+    "captin's Insane (86bpm)"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "mapper": "Dyl-Byl",
+  "n_maps": 4,
+  "n_objects_total": 1480,
+  "bpm_mean": 111.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.6,
+  "ar_mean": 5.925,
+  "od_mean": 5.125,
+  "circle_ratio": 0.3829,
+  "slider_ratio": 0.6171,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.0869,
+    "1/3": 0.0,
+    "1/2": 0.2327,
+    "2/3": 0.0,
+    "3/4": 0.0506,
+    "1/1": 0.3687,
+    "3/2": 0.0763,
+    "2/1": 0.1416,
+    "2+": 0.0432
+  },
+  "type_transitions": {
+    "circle>circle": 0.1184,
+    "circle>slider": 0.2632,
+    "slider>circle": 0.2657,
+    "slider>slider": 0.3527
+  },
+  "spacing_slope": 1.5885,
+  "spacing_intercept": 1.9695,
+  "spacing_slope_std": 1.4839,
+  "jump_factor": 3.3713,
+  "mean_turn_deg": 76.0725,
+  "flow_ratio": 0.6187,
+  "objects_per_combo": 5.4225,
+  "beats_per_combo": 5.7425,
+  "slider_dur_beats_med": 0.6875,
+  "curve_freq": {
+    "L": 0.3426,
+    "P": 0.5099,
+    "B": 0.1475
+  },
+  "stream_rate": 0.0551,
+  "mean_stream_len": 0.94,
+  "sample_versions": [
+    "Easy (111bpm)",
+    "Hard (111bpm)",
+    "Laz's Normal (111bpm)",
+    "Plaudible's Insane (111bpm)"
+  ]
+}

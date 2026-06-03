@@ -1,0 +1,54 @@
+{
+  "mapper": "Euny",
+  "n_maps": 6,
+  "n_objects_total": 2989,
+  "bpm_mean": 100.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.6833,
+  "ar_mean": 7.1,
+  "od_mean": 6.1,
+  "circle_ratio": 0.513,
+  "slider_ratio": 0.487,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.2364,
+    "1/3": 0.0006,
+    "1/2": 0.4027,
+    "2/3": 0.0,
+    "3/4": 0.0237,
+    "1/1": 0.2069,
+    "3/2": 0.1031,
+    "2/1": 0.0161,
+    "2+": 0.0105
+  },
+  "type_transitions": {
+    "circle>circle": 0.2924,
+    "circle>slider": 0.2194,
+    "slider>circle": 0.2212,
+    "slider>slider": 0.267
+  },
+  "spacing_slope": 1.2512,
+  "spacing_intercept": 2.58,
+  "spacing_slope_std": 0.8784,
+  "jump_factor": 3.6127,
+  "mean_turn_deg": 95.1583,
+  "flow_ratio": 0.4252,
+  "objects_per_combo": 3.2333,
+  "beats_per_combo": 2.5367,
+  "slider_dur_beats_med": 0.5,
+  "curve_freq": {
+    "L": 0.4568,
+    "P": 0.4379,
+    "B": 0.1053
+  },
+  "stream_rate": 0.2672,
+  "mean_stream_len": 3.0783,
+  "sample_versions": [
+    "Hard (100bpm)",
+    "Insane (100bpm)",
+    "MARE's Easy (100bpm)",
+    "Natsu's Extra (100bpm)",
+    "Natsu's Normal (100bpm)",
+    "saenggakcheoreom mami..QQ (100bpm)"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "mapper": "Flake",
+  "n_maps": 4,
+  "n_objects_total": 4257,
+  "bpm_mean": 130.0,
+  "bpm_std": 0.0,
+  "cs_mean": 4.0,
+  "ar_mean": 9.05,
+  "od_mean": 7.625,
+  "circle_ratio": 0.4159,
+  "slider_ratio": 0.5841,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.3092,
+    "1/3": 0.0032,
+    "1/2": 0.4105,
+    "2/3": 0.0002,
+    "3/4": 0.1106,
+    "1/1": 0.1215,
+    "3/2": 0.0294,
+    "2/1": 0.0104,
+    "2+": 0.0048
+  },
+  "type_transitions": {
+    "circle>circle": 0.1812,
+    "circle>slider": 0.2344,
+    "slider>circle": 0.235,
+    "slider>slider": 0.3493
+  },
+  "spacing_slope": 2.368,
+  "spacing_intercept": 2.2525,
+  "spacing_slope_std": 0.7503,
+  "jump_factor": 4.4184,
+  "mean_turn_deg": 93.52,
+  "flow_ratio": 0.4461,
+  "objects_per_combo": 3.4175,
+  "beats_per_combo": 2.105,
+  "slider_dur_beats_med": 0.3125,
+  "curve_freq": {
+    "L": 0.3922,
+    "P": 0.3818,
+    "B": 0.226
+  },
+  "stream_rate": 0.2226,
+  "mean_stream_len": 4.07,
+  "sample_versions": [
+    "EXTREME (130bpm)",
+    "HYPER (130bpm)",
+    "INSANE (130bpm)",
+    "MOPH'S EXTRA (130bpm)"
+  ]
+}

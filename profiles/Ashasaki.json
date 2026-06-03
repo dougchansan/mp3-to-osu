@@ -1,0 +1,61 @@
+{
+  "mapper": "Ashasaki",
+  "n_maps": 8,
+  "n_objects_total": 2674,
+  "bpm_mean": 167.56,
+  "bpm_std": 0.0,
+  "cs_mean": 3.725,
+  "ar_mean": 7.3375,
+  "od_mean": 6.275,
+  "circle_ratio": 0.4546,
+  "slider_ratio": 0.5294,
+  "spinner_ratio": 0.016,
+  "rhythm_hist": {
+    "1/4": 0.1947,
+    "1/3": 0.0006,
+    "1/2": 0.2217,
+    "2/3": 0.0,
+    "3/4": 0.0666,
+    "1/1": 0.2,
+    "3/2": 0.0601,
+    "2/1": 0.1644,
+    "2+": 0.0919
+  },
+  "type_transitions": {
+    "circle>circle": 0.2738,
+    "circle>slider": 0.1752,
+    "circle>spinner": 0.007,
+    "slider>circle": 0.18,
+    "slider>slider": 0.345,
+    "slider>spinner": 0.0064,
+    "spinner>slider": 0.0102,
+    "spinner>circle": 0.0017,
+    "spinner>spinner": 0.0008
+  },
+  "spacing_slope": 1.8259,
+  "spacing_intercept": 1.6745,
+  "spacing_slope_std": 0.8299,
+  "jump_factor": 3.4899,
+  "mean_turn_deg": 82.3637,
+  "flow_ratio": 0.5435,
+  "objects_per_combo": 3.7038,
+  "beats_per_combo": 5.0563,
+  "slider_dur_beats_med": 0.7812,
+  "curve_freq": {
+    "L": 0.423,
+    "P": 0.4024,
+    "B": 0.1747
+  },
+  "stream_rate": 0.2047,
+  "mean_stream_len": 3.05,
+  "sample_versions": [
+    "Asagi's Insane (168bpm)",
+    "Asphyxia's Extra (168bpm)",
+    "Bakari's Hard (168bpm)",
+    "Broccoly's Insane (168bpm)",
+    "Easy (168bpm)",
+    "Nold's Posthumous (168bpm)",
+    "Normal (168bpm)",
+    "Xinely's Hard (168bpm)"
+  ]
+}

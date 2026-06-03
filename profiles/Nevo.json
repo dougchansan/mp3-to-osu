@@ -1,0 +1,60 @@
+{
+  "mapper": "Nevo",
+  "n_maps": 24,
+  "n_objects_total": 11243,
+  "bpm_mean": 189.75,
+  "bpm_std": 21.545,
+  "cs_mean": 3.7625,
+  "ar_mean": 8.0208,
+  "od_mean": 7.0167,
+  "circle_ratio": 0.4613,
+  "slider_ratio": 0.5361,
+  "spinner_ratio": 0.0026,
+  "rhythm_hist": {
+    "1/4": 0.0554,
+    "1/3": 0.0,
+    "1/2": 0.3291,
+    "2/3": 0.0,
+    "3/4": 0.0106,
+    "1/1": 0.3785,
+    "3/2": 0.1222,
+    "2/1": 0.0841,
+    "2+": 0.02
+  },
+  "type_transitions": {
+    "circle>circle": 0.25,
+    "circle>slider": 0.2096,
+    "circle>spinner": 0.0023,
+    "slider>circle": 0.2102,
+    "slider>slider": 0.3267,
+    "spinner>circle": 0.0005,
+    "slider>spinner": 0.0002,
+    "spinner>slider": 0.0004
+  },
+  "spacing_slope": 1.5097,
+  "spacing_intercept": 2.5609,
+  "spacing_slope_std": 1.1136,
+  "jump_factor": 3.9523,
+  "mean_turn_deg": 101.5046,
+  "flow_ratio": 0.3899,
+  "objects_per_combo": 4.3879,
+  "beats_per_combo": 4.5725,
+  "slider_dur_beats_med": 0.6094,
+  "curve_freq": {
+    "L": 0.4121,
+    "P": 0.4931,
+    "B": 0.0948
+  },
+  "stream_rate": 0.0611,
+  "mean_stream_len": 2.8904,
+  "sample_versions": [
+    "Astronic's Insane (225bpm)",
+    "Break (225bpm)",
+    "Collab Insane (225bpm)",
+    "Hikan's Extra (225bpm)",
+    "Kowari's Hard (225bpm)",
+    "Nelliel's Normal (225bpm)",
+    "~A r M i N's Adventure~ (180bpm)",
+    "~Collab Insane~ (180bpm)"
+  ]
+}

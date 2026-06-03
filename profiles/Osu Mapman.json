@@ -1,0 +1,55 @@
+{
+  "mapper": "Osu Mapman",
+  "n_maps": 4,
+  "n_objects_total": 6647,
+  "bpm_mean": 186.75,
+  "bpm_std": 55.9525,
+  "cs_mean": 4.0,
+  "ar_mean": 9.45,
+  "od_mean": 8.625,
+  "circle_ratio": 0.6993,
+  "slider_ratio": 0.299,
+  "spinner_ratio": 0.0018,
+  "rhythm_hist": {
+    "1/4": 0.1689,
+    "1/3": 0.0818,
+    "1/2": 0.4699,
+    "2/3": 0.0495,
+    "3/4": 0.0226,
+    "1/1": 0.137,
+    "3/2": 0.0331,
+    "2/1": 0.0242,
+    "2+": 0.0131
+  },
+  "type_transitions": {
+    "circle>circle": 0.5332,
+    "circle>slider": 0.1645,
+    "circle>spinner": 0.0018,
+    "slider>circle": 0.1651,
+    "slider>slider": 0.1342,
+    "spinner>circle": 0.0007,
+    "spinner>slider": 0.0006
+  },
+  "spacing_slope": 1.4306,
+  "spacing_intercept": 3.2434,
+  "spacing_slope_std": 0.4501,
+  "jump_factor": 4.4881,
+  "mean_turn_deg": 96.4275,
+  "flow_ratio": 0.4381,
+  "objects_per_combo": 3.495,
+  "beats_per_combo": 2.33,
+  "slider_dur_beats_med": 0.4383,
+  "curve_freq": {
+    "L": 0.2655,
+    "P": 0.0,
+    "B": 0.7345
+  },
+  "stream_rate": 0.1943,
+  "mean_stream_len": 4.0125,
+  "sample_versions": [
+    "Tsukiotoshi-hen (118bpm)",
+    "Demiourgos (274bpm)",
+    "Take the Grendel (180bpm)",
+    "Lunatic (175bpm)"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "mapper": "NatsumeRin",
+  "n_maps": 211,
+  "n_objects_total": 80626,
+  "bpm_mean": 161.8265,
+  "bpm_std": 36.2625,
+  "cs_mean": 3.6777,
+  "ar_mean": 7.0332,
+  "od_mean": 5.2891,
+  "circle_ratio": 0.5456,
+  "slider_ratio": 0.4443,
+  "spinner_ratio": 0.0101,
+  "rhythm_hist": {
+    "1/4": 0.0787,
+    "1/3": 0.0237,
+    "1/2": 0.222,
+    "2/3": 0.0152,
+    "3/4": 0.0322,
+    "1/1": 0.2724,
+    "3/2": 0.0919,
+    "2/1": 0.1828,
+    "2+": 0.0811
+  },
+  "type_transitions": {
+    "circle>circle": 0.3259,
+    "circle>slider": 0.2159,
+    "circle>spinner": 0.0045,
+    "slider>circle": 0.2157,
+    "slider>slider": 0.2244,
+    "spinner>circle": 0.0045,
+    "slider>spinner": 0.0052,
+    "spinner>slider": 0.0035,
+    "spinner>spinner": 0.0003
+  },
+  "spacing_slope": 1.8462,
+  "spacing_intercept": 1.4153,
+  "spacing_slope_std": 0.9418,
+  "jump_factor": 2.8899,
+  "mean_turn_deg": 83.1255,
+  "flow_ratio": 0.5485,
+  "objects_per_combo": 4.1569,
+  "beats_per_combo": 5.698,
+  "slider_dur_beats_med": 0.9395,
+  "curve_freq": {
+    "L": 0.026,
+    "P": 0.0,
+    "B": 0.974
+  },
+  "stream_rate": 0.0831,
+  "mean_stream_len": 1.9173,
+  "sample_versions": [
+    "Futsuu (136bpm)",
+    "Muzukashii (136bpm)",
+    "Rin (205bpm)",
+    "Normal (205bpm)",
+    "Impossiblexu's Easy (205bpm)",
+    "Garven's Hard (205bpm)",
+    "Rin (95bpm)",
+    "Oni (95bpm)"
+  ]
+}

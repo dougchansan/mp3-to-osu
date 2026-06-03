@@ -1,0 +1,56 @@
+{
+  "mapper": "NeilPerry",
+  "n_maps": 5,
+  "n_objects_total": 1972,
+  "bpm_mean": 172.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.88,
+  "ar_mean": 7.16,
+  "od_mean": 6.2,
+  "circle_ratio": 0.3974,
+  "slider_ratio": 0.6008,
+  "spinner_ratio": 0.0019,
+  "rhythm_hist": {
+    "1/4": 0.122,
+    "1/3": 0.0,
+    "1/2": 0.2328,
+    "2/3": 0.0011,
+    "3/4": 0.0088,
+    "1/1": 0.2322,
+    "3/2": 0.2136,
+    "2/1": 0.1389,
+    "2+": 0.0506
+  },
+  "type_transitions": {
+    "circle>circle": 0.1661,
+    "circle>slider": 0.2292,
+    "slider>circle": 0.2323,
+    "slider>slider": 0.3686,
+    "slider>spinner": 0.0011,
+    "spinner>slider": 0.0019,
+    "circle>spinner": 0.0007
+  },
+  "spacing_slope": 2.2175,
+  "spacing_intercept": 1.5359,
+  "spacing_slope_std": 1.0397,
+  "jump_factor": 3.3671,
+  "mean_turn_deg": 84.544,
+  "flow_ratio": 0.5174,
+  "objects_per_combo": 3.56,
+  "beats_per_combo": 5.116,
+  "slider_dur_beats_med": 0.8,
+  "curve_freq": {
+    "L": 0.4157,
+    "P": 0.3415,
+    "B": 0.2428
+  },
+  "stream_rate": 0.159,
+  "mean_stream_len": 2.026,
+  "sample_versions": [
+    "BOUYAAA's Insane (172bpm)",
+    "Easy (172bpm)",
+    "Extra (172bpm)",
+    "Hard (172bpm)",
+    "Regou's Normal (172bpm)"
+  ]
+}

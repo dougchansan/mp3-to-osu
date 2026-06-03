@@ -1,0 +1,57 @@
+{
+  "mapper": "Seto Kousuke",
+  "n_maps": 6,
+  "n_objects_total": 2486,
+  "bpm_mean": 140.0,
+  "bpm_std": 50.0,
+  "cs_mean": 3.6667,
+  "ar_mean": 7.3333,
+  "od_mean": 6.5833,
+  "circle_ratio": 0.4079,
+  "slider_ratio": 0.5903,
+  "spinner_ratio": 0.0018,
+  "rhythm_hist": {
+    "1/4": 0.1193,
+    "1/3": 0.0,
+    "1/2": 0.241,
+    "2/3": 0.0009,
+    "3/4": 0.0653,
+    "1/1": 0.3694,
+    "3/2": 0.0949,
+    "2/1": 0.0954,
+    "2+": 0.0139
+  },
+  "type_transitions": {
+    "circle>circle": 0.1771,
+    "circle>slider": 0.2306,
+    "circle>spinner": 0.0008,
+    "slider>circle": 0.2325,
+    "slider>slider": 0.3563,
+    "slider>spinner": 0.001,
+    "spinner>slider": 0.0018
+  },
+  "spacing_slope": 2.7858,
+  "spacing_intercept": 0.9815,
+  "spacing_slope_std": 0.8561,
+  "jump_factor": 3.4789,
+  "mean_turn_deg": 84.0583,
+  "flow_ratio": 0.558,
+  "objects_per_combo": 4.845,
+  "beats_per_combo": 4.61,
+  "slider_dur_beats_med": 0.5833,
+  "curve_freq": {
+    "L": 0.3052,
+    "P": 0.6504,
+    "B": 0.0443
+  },
+  "stream_rate": 0.0971,
+  "mean_stream_len": 2.6483,
+  "sample_versions": [
+    "Chompy's Normal (190bpm)",
+    "Insane (190bpm)",
+    "Suou's Hard (190bpm)",
+    "Hard (90bpm)",
+    "Insane (90bpm)",
+    "Normal (90bpm)"
+  ]
+}

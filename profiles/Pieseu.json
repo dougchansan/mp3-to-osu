@@ -1,0 +1,54 @@
+{
+  "mapper": "Pieseu",
+  "n_maps": 4,
+  "n_objects_total": 685,
+  "bpm_mean": 140.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.75,
+  "ar_mean": 7.95,
+  "od_mean": 6.95,
+  "circle_ratio": 0.3236,
+  "slider_ratio": 0.6712,
+  "spinner_ratio": 0.0052,
+  "rhythm_hist": {
+    "1/4": 0.0924,
+    "1/3": 0.0,
+    "1/2": 0.1728,
+    "2/3": 0.0,
+    "3/4": 0.0847,
+    "1/1": 0.2792,
+    "3/2": 0.0704,
+    "2/1": 0.2475,
+    "2+": 0.053
+  },
+  "type_transitions": {
+    "circle>circle": 0.0996,
+    "circle>slider": 0.2249,
+    "slider>circle": 0.2222,
+    "slider>slider": 0.4479,
+    "circle>spinner": 0.0012,
+    "slider>spinner": 0.004
+  },
+  "spacing_slope": 1.2705,
+  "spacing_intercept": 2.6654,
+  "spacing_slope_std": 0.6266,
+  "jump_factor": 4.0205,
+  "mean_turn_deg": 94.4925,
+  "flow_ratio": 0.4518,
+  "objects_per_combo": 3.4525,
+  "beats_per_combo": 4.755,
+  "slider_dur_beats_med": 0.75,
+  "curve_freq": {
+    "L": 0.4423,
+    "P": 0.401,
+    "B": 0.1568
+  },
+  "stream_rate": 0.0917,
+  "mean_stream_len": 2.25,
+  "sample_versions": [
+    "Altai's Insane (140bpm)",
+    "Cute (140bpm)",
+    "Hard (140bpm)",
+    "Normal (140bpm)"
+  ]
+}

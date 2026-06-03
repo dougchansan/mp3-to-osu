@@ -1,0 +1,58 @@
+{
+  "mapper": "Shmiklak",
+  "n_maps": 9,
+  "n_objects_total": 1809,
+  "bpm_mean": 100.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.8333,
+  "ar_mean": 6.9444,
+  "od_mean": 5.9,
+  "circle_ratio": 0.4327,
+  "slider_ratio": 0.5663,
+  "spinner_ratio": 0.001,
+  "rhythm_hist": {
+    "1/4": 0.2277,
+    "1/3": 0.0,
+    "1/2": 0.3407,
+    "2/3": 0.0,
+    "3/4": 0.0811,
+    "1/1": 0.1745,
+    "3/2": 0.0537,
+    "2/1": 0.1098,
+    "2+": 0.0125
+  },
+  "type_transitions": {
+    "circle>circle": 0.204,
+    "circle>slider": 0.2252,
+    "slider>circle": 0.2304,
+    "slider>slider": 0.3388,
+    "slider>spinner": 0.0006,
+    "spinner>slider": 0.001
+  },
+  "spacing_slope": 1.6729,
+  "spacing_intercept": 2.6356,
+  "spacing_slope_std": 1.9118,
+  "jump_factor": 3.9202,
+  "mean_turn_deg": 95.66,
+  "flow_ratio": 0.4354,
+  "objects_per_combo": 3.9511,
+  "beats_per_combo": 3.3033,
+  "slider_dur_beats_med": 0.6111,
+  "curve_freq": {
+    "L": 0.4402,
+    "P": 0.4065,
+    "B": 0.1533
+  },
+  "stream_rate": 0.2376,
+  "mean_stream_len": 2.03,
+  "sample_versions": [
+    "Alphabet's Insane (100bpm)",
+    "BoatKrab's Advanced (100bpm)",
+    "Collab Easy (100bpm)",
+    "Collab Hard (100bpm)",
+    "deadpon3's Another (100bpm)",
+    "Light Insane (100bpm)",
+    "maki's Beginner (100bpm)",
+    "Red Kisses (100bpm)"
+  ]
+}

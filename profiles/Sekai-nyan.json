@@ -1,0 +1,58 @@
+{
+  "mapper": "Sekai-nyan",
+  "n_maps": 9,
+  "n_objects_total": 1849,
+  "bpm_mean": 154.2222,
+  "bpm_std": 6.4598,
+  "cs_mean": 3.6444,
+  "ar_mean": 6.4222,
+  "od_mean": 5.1667,
+  "circle_ratio": 0.3656,
+  "slider_ratio": 0.6315,
+  "spinner_ratio": 0.0029,
+  "rhythm_hist": {
+    "1/4": 0.0762,
+    "1/3": 0.0,
+    "1/2": 0.1937,
+    "2/3": 0.0,
+    "3/4": 0.0343,
+    "1/1": 0.2975,
+    "3/2": 0.1238,
+    "2/1": 0.2145,
+    "2+": 0.06
+  },
+  "type_transitions": {
+    "circle>circle": 0.1489,
+    "circle>slider": 0.2166,
+    "slider>circle": 0.2186,
+    "slider>slider": 0.4129,
+    "slider>spinner": 0.0021,
+    "circle>spinner": 0.0008
+  },
+  "spacing_slope": 2.1262,
+  "spacing_intercept": 1.4933,
+  "spacing_slope_std": 1.2746,
+  "jump_factor": 3.1884,
+  "mean_turn_deg": 85.8544,
+  "flow_ratio": 0.5427,
+  "objects_per_combo": 4.4111,
+  "beats_per_combo": 5.6122,
+  "slider_dur_beats_med": 0.8889,
+  "curve_freq": {
+    "L": 0.3377,
+    "P": 0.5845,
+    "B": 0.0778
+  },
+  "stream_rate": 0.1003,
+  "mean_stream_len": 1.7656,
+  "sample_versions": [
+    "K.Penguin's Normal Game (147bpm)",
+    "Nyquill's Insane Game (147bpm)",
+    "P A N's Easy Game (147bpm)",
+    "Sekai's Hard Game (147bpm)",
+    "Easy (160bpm)",
+    "Fycho's Hard (160bpm)",
+    "No Dap's Hard (160bpm)",
+    "Patto Patto~ (160bpm)"
+  ]
+}

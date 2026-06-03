@@ -1,0 +1,55 @@
+{
+  "mapper": "Finshie",
+  "n_maps": 5,
+  "n_objects_total": 1343,
+  "bpm_mean": 200.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.64,
+  "ar_mean": 7.08,
+  "od_mean": 5.8,
+  "circle_ratio": 0.3759,
+  "slider_ratio": 0.623,
+  "spinner_ratio": 0.0011,
+  "rhythm_hist": {
+    "1/4": 0.0123,
+    "1/3": 0.0,
+    "1/2": 0.2712,
+    "2/3": 0.0,
+    "3/4": 0.002,
+    "1/1": 0.2831,
+    "3/2": 0.2484,
+    "2/1": 0.1541,
+    "2+": 0.0289
+  },
+  "type_transitions": {
+    "circle>circle": 0.1456,
+    "circle>slider": 0.2273,
+    "slider>circle": 0.2317,
+    "slider>slider": 0.3932,
+    "slider>spinner": 0.0011,
+    "spinner>slider": 0.0011
+  },
+  "spacing_slope": 1.1459,
+  "spacing_intercept": 2.371,
+  "spacing_slope_std": 0.4901,
+  "jump_factor": 3.1738,
+  "mean_turn_deg": 104.188,
+  "flow_ratio": 0.3696,
+  "objects_per_combo": 4.338,
+  "beats_per_combo": 5.508,
+  "slider_dur_beats_med": 0.9,
+  "curve_freq": {
+    "L": 0.4871,
+    "P": 0.3823,
+    "B": 0.1306
+  },
+  "stream_rate": 0.0139,
+  "mean_stream_len": 1.56,
+  "sample_versions": [
+    "Hard (200bpm)",
+    "HC's Advanced (200bpm)",
+    "Insane (200bpm)",
+    "Normal (200bpm)",
+    "Plus Ultra (200bpm)"
+  ]
+}

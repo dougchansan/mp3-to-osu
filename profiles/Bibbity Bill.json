@@ -1,0 +1,61 @@
+{
+  "mapper": "Bibbity Bill",
+  "n_maps": 32,
+  "n_objects_total": 28600,
+  "bpm_mean": 185.0,
+  "bpm_std": 0.0,
+  "cs_mean": 4.1266,
+  "ar_mean": 9.125,
+  "od_mean": 8.7934,
+  "circle_ratio": 0.7041,
+  "slider_ratio": 0.2879,
+  "spinner_ratio": 0.008,
+  "rhythm_hist": {
+    "1/4": 0.5043,
+    "1/3": 0.0,
+    "1/2": 0.2821,
+    "2/3": 0.0001,
+    "3/4": 0.0024,
+    "1/1": 0.1275,
+    "3/2": 0.042,
+    "2/1": 0.0224,
+    "2+": 0.0192
+  },
+  "type_transitions": {
+    "circle>circle": 0.6049,
+    "circle>slider": 0.094,
+    "slider>circle": 0.0946,
+    "slider>slider": 0.1925,
+    "slider>spinner": 0.0006,
+    "circle>spinner": 0.0061,
+    "spinner>slider": 0.001,
+    "spinner>spinner": 0.0014,
+    "spinner>circle": 0.005
+  },
+  "spacing_slope": 3.6891,
+  "spacing_intercept": 1.4629,
+  "spacing_slope_std": 1.8332,
+  "jump_factor": 5.2777,
+  "mean_turn_deg": 74.6828,
+  "flow_ratio": 0.6088,
+  "objects_per_combo": 4.8222,
+  "beats_per_combo": 2.7797,
+  "slider_dur_beats_med": 0.4903,
+  "curve_freq": {
+    "L": 0.4844,
+    "P": 0.3854,
+    "B": 0.1302
+  },
+  "stream_rate": 0.542,
+  "mean_stream_len": 13.5162,
+  "sample_versions": [
+    "A r M i N's 1-2 (185bpm)",
+    "Agorate's 1 2 1 2 (185bpm)",
+    "Apollo's Policy (185bpm)",
+    "BoshyMan's EX-Speed Demon (185bpm)",
+    "Crowley's Inconvenient Truth (185bpm)",
+    "daiyousei's sukisuki hecatia-sama (185bpm)",
+    "dish0nest (185bpm)",
+    "dogbear's It's not worth (185bpm)"
+  ]
+}

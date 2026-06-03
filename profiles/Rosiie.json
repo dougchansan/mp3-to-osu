@@ -1,0 +1,56 @@
+{
+  "mapper": "Rosiie",
+  "n_maps": 6,
+  "n_objects_total": 1961,
+  "bpm_mean": 185.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.6833,
+  "ar_mean": 8.1833,
+  "od_mean": 7.4,
+  "circle_ratio": 0.4707,
+  "slider_ratio": 0.5262,
+  "spinner_ratio": 0.0032,
+  "rhythm_hist": {
+    "1/4": 0.0785,
+    "1/3": 0.0,
+    "1/2": 0.3322,
+    "2/3": 0.0,
+    "3/4": 0.0113,
+    "1/1": 0.4406,
+    "3/2": 0.0546,
+    "2/1": 0.0753,
+    "2+": 0.0075
+  },
+  "type_transitions": {
+    "circle>circle": 0.2672,
+    "circle>slider": 0.2036,
+    "slider>circle": 0.2031,
+    "slider>slider": 0.3229,
+    "slider>spinner": 0.0019,
+    "circle>spinner": 0.0013
+  },
+  "spacing_slope": 1.9671,
+  "spacing_intercept": 2.484,
+  "spacing_slope_std": 0.8202,
+  "jump_factor": 4.4756,
+  "mean_turn_deg": 105.8567,
+  "flow_ratio": 0.3469,
+  "objects_per_combo": 4.475,
+  "beats_per_combo": 4.2217,
+  "slider_dur_beats_med": 0.5833,
+  "curve_freq": {
+    "L": 0.1094,
+    "P": 0.831,
+    "B": 0.0597
+  },
+  "stream_rate": 0.0973,
+  "mean_stream_len": 2.795,
+  "sample_versions": [
+    "Expert (185bpm)",
+    "Hard (185bpm)",
+    "Haruto's Extra (185bpm)",
+    "Reform's Insane (185bpm)",
+    "Reform's Summer (185bpm)",
+    "Stixy's Normal (185bpm)"
+  ]
+}

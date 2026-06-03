@@ -1,0 +1,59 @@
+{
+  "mapper": "grizzlypng",
+  "n_maps": 7,
+  "n_objects_total": 2380,
+  "bpm_mean": 137.1071,
+  "bpm_std": 27.8958,
+  "cs_mean": 3.8429,
+  "ar_mean": 8.4,
+  "od_mean": 7.2429,
+  "circle_ratio": 0.616,
+  "slider_ratio": 0.3765,
+  "spinner_ratio": 0.0075,
+  "rhythm_hist": {
+    "1/4": 0.2419,
+    "1/3": 0.03,
+    "1/2": 0.3595,
+    "2/3": 0.002,
+    "3/4": 0.0079,
+    "1/1": 0.1994,
+    "3/2": 0.1004,
+    "2/1": 0.0437,
+    "2+": 0.0152
+  },
+  "type_transitions": {
+    "circle>circle": 0.4411,
+    "circle>slider": 0.1719,
+    "circle>spinner": 0.005,
+    "slider>circle": 0.1733,
+    "slider>slider": 0.201,
+    "spinner>slider": 0.003,
+    "spinner>circle": 0.0028,
+    "slider>spinner": 0.0019
+  },
+  "spacing_slope": 0.0193,
+  "spacing_intercept": 3.6217,
+  "spacing_slope_std": 2.1392,
+  "jump_factor": 3.4184,
+  "mean_turn_deg": 99.4071,
+  "flow_ratio": 0.3925,
+  "objects_per_combo": 3.9043,
+  "beats_per_combo": 3.5714,
+  "slider_dur_beats_med": 0.3869,
+  "curve_freq": {
+    "L": 0.3847,
+    "P": 0.4682,
+    "B": 0.1472
+  },
+  "stream_rate": 0.2638,
+  "mean_stream_len": 9.4229,
+  "sample_versions": [
+    "808 (93bpm)",
+    "DualAkira's Special (93bpm)",
+    "Hard (155bpm)",
+    "Insane 2 (155bpm)",
+    "Light Insane (155bpm)",
+    "Ppipi's Normal (155bpm)",
+    "Rektygon's Insane (155bpm)"
+  ]
+}

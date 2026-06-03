@@ -1,0 +1,58 @@
+{
+  "mapper": "Cyllinus",
+  "n_maps": 6,
+  "n_objects_total": 3478,
+  "bpm_mean": 92.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.2833,
+  "ar_mean": 6.8833,
+  "od_mean": 5.6667,
+  "circle_ratio": 0.4231,
+  "slider_ratio": 0.5712,
+  "spinner_ratio": 0.0058,
+  "rhythm_hist": {
+    "1/4": 0.2758,
+    "1/3": 0.0008,
+    "1/2": 0.2498,
+    "2/3": 0.0008,
+    "3/4": 0.0936,
+    "1/1": 0.2572,
+    "3/2": 0.047,
+    "2/1": 0.0575,
+    "2+": 0.0178
+  },
+  "type_transitions": {
+    "circle>circle": 0.1756,
+    "circle>slider": 0.2434,
+    "slider>circle": 0.2469,
+    "slider>slider": 0.3233,
+    "slider>spinner": 0.0022,
+    "spinner>slider": 0.0044,
+    "circle>spinner": 0.0035,
+    "spinner>circle": 0.0007
+  },
+  "spacing_slope": 1.4735,
+  "spacing_intercept": 2.7742,
+  "spacing_slope_std": 1.5037,
+  "jump_factor": 4.0399,
+  "mean_turn_deg": 104.385,
+  "flow_ratio": 0.3664,
+  "objects_per_combo": 4.355,
+  "beats_per_combo": 3.4867,
+  "slider_dur_beats_med": 0.4583,
+  "curve_freq": {
+    "L": 0.3767,
+    "P": 0.601,
+    "B": 0.0223
+  },
+  "stream_rate": 0.2509,
+  "mean_stream_len": 2.6633,
+  "sample_versions": [
+    "Advanced_old (92bpm)",
+    "Alonevpk's Insane (92bpm)",
+    "fufufu (92bpm)",
+    "Light Insane (92bpm)",
+    "Normal (92bpm)",
+    "ryuu's Easy (92bpm)"
+  ]
+}

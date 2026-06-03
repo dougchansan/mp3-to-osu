@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>mp3 → osu studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header>
+  <div class="brand">
+    <span class="brand-dot"></span>
+    <h1>mp3<span class="brand-arrow">→</span>osu<em>studio</em></h1>
+  </div>
+  <div class="brand-tag">spectral beatmap lab</div>
+  <div id="stats">no map yet</div>
+</header>
+
+<main>
+  <section id="stage">
+    <div id="canvasWrap"><canvas id="view"></canvas>
+      <div class="frame-corner tl"></div><div class="frame-corner tr"></div>
+      <div class="frame-corner bl"></div><div class="frame-corner br"></div>
+    </div>
+
+    <div id="transport">
+      <button id="play" class="play-btn">▶ Play</button>
+      <div class="seek-shell">
+        <input id="seek" type="range" min="0" max="1000" value="0" step="1">
+      </div>
+      <span id="time" class="readout">0:00 / 0:00</span>
+      <span id="section" class="pill">—</span>
+      <span id="metrics" class="pill metrics">—</span>
+
+      <div class="tgroup">
+        <label class="hs" title="Overlay triplet (1/3, 2/3) guide lines so a
+                triplet / swing feel is readable on the ruler">
+          <input id="tripOn" type="checkbox"> <span>triplets</span></label>
+        <label class="hs"><input id="hsOn" type="checkbox" checked>
+          <span>hitsounds</span></label>
+        <label class="hs" title="Click on every detected beat (accent on the
+                downbeat). If THIS doesn't sit on the song's pulse, beat
+                detection is the problem, not the player.">
+          <input id="metroOn" type="checkbox"> <span>metronome</span></label>
+      </div>
+
+      <div class="tgroup">
+        <label class="vol" title="Metronome subdivision"><span class="ic">⋮</span>
+          <select id="metroDiv">
+            <option value="1" selected>1/4</option>
+            <option value="2">1/8</option>
+            <option value="4">1/16</option>
+          </select></label>
+        <label class="vol" title="Preview render resolution / aspect">
+          <span class="ic">▦</span>
+          <select id="resSel">
+            <option value="">Fit</option>
+            <option value="1024x768">1024×768</option>
+            <option value="1280x960">1280×960</option>
+            <option value="1280x720">1280×720</option>
+            <option value="1366x768">1366×768</option>
+            <option value="1920x1080">1920×1080</option>
+          </select></label>
+        <label class="vol" title="Visualizer style"><span class="ic">≋</span>
+          <select id="visMode">
+            <option value="bars">Bars</option>
+            <option value="area">Area</option>
+            <option value="wave">Waveform</option>
+            <option value="bands" selected>Bands</option>
+            <option value="spectro">Spectrogram</option>
+          </select></label>
+      </div>
+
+      <div class="tgroup">
+        <label class="vol" title="Metronome volume"><span class="ic">𝅘𝅥</span>
+          <input id="volMetro" type="range" min="0" max="1" step="0.01"
+                 value="0.5"></label>
+        <label class="vol" title="Music volume"><span class="ic">♫</span>
+          <input id="volMusic" type="range" min="0" max="1" step="0.01"
+                 value="0.9"></label>
+        <label class="vol" title="Hit-sound volume"><span class="ic">◉</span>
+          <input id="volHits" type="range" min="0" max="1" step="0.01"
+                 value="0.6"></label>
+        <label class="vol" title="Nudge hit-sounds earlier (-) or later (+)
+                to calibrate your audio latency"><span class="ic">⏱</span>
+          <input id="audioOffset" type="range" min="-250" max="250" step="5"
+                 value="0"><b id="offVal">0ms</b></label>
+      </div>
+    </div>
+
+    <div id="taprow">
+      <button id="tap" title="Tap the beat you feel - press Z, X (osu! keys)
+              or T while playing">🎙 Tap beat</button>
+      <span id="tapInfo" class="pill metrics">no taps</span>
+      <label class="hs"><input id="tapPlay" type="checkbox">
+        <span>hear my taps</span></label>
+      <button id="tapClear" class="ghost">Clear</button>
+      <button id="tapUse" class="ghost">✓ Use tempo → regen</button>
+      <label class="hs" title="Play along: hit Z/X on each note; see if
+              you're on beat">
+        <input id="playTest" type="checkbox"> <span>play test</span></label>
+      <span id="playInfo" class="pill metrics">play test off</span>
+    </div>
+    <audio id="audio" preload="auto"></audio>
+  </section>
+
+  <aside id="panel">
+    <div class="card">
+      <h2><span class="card-no">01</span>Source</h2>
+      <label>Audio file path
+        <input id="audioPath" type="text" placeholder="C:\path\to\song.mp3">
+      </label>
+      <p class="hint">…or <b>drag &amp; drop</b> an audio file / <b>.osz</b>
+        anywhere on the page.</p>
+      <div class="actions">
+        <button id="openOsz" type="button">📂 Open .osz</button>
+        <button id="openAudio" type="button" class="ghost">🎵 Audio</button>
+      </div>
+      <div class="actions">
+        <button id="openReplay" type="button" class="ghost">🎞 Open replay
+          (.osr)</button>
+        <button id="replayApply" type="button" class="ghost"
+          style="display:none">Use replay offset</button>
+      </div>
+      <p id="replayInfo" class="hint">Load a map, then a replay played on it
+        to see your real hit offset.</p>
+      <label class="ck" style="display:none" id="rCurWrap">
+        <input id="rCur" type="checkbox" checked> show replay cursor</label>
+      <input id="oszFile" type="file" accept=".osz" hidden>
+      <input id="osrFile" type="file" accept=".osr" hidden>
+      <input id="audFile" type="file"
+             accept="audio/*,.mp3,.ogg,.wav,.flac,.m4a" hidden>
+      <label id="impDiffWrap" style="display:none">Imported difficulty
+        <select id="impDiff"></select>
+      </label>
+      <label>Mapper style
+        <select id="profile"></select>
+      </label>
+      <label>Difficulty base
+        <select id="difficulty">
+          <option>easy</option><option>normal</option>
+          <option selected>hard</option><option>insane</option>
+          <option>expert</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="card">
+      <h2><span class="card-no">02</span>Song ID &amp; lyrics</h2>
+      <button id="idBtn" type="button">🎵 Identify (Shazam)</button>
+      <p id="idInfo" class="hint">Not identified yet.</p>
+      <label>Lyrics (one line per row — auto-filled if Shazam has them,
+        or paste your own)
+        <textarea id="lyrics" rows="5"
+          placeholder="paste lyrics here for karaoke + combo timing"></textarea>
+      </label>
+      <label class="ck"><input id="lyricsDrive" type="checkbox" checked>
+        Use lyric lines to drive combos (approx. timing)</label>
+    </div>
+
+    <div class="card">
+      <h2><span class="card-no">03</span>Difficulty</h2>
+      <div class="knob" data-k="cs"
+           title="Circle Size — bigger value = smaller circles, harder to aim.">
+        <span>CS <i>(circle size)</i></span>
+        <input type="range" min="0" max="7" step="0.1"><b></b></div>
+      <div class="knob" data-k="ar"
+           title="Approach Rate — how fast approach circles shrink. Higher = less reaction time / more readable at speed.">
+        <span>AR <i>(approach rate)</i></span>
+        <input type="range" min="0" max="10" step="0.1"><b></b></div>
+      <div class="knob" data-k="od"
+           title="Overall Difficulty — hit-timing strictness. Higher = tighter accuracy window.">
+        <span>OD <i>(accuracy)</i></span>
+        <input type="range" min="0" max="10" step="0.1"><b></b></div>
+      <div class="knob" data-k="hp"
+           title="HP Drain — how fast health drains and how punishing misses are.">
+        <span>HP <i>(drain)</i></span>
+        <input type="range" min="0" max="10" step="0.1"><b></b></div>
+    </div>
+
+    <div class="card">
+      <h2><span class="card-no">04</span>Style knobs</h2>
+      <div class="knob accent" data-k="rhythm_lock"
+           title="Enforce the song's MAIN pulse. 0 = follow every detected onset (can catch ghost/off-beat transients between the real hits); higher = off-beat 1/8 &amp; 1/16 notes must be strongly played to survive, so the map rides the rhythm. Calm sections lock harder than drops. Raise this if a section's hitsounds feel off-beat, then Regenerate.">
+        <span>Rhythm lock <i>(on-pulse)</i></span>
+        <input type="range" min="0" max="1" step="0.05" value="0"><b></b></div>
+      <details id="secLock" class="seclock">
+        <summary>Per-section lock <i>(override the global knob)</i></summary>
+        <p class="hint">Tick a section to give it its own lock value; unticked
+          sections use the global Rhythm lock above (with calm parts auto-locked
+          harder than drops). Then Regenerate.</p>
+        <label class="sl-row" data-kind="intro"><input type="checkbox"
+          class="sl-on"><span class="sl-name">intro</span><input type="range"
+          class="sl-val" min="0" max="1" step="0.05" value="0.5"
+          disabled><b class="sl-out">—</b></label>
+        <label class="sl-row" data-kind="build"><input type="checkbox"
+          class="sl-on"><span class="sl-name">build</span><input type="range"
+          class="sl-val" min="0" max="1" step="0.05" value="0.4"
+          disabled><b class="sl-out">—</b></label>
+        <label class="sl-row" data-kind="verse"><input type="checkbox"
+          class="sl-on"><span class="sl-name">verse</span><input type="range"
+          class="sl-val" min="0" max="1" step="0.05" value="0.6"
+          disabled><b class="sl-out">—</b></label>
+        <label class="sl-row" data-kind="chorus"><input type="checkbox"
+          class="sl-on"><span class="sl-name">chorus</span><input type="range"
+          class="sl-val" min="0" max="1" step="0.05" value="0.3"
+          disabled><b class="sl-out">—</b></label>
+        <label class="sl-row" data-kind="drop"><input type="checkbox"
+          class="sl-on"><span class="sl-name">drop</span><input type="range"
+          class="sl-val" min="0" max="1" step="0.05" value="0.2"
+          disabled><b class="sl-out">—</b></label>
+        <label class="sl-row" data-kind="break"><input type="checkbox"
+          class="sl-on"><span class="sl-name">break</span><input type="range"
+          class="sl-val" min="0" max="1" step="0.05" value="0.7"
+          disabled><b class="sl-out">—</b></label>
+        <label class="sl-row" data-kind="outro"><input type="checkbox"
+          class="sl-on"><span class="sl-name">outro</span><input type="range"
+          class="sl-val" min="0" max="1" step="0.05" value="0.6"
+          disabled><b class="sl-out">—</b></label>
+      </details>
+      <div class="knob" data-k="slider_ratio"
+           title="Fraction of objects that are sliders vs clickable circles. High = flowy/slidery; low = aim-heavy.">
+        <span>Slider ratio</span>
+        <input type="range" min="0" max="0.85" step="0.01"><b></b></div>
+      <div class="knob" data-k="slider_dur_beats"
+           title="Default slider length in beats. Snapped to clean fractions; always leaves recovery before the next note.">
+        <span>Slider hold</span>
+        <input type="range" min="0.25" max="3" step="0.05"><b></b></div>
+      <div class="knob" data-k="objects_per_combo"
+           title="Objects between new combos (colour changes). Lower = more frequent combo/colour switches.">
+        <span>Objs / combo</span>
+        <input type="range" min="2" max="16" step="1"><b></b></div>
+      <div class="knob" data-k="spacing_slope"
+           title="How much spacing grows per beat of gap (in circle-radius units). Drives jump velocity.">
+        <span>Spacing slope</span>
+        <input type="range" min="0.1" max="6" step="0.05"><b></b></div>
+      <div class="knob" data-k="spacing_intercept"
+           title="Base spacing at zero time-gap (circle-radius units). Raises overall spread.">
+        <span>Spacing base</span>
+        <input type="range" min="0" max="6" step="0.05"><b></b></div>
+      <div class="knob" data-k="jump_factor"
+           title="Extra emphasis on ~1-beat jumps. Higher = punchier, more spaced jump patterns.">
+        <span>Jump factor</span>
+        <input type="range" min="0.3" max="8" step="0.05"><b></b></div>
+      <div class="knob" data-k="mean_turn_deg"
+           title="Average turn angle between objects. ~90° = sharp zig-zag; lower = rounder flow.">
+        <span>Turn angle°</span>
+        <input type="range" min="10" max="170" step="1"><b></b></div>
+      <div class="knob" data-k="flow_ratio"
+           title="Probability of a smooth (<90°) flowing turn vs a wide momentum-breaking angle.">
+        <span>Flow ratio</span>
+        <input type="range" min="0" max="1" step="0.01"><b></b></div>
+      <div class="knob" data-k="stream_rate"
+           title="How readily dense 1/4 runs become streams. Higher = more stream-heavy.">
+        <span>Stream rate</span>
+        <input type="range" min="0" max="0.9" step="0.01"><b></b></div>
+    </div>
+
+    <div class="actions actions-main">
+      <button id="gen">Generate / Regenerate</button>
+      <button id="reset" type="button" class="ghost" title="Clear the
+        loaded / imported map (and replay, taps, tempo) so you can generate
+        a fresh map from this same song">↺ Reset</button>
+      <a id="dl" class="btn" href="#" download>Download .osz</a>
+    </div>
+    <p id="msg"></p>
+  </aside>
+</main>
+
+<div id="dropmask"><div>Drop audio to load</div></div>
+<div id="fx" aria-hidden="true"></div>
+<script src="/static/app.js"></script>
+</body>
+</html>

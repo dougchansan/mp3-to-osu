@@ -1,0 +1,61 @@
+{
+  "mapper": "Skystar",
+  "n_maps": 62,
+  "n_objects_total": 53831,
+  "bpm_mean": 167.1613,
+  "bpm_std": 21.3649,
+  "cs_mean": 3.95,
+  "ar_mean": 8.3887,
+  "od_mean": 7.2935,
+  "circle_ratio": 0.5236,
+  "slider_ratio": 0.4733,
+  "spinner_ratio": 0.0031,
+  "rhythm_hist": {
+    "1/4": 0.1932,
+    "1/3": 0.0139,
+    "1/2": 0.3835,
+    "2/3": 0.0088,
+    "3/4": 0.0457,
+    "1/1": 0.202,
+    "3/2": 0.0654,
+    "2/1": 0.0547,
+    "2+": 0.0329
+  },
+  "type_transitions": {
+    "circle>circle": 0.3189,
+    "circle>slider": 0.2034,
+    "circle>spinner": 0.0015,
+    "slider>circle": 0.2048,
+    "slider>slider": 0.2677,
+    "slider>spinner": 0.0014,
+    "spinner>circle": 0.0004,
+    "spinner>slider": 0.0018,
+    "spinner>spinner": 0.0001
+  },
+  "spacing_slope": 2.8976,
+  "spacing_intercept": 1.8629,
+  "spacing_slope_std": 1.3562,
+  "jump_factor": 4.3602,
+  "mean_turn_deg": 96.3803,
+  "flow_ratio": 0.4239,
+  "objects_per_combo": 3.894,
+  "beats_per_combo": 3.3624,
+  "slider_dur_beats_med": 0.6015,
+  "curve_freq": {
+    "L": 0.3498,
+    "P": 0.0,
+    "B": 0.6502
+  },
+  "stream_rate": 0.1972,
+  "mean_stream_len": 3.5032,
+  "sample_versions": [
+    "Amamiya Nathan's Shooting Star (180bpm)",
+    "Extra (180bpm)",
+    "Len's Hard (180bpm)",
+    "toybot's Insane (180bpm)",
+    "Haru's Normal (180bpm)",
+    "ProBox's Extra (180bpm)",
+    "wkyik's Easy (180bpm)",
+    "Axarious' EX EX (180bpm)"
+  ]
+}

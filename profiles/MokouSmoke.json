@@ -1,0 +1,56 @@
+{
+  "mapper": "MokouSmoke",
+  "n_maps": 4,
+  "n_objects_total": 2006,
+  "bpm_mean": 177.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.625,
+  "ar_mean": 6.0,
+  "od_mean": 5.0,
+  "circle_ratio": 0.4542,
+  "slider_ratio": 0.5451,
+  "spinner_ratio": 0.0008,
+  "rhythm_hist": {
+    "1/4": 0.0756,
+    "1/3": 0.0,
+    "1/2": 0.2074,
+    "2/3": 0.0,
+    "3/4": 0.0041,
+    "1/1": 0.3145,
+    "3/2": 0.1613,
+    "2/1": 0.1458,
+    "2+": 0.0912
+  },
+  "type_transitions": {
+    "circle>circle": 0.1958,
+    "circle>slider": 0.2576,
+    "slider>circle": 0.2591,
+    "slider>slider": 0.2861,
+    "circle>spinner": 0.0005,
+    "spinner>slider": 0.0005,
+    "slider>spinner": 0.0003,
+    "spinner>circle": 0.0003
+  },
+  "spacing_slope": 2.2273,
+  "spacing_intercept": 1.1676,
+  "spacing_slope_std": 0.6141,
+  "jump_factor": 3.2159,
+  "mean_turn_deg": 86.1525,
+  "flow_ratio": 0.5166,
+  "objects_per_combo": 4.7875,
+  "beats_per_combo": 6.4675,
+  "slider_dur_beats_med": 0.875,
+  "curve_freq": {
+    "L": 0.4346,
+    "P": 0.3217,
+    "B": 0.2437
+  },
+  "stream_rate": 0.1073,
+  "mean_stream_len": 1.5775,
+  "sample_versions": [
+    "Easy (177bpm)",
+    "Hard (177bpm)",
+    "Lunatic (177bpm)",
+    "Normal (177bpm)"
+  ]
+}

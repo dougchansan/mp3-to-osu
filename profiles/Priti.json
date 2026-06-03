@@ -1,0 +1,58 @@
+{
+  "mapper": "Priti",
+  "n_maps": 6,
+  "n_objects_total": 2573,
+  "bpm_mean": 128.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.7833,
+  "ar_mean": 6.7667,
+  "od_mean": 6.5833,
+  "circle_ratio": 0.4518,
+  "slider_ratio": 0.5357,
+  "spinner_ratio": 0.0125,
+  "rhythm_hist": {
+    "1/4": 0.1937,
+    "1/3": 0.0086,
+    "1/2": 0.1922,
+    "2/3": 0.0,
+    "3/4": 0.0223,
+    "1/1": 0.3103,
+    "3/2": 0.0735,
+    "2/1": 0.1738,
+    "2+": 0.0257
+  },
+  "type_transitions": {
+    "circle>circle": 0.2615,
+    "circle>slider": 0.1798,
+    "circle>spinner": 0.0103,
+    "slider>circle": 0.1889,
+    "slider>slider": 0.3453,
+    "spinner>slider": 0.0094,
+    "slider>spinner": 0.0023,
+    "spinner>circle": 0.0026
+  },
+  "spacing_slope": 2.3374,
+  "spacing_intercept": 1.4652,
+  "spacing_slope_std": 0.8036,
+  "jump_factor": 3.8189,
+  "mean_turn_deg": 81.5717,
+  "flow_ratio": 0.5605,
+  "objects_per_combo": 4.2967,
+  "beats_per_combo": 4.9383,
+  "slider_dur_beats_med": 0.6667,
+  "curve_freq": {
+    "L": 0.4258,
+    "P": 0.4803,
+    "B": 0.0938
+  },
+  "stream_rate": 0.2294,
+  "mean_stream_len": 2.5917,
+  "sample_versions": [
+    "Easy (128bpm)",
+    "Geroversible's Extra (128bpm)",
+    "Paradise (128bpm)",
+    "Prikazuya's Insane (128bpm)",
+    "Pritiphyxia's Hard (128bpm)",
+    "Shadren's Normal (128bpm)"
+  ]
+}

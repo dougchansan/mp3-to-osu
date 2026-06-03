@@ -1,0 +1,55 @@
+{
+  "mapper": "ByBy13",
+  "n_maps": 6,
+  "n_objects_total": 634,
+  "bpm_mean": 165.0,
+  "bpm_std": 0.0,
+  "cs_mean": 4.0167,
+  "ar_mean": 6.8833,
+  "od_mean": 5.75,
+  "circle_ratio": 0.4544,
+  "slider_ratio": 0.5342,
+  "spinner_ratio": 0.0115,
+  "rhythm_hist": {
+    "1/4": 0.0607,
+    "1/3": 0.0,
+    "1/2": 0.3632,
+    "2/3": 0.0,
+    "3/4": 0.0022,
+    "1/1": 0.2605,
+    "3/2": 0.1209,
+    "2/1": 0.1316,
+    "2+": 0.0609
+  },
+  "type_transitions": {
+    "circle>circle": 0.2285,
+    "circle>slider": 0.2302,
+    "slider>circle": 0.2277,
+    "slider>slider": 0.3019,
+    "slider>spinner": 0.0116
+  },
+  "spacing_slope": 2.7301,
+  "spacing_intercept": 1.4482,
+  "spacing_slope_std": 0.8666,
+  "jump_factor": 3.6016,
+  "mean_turn_deg": 94.255,
+  "flow_ratio": 0.4548,
+  "objects_per_combo": 4.9267,
+  "beats_per_combo": 5.3617,
+  "slider_dur_beats_med": 0.6667,
+  "curve_freq": {
+    "L": 0.2265,
+    "P": 0.5972,
+    "B": 0.1763
+  },
+  "stream_rate": 0.0871,
+  "mean_stream_len": 1.5,
+  "sample_versions": [
+    "Auxent's Insane (165bpm)",
+    "Deep (165bpm)",
+    "Easy (165bpm)",
+    "Insane (165bpm)",
+    "Mk's Hard (165bpm)",
+    "Normal (165bpm)"
+  ]
+}

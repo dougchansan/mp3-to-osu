@@ -1,0 +1,52 @@
+{
+  "mapper": "yeahyeahyeahhh",
+  "n_maps": 4,
+  "n_objects_total": 1239,
+  "bpm_mean": 132.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.5,
+  "ar_mean": 5.25,
+  "od_mean": 4.5,
+  "circle_ratio": 0.5498,
+  "slider_ratio": 0.4502,
+  "spinner_ratio": 0.0,
+  "rhythm_hist": {
+    "1/4": 0.018,
+    "1/3": 0.0,
+    "1/2": 0.2129,
+    "2/3": 0.0,
+    "3/4": 0.0079,
+    "1/1": 0.3805,
+    "3/2": 0.0996,
+    "2/1": 0.1876,
+    "2+": 0.0934
+  },
+  "type_transitions": {
+    "circle>circle": 0.3358,
+    "circle>slider": 0.2124,
+    "slider>circle": 0.216,
+    "slider>slider": 0.2359
+  },
+  "spacing_slope": 1.3183,
+  "spacing_intercept": 2.0046,
+  "spacing_slope_std": 0.238,
+  "jump_factor": 3.088,
+  "mean_turn_deg": 81.195,
+  "flow_ratio": 0.5808,
+  "objects_per_combo": 3.4275,
+  "beats_per_combo": 5.4025,
+  "slider_dur_beats_med": 1.1875,
+  "curve_freq": {
+    "L": 0.0,
+    "P": 0.0,
+    "B": 1.0
+  },
+  "stream_rate": 0.0174,
+  "mean_stream_len": 1.1775,
+  "sample_versions": [
+    "EASY STYLE (132bpm)",
+    "HARD STYLE (132bpm)",
+    "NORMAL STYLE (132bpm)",
+    "OPPAN YEAH30 STYLE (132bpm)"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "mapper": "Kyshiro",
+  "n_maps": 5,
+  "n_objects_total": 739,
+  "bpm_mean": 150.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.62,
+  "ar_mean": 6.7,
+  "od_mean": 5.6,
+  "circle_ratio": 0.4455,
+  "slider_ratio": 0.5458,
+  "spinner_ratio": 0.0087,
+  "rhythm_hist": {
+    "1/4": 0.0941,
+    "1/3": 0.0,
+    "1/2": 0.3225,
+    "2/3": 0.0,
+    "3/4": 0.0255,
+    "1/1": 0.3439,
+    "3/2": 0.0379,
+    "2/1": 0.1387,
+    "2+": 0.0374
+  },
+  "type_transitions": {
+    "circle>circle": 0.2075,
+    "circle>slider": 0.23,
+    "slider>circle": 0.2344,
+    "slider>slider": 0.3127,
+    "slider>spinner": 0.0037,
+    "spinner>circle": 0.0066,
+    "circle>spinner": 0.0029,
+    "spinner>spinner": 0.0021
+  },
+  "spacing_slope": 2.4499,
+  "spacing_intercept": 1.4757,
+  "spacing_slope_std": 1.8637,
+  "jump_factor": 3.3656,
+  "mean_turn_deg": 86.084,
+  "flow_ratio": 0.5292,
+  "objects_per_combo": 4.308,
+  "beats_per_combo": 4.784,
+  "slider_dur_beats_med": 0.75,
+  "curve_freq": {
+    "L": 0.4604,
+    "P": 0.4916,
+    "B": 0.048
+  },
+  "stream_rate": 0.0877,
+  "mean_stream_len": 1.814,
+  "sample_versions": [
+    "Easy (150bpm)",
+    "Hard (150bpm)",
+    "Meme (150bpm)",
+    "Normal (150bpm)",
+    "toybot's Insane (150bpm)"
+  ]
+}

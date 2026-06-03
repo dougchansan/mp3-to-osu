@@ -1,0 +1,56 @@
+{
+  "mapper": "LoliSora",
+  "n_maps": 4,
+  "n_objects_total": 1203,
+  "bpm_mean": 170.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.5,
+  "ar_mean": 6.0,
+  "od_mean": 4.25,
+  "circle_ratio": 0.5086,
+  "slider_ratio": 0.486,
+  "spinner_ratio": 0.0054,
+  "rhythm_hist": {
+    "1/4": 0.0549,
+    "1/3": 0.0,
+    "1/2": 0.1994,
+    "2/3": 0.0,
+    "3/4": 0.0051,
+    "1/1": 0.3392,
+    "3/2": 0.0505,
+    "2/1": 0.1484,
+    "2+": 0.2025
+  },
+  "type_transitions": {
+    "circle>circle": 0.3069,
+    "circle>slider": 0.2006,
+    "slider>circle": 0.2014,
+    "slider>slider": 0.2844,
+    "slider>spinner": 0.0023,
+    "circle>spinner": 0.0032,
+    "spinner>circle": 0.0006,
+    "spinner>slider": 0.0006
+  },
+  "spacing_slope": 1.7833,
+  "spacing_intercept": 1.2378,
+  "spacing_slope_std": 0.7721,
+  "jump_factor": 2.7746,
+  "mean_turn_deg": 95.9875,
+  "flow_ratio": 0.4417,
+  "objects_per_combo": 4.2125,
+  "beats_per_combo": 6.6525,
+  "slider_dur_beats_med": 1.25,
+  "curve_freq": {
+    "L": 0.0,
+    "P": 0.0,
+    "B": 1.0
+  },
+  "stream_rate": 0.0774,
+  "mean_stream_len": 1.715,
+  "sample_versions": [
+    "Another (170bpm)",
+    "Beginner (170bpm)",
+    "Hyper (170bpm)",
+    "Standard (170bpm)"
+  ]
+}

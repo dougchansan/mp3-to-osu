@@ -1,0 +1,61 @@
+{
+  "mapper": "Monstrata",
+  "n_maps": 489,
+  "n_objects_total": 212378,
+  "bpm_mean": 164.9064,
+  "bpm_std": 35.4169,
+  "cs_mean": 3.7716,
+  "ar_mean": 7.4569,
+  "od_mean": 6.4374,
+  "circle_ratio": 0.4467,
+  "slider_ratio": 0.5493,
+  "spinner_ratio": 0.004,
+  "rhythm_hist": {
+    "1/4": 0.1169,
+    "1/3": 0.013,
+    "1/2": 0.3007,
+    "2/3": 0.0048,
+    "3/4": 0.0384,
+    "1/1": 0.2722,
+    "3/2": 0.0897,
+    "2/1": 0.1184,
+    "2+": 0.0459
+  },
+  "type_transitions": {
+    "circle>circle": 0.2369,
+    "circle>slider": 0.2082,
+    "circle>spinner": 0.0021,
+    "slider>circle": 0.2104,
+    "slider>slider": 0.3386,
+    "slider>spinner": 0.0014,
+    "spinner>slider": 0.0016,
+    "spinner>circle": 0.0003,
+    "spinner>spinner": 0.0004
+  },
+  "spacing_slope": 1.9835,
+  "spacing_intercept": 2.0034,
+  "spacing_slope_std": 1.5358,
+  "jump_factor": 3.6564,
+  "mean_turn_deg": 94.9814,
+  "flow_ratio": 0.4363,
+  "objects_per_combo": 4.1406,
+  "beats_per_combo": 4.3442,
+  "slider_dur_beats_med": 0.6895,
+  "curve_freq": {
+    "L": 0.4307,
+    "P": 0.0,
+    "B": 0.5693
+  },
+  "stream_rate": 0.1122,
+  "mean_stream_len": 2.6359,
+  "sample_versions": [
+    "Let's show them A r M i N's Light Insane stance. (191bpm)",
+    "Let's show them Forest's Easy stance. (191bpm)",
+    "Let's show them Chaoz's Extra stance. (191bpm)",
+    "Joey's Hyper (182bpm)",
+    "Rhetoric (70bpm)",
+    "Let's show them Habi's Insane stance. (191bpm)",
+    "Blooming (111bpm)",
+    "The Eclipse (195bpm)"
+  ]
+}

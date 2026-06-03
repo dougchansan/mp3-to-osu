@@ -1,0 +1,55 @@
+{
+  "mapper": "ProfessionalBox",
+  "n_maps": 4,
+  "n_objects_total": 2820,
+  "bpm_mean": 176.0,
+  "bpm_std": 0.0,
+  "cs_mean": 4.0,
+  "ar_mean": 9.3,
+  "od_mean": 7.925,
+  "circle_ratio": 0.4157,
+  "slider_ratio": 0.5831,
+  "spinner_ratio": 0.0012,
+  "rhythm_hist": {
+    "1/4": 0.1114,
+    "1/3": 0.0,
+    "1/2": 0.5131,
+    "2/3": 0.0,
+    "3/4": 0.0058,
+    "1/1": 0.3196,
+    "3/2": 0.0277,
+    "2/1": 0.0182,
+    "2+": 0.0043
+  },
+  "type_transitions": {
+    "circle>circle": 0.268,
+    "circle>slider": 0.1476,
+    "slider>circle": 0.1476,
+    "slider>slider": 0.4352,
+    "circle>spinner": 0.0004,
+    "slider>spinner": 0.0004,
+    "spinner>slider": 0.0008
+  },
+  "spacing_slope": 1.9199,
+  "spacing_intercept": 3.4895,
+  "spacing_slope_std": 0.3883,
+  "jump_factor": 5.2843,
+  "mean_turn_deg": 111.27,
+  "flow_ratio": 0.2756,
+  "objects_per_combo": 2.8425,
+  "beats_per_combo": 2.135,
+  "slider_dur_beats_med": 0.4375,
+  "curve_freq": {
+    "L": 0.3404,
+    "P": 0.3432,
+    "B": 0.3164
+  },
+  "stream_rate": 0.1193,
+  "mean_stream_len": 8.86,
+  "sample_versions": [
+    "Ameth's Extra (176bpm)",
+    "eXiStEnCe (176bpm)",
+    "LCFC's Insane (176bpm)",
+    "nEiLsInG's eXtRa (176bpm)"
+  ]
+}

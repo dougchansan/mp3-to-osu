@@ -1,0 +1,59 @@
+{
+  "mapper": "Haruto",
+  "n_maps": 14,
+  "n_objects_total": 6823,
+  "bpm_mean": 159.8571,
+  "bpm_std": 33.4298,
+  "cs_mean": 3.65,
+  "ar_mean": 8.0571,
+  "od_mean": 6.7571,
+  "circle_ratio": 0.4277,
+  "slider_ratio": 0.57,
+  "spinner_ratio": 0.0023,
+  "rhythm_hist": {
+    "1/4": 0.163,
+    "1/3": 0.0017,
+    "1/2": 0.3286,
+    "2/3": 0.0003,
+    "3/4": 0.0446,
+    "1/1": 0.2539,
+    "3/2": 0.0766,
+    "2/1": 0.1151,
+    "2+": 0.0163
+  },
+  "type_transitions": {
+    "circle>circle": 0.2156,
+    "circle>slider": 0.2111,
+    "slider>circle": 0.2124,
+    "slider>slider": 0.3579,
+    "circle>spinner": 0.0019,
+    "spinner>slider": 0.0006,
+    "slider>spinner": 0.0005
+  },
+  "spacing_slope": 2.5244,
+  "spacing_intercept": 1.9364,
+  "spacing_slope_std": 1.1922,
+  "jump_factor": 4.1593,
+  "mean_turn_deg": 100.265,
+  "flow_ratio": 0.3881,
+  "objects_per_combo": 4.5736,
+  "beats_per_combo": 4.2207,
+  "slider_dur_beats_med": 0.6399,
+  "curve_freq": {
+    "L": 0.3518,
+    "P": 0.512,
+    "B": 0.1362
+  },
+  "stream_rate": 0.1676,
+  "mean_stream_len": 2.8336,
+  "sample_versions": [
+    "ancel's insane (107bpm)",
+    "answer me (107bpm)",
+    "smh's hard (107bpm)",
+    "tomatsu's expert (107bpm)",
+    "apple's Insane (181bpm)",
+    "Easy (181bpm)",
+    "Extra (181bpm)",
+    "Ipas' Expert (181bpm)"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "mapper": "Pachiru",
+  "n_maps": 11,
+  "n_objects_total": 2654,
+  "bpm_mean": 144.9091,
+  "bpm_std": 3.8484,
+  "cs_mean": 3.6818,
+  "ar_mean": 6.5,
+  "od_mean": 5.1364,
+  "circle_ratio": 0.4576,
+  "slider_ratio": 0.5387,
+  "spinner_ratio": 0.0037,
+  "rhythm_hist": {
+    "1/4": 0.0438,
+    "1/3": 0.0,
+    "1/2": 0.2157,
+    "2/3": 0.0,
+    "3/4": 0.0192,
+    "1/1": 0.3822,
+    "3/2": 0.1152,
+    "2/1": 0.1635,
+    "2+": 0.0605
+  },
+  "type_transitions": {
+    "circle>slider": 0.2405,
+    "circle>spinner": 0.0023,
+    "slider>circle": 0.2446,
+    "slider>slider": 0.2945,
+    "spinner>slider": 0.0019,
+    "spinner>spinner": 0.0009,
+    "circle>circle": 0.2138,
+    "spinner>circle": 0.0009,
+    "slider>spinner": 0.0005
+  },
+  "spacing_slope": 1.613,
+  "spacing_intercept": 1.6832,
+  "spacing_slope_std": 0.7072,
+  "jump_factor": 3.0697,
+  "mean_turn_deg": 80.1473,
+  "flow_ratio": 0.5836,
+  "objects_per_combo": 4.8373,
+  "beats_per_combo": 6.4082,
+  "slider_dur_beats_med": 0.875,
+  "curve_freq": {
+    "L": 0.3902,
+    "P": 0.5023,
+    "B": 0.1075
+  },
+  "stream_rate": 0.0395,
+  "mean_stream_len": 1.44,
+  "sample_versions": [
+    "Gabe's Easy (142bpm)",
+    "Hard (142bpm)",
+    "Hyper (142bpm)",
+    "Insane (142bpm)",
+    "Kin's Solitude (142bpm)",
+    "Noffichiru's Advanced (142bpm)",
+    "Secretpipe's Normal (142bpm)",
+    "Gabe's Hard (150bpm)"
+  ]
+}

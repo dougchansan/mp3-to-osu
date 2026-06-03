@@ -1,0 +1,58 @@
+{
+  "mapper": "Tarrasky",
+  "n_maps": 7,
+  "n_objects_total": 2472,
+  "bpm_mean": 180.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.8571,
+  "ar_mean": 7.5143,
+  "od_mean": 6.5286,
+  "circle_ratio": 0.4339,
+  "slider_ratio": 0.5643,
+  "spinner_ratio": 0.0019,
+  "rhythm_hist": {
+    "1/4": 0.0163,
+    "1/3": 0.0,
+    "1/2": 0.3274,
+    "2/3": 0.0,
+    "3/4": 0.0028,
+    "1/1": 0.366,
+    "3/2": 0.0624,
+    "2/1": 0.1525,
+    "2+": 0.0725
+  },
+  "type_transitions": {
+    "circle>circle": 0.2561,
+    "circle>slider": 0.1751,
+    "slider>circle": 0.1755,
+    "slider>slider": 0.3896,
+    "slider>spinner": 0.0013,
+    "spinner>circle": 0.0019,
+    "circle>spinner": 0.0006
+  },
+  "spacing_slope": 1.2934,
+  "spacing_intercept": 3.2079,
+  "spacing_slope_std": 0.9608,
+  "jump_factor": 4.4253,
+  "mean_turn_deg": 102.24,
+  "flow_ratio": 0.3908,
+  "objects_per_combo": 4.9614,
+  "beats_per_combo": 6.2057,
+  "slider_dur_beats_med": 0.6429,
+  "curve_freq": {
+    "L": 0.4221,
+    "P": 0.4821,
+    "B": 0.0958
+  },
+  "stream_rate": 0.0203,
+  "mean_stream_len": 2.1429,
+  "sample_versions": [
+    "Gold (180bpm)",
+    "Irrelvis' Diamond (180bpm)",
+    "Master (180bpm)",
+    "Mismagius' Challenger (180bpm)",
+    "Platinum (180bpm)",
+    "Setorrasky's Bronze (180bpm)",
+    "SrTarra's Silver (180bpm)"
+  ]
+}

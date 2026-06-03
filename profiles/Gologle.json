@@ -1,0 +1,60 @@
+{
+  "mapper": "Gologle",
+  "n_maps": 9,
+  "n_objects_total": 5740,
+  "bpm_mean": 160.0,
+  "bpm_std": 0.0,
+  "cs_mean": 4.0111,
+  "ar_mean": 8.7556,
+  "od_mean": 7.4444,
+  "circle_ratio": 0.6928,
+  "slider_ratio": 0.3043,
+  "spinner_ratio": 0.0028,
+  "rhythm_hist": {
+    "1/4": 0.0633,
+    "1/3": 0.0,
+    "1/2": 0.5174,
+    "2/3": 0.0,
+    "3/4": 0.0053,
+    "1/1": 0.258,
+    "3/2": 0.089,
+    "2/1": 0.0521,
+    "2+": 0.015
+  },
+  "type_transitions": {
+    "circle>circle": 0.5076,
+    "circle>slider": 0.1832,
+    "slider>circle": 0.1854,
+    "slider>slider": 0.119,
+    "circle>spinner": 0.0016,
+    "spinner>slider": 0.0018,
+    "slider>spinner": 0.0004,
+    "spinner>circle": 0.0011
+  },
+  "spacing_slope": 0.9107,
+  "spacing_intercept": 3.996,
+  "spacing_slope_std": 0.5842,
+  "jump_factor": 5.0035,
+  "mean_turn_deg": 114.1356,
+  "flow_ratio": 0.2717,
+  "objects_per_combo": 5.3,
+  "beats_per_combo": 4.4267,
+  "slider_dur_beats_med": 0.6667,
+  "curve_freq": {
+    "L": 0.3997,
+    "P": 0.5454,
+    "B": 0.0549
+  },
+  "stream_rate": 0.0697,
+  "mean_stream_len": 9.0678,
+  "sample_versions": [
+    "Extra (160bpm)",
+    "Freezing (160bpm)",
+    "Frozen (160bpm)",
+    "Infamous Hype (160bpm)",
+    "Insane (160bpm)",
+    "Normal (160bpm)",
+    "Rikka's dunno (160bpm)",
+    "saggi's Iceless (160bpm)"
+  ]
+}

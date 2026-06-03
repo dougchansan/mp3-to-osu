@@ -1,0 +1,51 @@
+# ---- Python -------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+
+# ---- generated / scratch output -----------------------------------------
+output/
+output_web/
+output_struct/
+output_style/
+tests/_tmp/
+web_server.log
+web_server.log.err
+*.log
+
+# ---- COPYRIGHT: never publish other people's maps, music, or osu! assets -
+# Downloaded map corpora (other mappers' beatmaps, pulled via the osu! API).
+corpus_fetch/
+# Beatmaps zipped from a local osu! Songs library (copyrighted audio + maps).
+replay_maps/
+# NOTE: profiles/ (learned style stats) ARE published — they hold only numbers
+# + difficulty-name strings, no map/audio data.
+# osu!'s default skin samples are NOT MIT — fetch them locally, don't commit.
+src/mp3_to_osu/web/static/sounds/
+
+# ---- media / binaries (safety net so none slip in) ----------------------
+*.mp3
+*.ogg
+*.wav
+*.flac
+*.m4a
+*.aac
+*.osz
+*.osr
+*.osu
+
+# ---- secrets / local config ---------------------------------------------
+.env
+*.secret
+osu_credentials*
+
+# ---- OS / editor --------------------------------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

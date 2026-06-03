@@ -1,0 +1,56 @@
+{
+  "mapper": "Julie",
+  "n_maps": 5,
+  "n_objects_total": 967,
+  "bpm_mean": 155.0,
+  "bpm_std": 0.0,
+  "cs_mean": 3.4,
+  "ar_mean": 6.2,
+  "od_mean": 4.6,
+  "circle_ratio": 0.5029,
+  "slider_ratio": 0.4888,
+  "spinner_ratio": 0.0082,
+  "rhythm_hist": {
+    "1/4": 0.1028,
+    "1/3": 0.0,
+    "1/2": 0.2291,
+    "2/3": 0.0,
+    "3/4": 0.0193,
+    "1/1": 0.217,
+    "3/2": 0.0914,
+    "2/1": 0.1747,
+    "2+": 0.1657
+  },
+  "type_transitions": {
+    "circle>circle": 0.28,
+    "circle>slider": 0.2239,
+    "slider>circle": 0.2227,
+    "slider>slider": 0.2644,
+    "slider>spinner": 0.0064,
+    "circle>spinner": 0.002,
+    "spinner>circle": 0.0006
+  },
+  "spacing_slope": 2.1234,
+  "spacing_intercept": 1.2396,
+  "spacing_slope_std": 0.9811,
+  "jump_factor": 3.1033,
+  "mean_turn_deg": 82.524,
+  "flow_ratio": 0.5376,
+  "objects_per_combo": 4.452,
+  "beats_per_combo": 5.666,
+  "slider_dur_beats_med": 1.1,
+  "curve_freq": {
+    "L": 0.1402,
+    "P": 0.7187,
+    "B": 0.141
+  },
+  "stream_rate": 0.1131,
+  "mean_stream_len": 1.988,
+  "sample_versions": [
+    "Easy (155bpm)",
+    "Hard (155bpm)",
+    "Insane (155bpm)",
+    "Kinomi's Insane (155bpm)",
+    "Normal (155bpm)"
+  ]
+}
