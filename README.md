@@ -13,15 +13,11 @@ DRM-protected and can't be read — supply the audio file yourself.)
 
 ## Demo
 
-> Studio: live osu!-style auto-play replay synced to the song, a spectral
-> visualizer, beat-locked hit-sounds, and a hit-error HUD.
+![mp3-to-osu studio demo](docs/demo.gif)
 
-![mp3-to-osu studio](docs/studio.png)
-
-<!-- VIDEO: drag a screen-capture (.mp4) into this section while editing the
-     README on github.com — GitHub hosts it and inserts a player here. Use a
-     track you have the rights to (or the metronome/hit-sounds only); don't
-     embed copyrighted music in the public repo. -->
+Live osu!-style auto-play replay synced to the song — spectral visualizer,
+multi-lane rhythm ruler, beat-locked hit-sounds, per-section rhythm lock and a
+hit-error HUD. *(Silent GIF — the studio itself plays audio.)*
 
 
 ## Install
