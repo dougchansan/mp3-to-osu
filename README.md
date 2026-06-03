@@ -5,12 +5,24 @@ The pipeline detects tempo and rhythm, then places circles and sliders using
 flow heuristics inspired by Monstrata-style mapping (constant-velocity spacing,
 momentum-conserving wide angles, smooth curved streams).
 
-## Important: the Spotify link
+## What you need
 
-Spotify audio is DRM-protected and **cannot be downloaded** via the API or a
-share link. This tool works on a **local audio file you supply** (`.mp3`,
-`.ogg`, `.wav`, `.flac`). To map the track you linked, obtain the audio file
-through a source you're entitled to use, then point the tool at it.
+A **local audio file** — `.mp3`, `.ogg`, `.wav`, or `.flac`. Point the CLI or
+the browser studio at it and you get a playable `.osz`. (Streaming links are
+DRM-protected and can't be read — supply the audio file yourself.)
+
+## Demo
+
+> Studio: live osu!-style auto-play replay synced to the song, a spectral
+> visualizer, beat-locked hit-sounds, and a hit-error HUD.
+
+![mp3-to-osu studio](docs/studio.png)
+
+<!-- VIDEO: drag a screen-capture (.mp4) into this section while editing the
+     README on github.com — GitHub hosts it and inserts a player here. Use a
+     track you have the rights to (or the metronome/hit-sounds only); don't
+     embed copyrighted music in the public repo. -->
+
 
 ## Install
 
